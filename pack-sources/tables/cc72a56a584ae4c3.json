@@ -1,0 +1,171 @@
+{
+  "_id": "cc72a56a584ae4c3",
+  "name": "Lesões Incapacitantes",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 65 (páginas impressas 128–129).",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "911553c5ace11811",
+      "type": 0,
+      "text": "Perdeu um olho: desvantagem em ataques à distância.",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.911553c5ace11811"
+    },
+    {
+      "_id": "86a0b292c42fbd18",
+      "type": 0,
+      "text": "Dedos carcomidos por congelamento: dificuldade em tarefas de coordenação fina.",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.86a0b292c42fbd18"
+    },
+    {
+      "_id": "80bfe89d9f5775d1",
+      "type": 0,
+      "text": "Costelas rachadas: facilmente fatigado após combate.",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.80bfe89d9f5775d1"
+    },
+    {
+      "_id": "be17ecf16d1cdca1",
+      "type": 0,
+      "text": "Marcado pelo veneno: desvantagem em Testes contra envenenamento ou febre.",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.be17ecf16d1cdca1"
+    },
+    {
+      "_id": "043478d0d781c10e",
+      "type": 0,
+      "text": "Perna manca: desvantagem em Testes contra ficar prostrado.",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.043478d0d781c10e"
+    },
+    {
+      "_id": "925b443b65130cf9",
+      "type": 0,
+      "text": "Ferimento na cabeça: dores de cabeça e dificuldade de concentração.",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.925b443b65130cf9"
+    },
+    {
+      "_id": "c70147fa3d8d5d1d",
+      "type": 0,
+      "text": "Pulmão congelado: falta de ar no esforço físico.",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.c70147fa3d8d5d1d"
+    },
+    {
+      "_id": "9518ac615287f1a5",
+      "type": 0,
+      "text": "Mão mutilada: força de preensão reduzida.",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.9518ac615287f1a5"
+    },
+    {
+      "_id": "a5272141a1b42bba",
+      "type": 0,
+      "text": "Surdez de um ouvido: dificuldade em localizar sons.",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.a5272141a1b42bba"
+    },
+    {
+      "_id": "2c3c972f375dc851",
+      "type": 0,
+      "text": "Queimaduras necróticas: repouso recupera metade dos PV.",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.2c3c972f375dc851"
+    },
+    {
+      "_id": "6c4a50dc6022a130",
+      "type": 0,
+      "text": "Alma drenada: desvantagem em Força.",
+      "range": [
+        11,
+        11
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.6c4a50dc6022a130"
+    },
+    {
+      "_id": "8c3dabb10a9e373f",
+      "type": 0,
+      "text": "Espinha rachada: movimento rígido; na próxima vez que ficar Quebrado, morre.",
+      "range": [
+        12,
+        12
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!cc72a56a584ae4c3.8c3dabb10a9e373f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!cc72a56a584ae4c3"
+}

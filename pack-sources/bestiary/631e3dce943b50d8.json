@@ -1,0 +1,130 @@
+{
+  "_id": "631e3dce943b50d8",
+  "name": "Miragem Emboscadora",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/miragem-emboscadora.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Alfheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 28 (páginas impressas 54–55).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "ab3ae3e2783637c0",
+      "name": "Lâminas de Areia",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Miragem Emboscadora. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 28 (páginas impressas 54–55).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!631e3dce943b50d8.ab3ae3e2783637c0"
+    },
+    {
+      "_id": "33b399bf8a739465",
+      "name": "Múltiplas Miragens",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "CD15 para atingir; CD10 com armas mágicas ou inscritas com Runas.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 28 (páginas impressas 54–55).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!631e3dce943b50d8.33b399bf8a739465"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Miragem Emboscadora",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/miragem-emboscadora.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.0c746c70e66b5bcb"
+    }
+  },
+  "folder": "8514cb292f74651b",
+  "_key": "!actors!631e3dce943b50d8"
+}

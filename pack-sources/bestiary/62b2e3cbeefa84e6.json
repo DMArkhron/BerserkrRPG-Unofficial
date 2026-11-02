@@ -1,0 +1,165 @@
+{
+  "_id": "62b2e3cbeefa84e6",
+  "name": "Guardião Vanir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/guardiao-vanir.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 6,
+      "max": 6
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Vanaheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 20 (páginas impressas 38–39).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "59988bdffad24f78",
+      "name": "Arco Retorcido — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Guardião Vanir. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 20 (páginas impressas 38–39).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!62b2e3cbeefa84e6.59988bdffad24f78"
+    },
+    {
+      "_id": "107ba64c32594bf9",
+      "name": "Proteção de Guardião Vanir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 20 (páginas impressas 38–39).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!62b2e3cbeefa84e6.107ba64c32594bf9"
+    },
+    {
+      "_id": "549f98a7728fdd34",
+      "name": "Véu de Folhas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Uma vez por combate, torna a si ou aliado invisível em camuflagem de folhas até atacar.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 20 (páginas impressas 38–39).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!62b2e3cbeefa84e6.549f98a7728fdd34"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Guardião Vanir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/guardiao-vanir.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.637dcdfdf402d26c"
+    }
+  },
+  "folder": "7e2613f4b05c85c2",
+  "_key": "!actors!62b2e3cbeefa84e6"
+}

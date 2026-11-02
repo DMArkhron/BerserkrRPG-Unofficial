@@ -1,0 +1,40 @@
+{
+  "_id": "8eea59a9ed3f33f8",
+  "name": "Manto das Almas Esquecidas",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/8eea59a9ed3f33f8.png",
+  "system": {
+    "description": "Uma vez por dia, invisibilidade nas sombras por d4 rodadas.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 55 (páginas impressas 108–109).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!8eea59a9ed3f33f8"
+}

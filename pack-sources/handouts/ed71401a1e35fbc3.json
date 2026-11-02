@@ -1,0 +1,28 @@
+{
+  "_id": "ed71401a1e35fbc3",
+  "name": "Protetor de Idunn",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "a5c52772ed140542",
+      "name": "Protetor de Idunn",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/protetor-de-idunn.webp\" alt=\"Protetor de Idunn\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Protetor de Idunn</h2><p>Guardião do pomar de Idunn, com corpo e aparência ligados às árvores que protege. Defende a vitalidade do bosque contra os intrusos.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.aa95a8dc66f3e0d1]{Ficha de Protetor de Idunn}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!ed71401a1e35fbc3.a5c52772ed140542"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.aa95a8dc66f3e0d1"
+    }
+  },
+  "_key": "!journal!ed71401a1e35fbc3"
+}

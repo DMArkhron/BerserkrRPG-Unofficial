@@ -1,0 +1,165 @@
+{
+  "_id": "14f971016de4f620",
+  "name": "Bergresi",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/bergresi.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 3,
+      "max": 3
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Jötunheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "8c9068db98a7d2aa",
+      "name": "Punhos de Pedra",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Bergresi. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!14f971016de4f620.8c9068db98a7d2aa"
+    },
+    {
+      "_id": "a469cc743a79a5b7",
+      "name": "Proteção de Bergresi",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d4",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!14f971016de4f620.a469cc743a79a5b7"
+    },
+    {
+      "_id": "d68422e53e678706",
+      "name": "Fundir-se às Pedras",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Não pode ser atingido dentro de terreno sólido. Emerge para atacar, fica vulnerável e recua na rodada seguinte.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!14f971016de4f620.d68422e53e678706"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Bergresi",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/bergresi.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.a814d654ba2b3328"
+    }
+  },
+  "folder": "eca273978e2ab80a",
+  "_key": "!actors!14f971016de4f620"
+}

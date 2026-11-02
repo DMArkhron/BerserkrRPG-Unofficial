@@ -1,0 +1,235 @@
+{
+  "_id": "e0d2a006d446fe75",
+  "name": "Heimdall",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/heimdall.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 55,
+      "max": 55
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +2CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 83 (páginas impressas 164–165).",
+    "defenseBonus": 2
+  },
+  "items": [
+    {
+      "_id": "95507f053e56fb37",
+      "name": "Hofund",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Heimdall. Chefe divino. Aplica +2CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 83 (páginas impressas 164–165).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e0d2a006d446fe75.95507f053e56fb37"
+    },
+    {
+      "_id": "61cd96e8a7ecc21a",
+      "name": "Bifrost — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Heimdall. Chefe divino. Aplica +2CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6+4",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 83 (páginas impressas 164–165).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e0d2a006d446fe75.61cd96e8a7ecc21a"
+    },
+    {
+      "_id": "a764a958862d4ba2",
+      "name": "Proteção de Heimdall",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 83 (páginas impressas 164–165).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e0d2a006d446fe75.a764a958862d4ba2"
+    },
+    {
+      "_id": "98195bf913c65f85",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Armadura Asgardiana Dourada\n\nHofund\n\nBerrante de Gjallarhorn A Visão do Guardião\n\nSentido de Batalha\n\nEsplendor Ofuscante\n\nResistência Final\n\nO Juramento de Heimdall Golpe da Bifrost\n\n+2CD em todas as Defesas do PJ\n\nA espada de Heimdall, Hofund, brilha com energia divina. Se um personagem obtiver um desastre na defesa, a espada libera uma onda de choque, repelindo todos os inimigos. Teste Agilidade CD16 para não ser derrubado.\n\nQuando levado ao limite, Heimdall se torna uma muralha de defesa inflexível, personificando a última esperança de Asgard.\n\nSe a derrota for certa, Heimdall se sacrifica num golpe final e devastador. Todos os inimigos próximos a ele sofrem 4d6 de dano. Seu ato final é a lealdade ao seu dever inabalável.\n\nQuando Heimdall soprar o Gjallarhorn, o som abala a própria realidade, convocando o Vakten em seu auxílio e levando o medo a todos os que o ouvirem.\n\nHeimdall convoca d4 Vakten.\n\nO som do Gjallarhorn obriga todos os inimigos que o ouvirem a Testar Esperteza CD14 para não ficarem atordoados por 1 rodada.\n\nOs olhos oniscientes de Heimdall atravessam sombras e mentiras. Ele antecipa até mesmo ataques que sequer foram iniciados.\n\nDificulte um ataque à distância por rodada em +2CD, pois esta divindade prevê o ataque antes que ele aconteça.\n\nA percepção incomparável de Heimdall o transforma em um turbilhão de precisão divina.\n\nUma vez por combate, Heimdall pode optar por agir três vezes em uma só rodada, fazendo três ataques.\n\nHeimdall consegue canalizar a energia radiante da Bifrost, liberando uma luz ofuscante. Os inimigos que estiverem próximos a Heimdall precisam Testar Astúcia CD12 para não serem cegados por 1 rodada.\n\nUm raio escaldante da Bifrost desce dos céus sob o comando de Heimdall, dilacerando seus inimigos como o julgamento de um deus furioso.\n\nHeimdall convoca um raio da Bifrost, capaz de atingir até dois inimigos. Cada um precisa Testar Agilidade CD14 para não sofrer d8+2 de dano. Se o alvo estiver usando uma armadura sem inscrições, ele sofrerá desvantagem em sua próxima defesa.\n\n55 −d2\n\nd10+3\n\nAtiva-se com PV<15 uma vez por combate a cada rodada\n\numa vez por combate\n\nd6+4 distância\n\numa vez por combate\n\n× Heimdall recebe +2 de armadura.\n\n× Ele adiciona +2CD em todas as defesas dos PJ.\n\n× Nesse estado, Heimdall também ataca duas vezes por rodada, recusando-se a cair sem lutar.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 83 (páginas impressas 164–165).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e0d2a006d446fe75.98195bf913c65f85"
+    },
+    {
+      "_id": "cbc90b55a6bfee24",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Heimdall Sentidos Aguçados.Heimdall não é apenas um combatente — ele é um observador, sempre um passo à frente. Use Visão do Guardião para frustrar ataques à distância e fazer Heimdall parecer intocável.\n\nControle o Campo.Habilidades como Gjallarhorn e Fulgor Ofuscante fazem de Heimdall um mestre no controle de campo. Cegue, atordoe e convoque aliados para sobrecarregar o grupo enquanto Heimdall os elimina metodicamente.\n\nResistência Final.Heimdall deve lutar com mais afinco quando estiver mais vulnerável. Dê ênfase para Resistência Final, fazendo com que os jogadores sintam que estão lutando contra uma força irremovível. O Juramento dele deve ser um último e aterrador lembrete da sua dedicação a Asgard.\n\nEspólios e Recompensas Gjallarhorn. Este berrante lendário pode ser tocado uma vez por dia para atordoar todos os inimigos ao alcance da audição por uma rodada. Teste Esperteza CD14 para ativar.\n\nHofund. Uma poderosa espada que causa d10+3 de dano. Uma vez por dia, ela pode liberar uma onda de choque, fazendo os inimigos próximos caírem prostrados.\n\nO Silêncio de Heimdall. Uma benção que concede ao portador a capacidade de perceber falsas ilusões e detectar inimigos ocultos. Uma vez por dia, o personagem pode evitar automaticamente um ataque iminente, prevendo-o.\n\nHeimdall não é apenas um guardião — ele é o poder silencioso do dever, a resolução inabalável de um guardião que observa as marés do destino se chocarem contra seu posto. Cada golpe de Hofund, cada passo que ele dá, é deliberado, preciso e inabalável. Lutar contra ele é encarar a certeza de um ser que não vacilará, nem mesmo no fim.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 83 (páginas impressas 164–165).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e0d2a006d446fe75.cbc90b55a6bfee24"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Heimdall",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/heimdall.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.053e20857d43c449"
+    }
+  },
+  "folder": "851ef43e69963a82",
+  "_key": "!actors!e0d2a006d446fe75"
+}

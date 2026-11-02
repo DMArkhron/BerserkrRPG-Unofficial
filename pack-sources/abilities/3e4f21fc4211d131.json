@@ -1,0 +1,40 @@
+{
+  "_id": "3e4f21fc4211d131",
+  "name": "Águas Restauradoras — Guardião Vanir",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/3e4f21fc4211d131.png",
+  "system": {
+    "description": "Uma vez por dia, cure d6+2PV em si ou num aliado e remova febre, fadiga, envenenamento e cegueira.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+    "realm": "Vanaheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "ce20f5e1fb32d411",
+  "_key": "!items!3e4f21fc4211d131"
+}

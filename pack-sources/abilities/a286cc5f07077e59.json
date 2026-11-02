@@ -1,0 +1,40 @@
+{
+  "_id": "a286cc5f07077e59",
+  "name": "Abraço Gélido — Gigante de Gelo",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/a286cc5f07077e59.png",
+  "system": {
+    "description": "Uma vez por dia, aprisione inimigo ou objeto em gelo, atordoando por d2 rodadas. Criatura viva sofre d6 de dano no início de cada rodada.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 50 (páginas impressas 98–99).",
+    "realm": "Jötunheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "ca1f037bea3ba223",
+  "_key": "!items!a286cc5f07077e59"
+}

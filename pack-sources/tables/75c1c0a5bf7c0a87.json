@@ -1,0 +1,327 @@
+{
+  "_id": "75c1c0a5bf7c0a87",
+  "name": "Runa aleatória",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+  "formula": "1d24",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "0215769383a554db",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.7254357ea4beb564]{Fehu}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.0215769383a554db"
+    },
+    {
+      "_id": "3a10fb30683a834e",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.b305d346ef70cb19]{Uruz}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.3a10fb30683a834e"
+    },
+    {
+      "_id": "c6dd25db02cdecdb",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.4505087427206ae1]{Thurisaz}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.c6dd25db02cdecdb"
+    },
+    {
+      "_id": "b4342b18748d3050",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.4c68c032cfe52bd6]{Ansuz}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.b4342b18748d3050"
+    },
+    {
+      "_id": "2c49c51380186efd",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.1c800c292e500d1a]{Raidho}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.2c49c51380186efd"
+    },
+    {
+      "_id": "ef35ff3aca6fd74d",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.3652e0ec084d21d3]{Kenaz}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.ef35ff3aca6fd74d"
+    },
+    {
+      "_id": "6111b46b8edce46e",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.f3f0f8674a96ff00]{Gebo}",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.6111b46b8edce46e"
+    },
+    {
+      "_id": "26b70dcf76da8ce5",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.7e3cf9fb7f288d87]{Wunjo}",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.26b70dcf76da8ce5"
+    },
+    {
+      "_id": "eb96b93b7ffd2206",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.a4429e0195d1bc90]{Hagalaz}",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.eb96b93b7ffd2206"
+    },
+    {
+      "_id": "097855bab5c34f6b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.37abb8939a41a417]{Nauthiz}",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.097855bab5c34f6b"
+    },
+    {
+      "_id": "ef8bdc85929776aa",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.46ab014ade9c7d14]{Isa}",
+      "range": [
+        11,
+        11
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.ef8bdc85929776aa"
+    },
+    {
+      "_id": "e60917c7e367e88c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.05e3349068aa77f3]{Jera}",
+      "range": [
+        12,
+        12
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.e60917c7e367e88c"
+    },
+    {
+      "_id": "19134dd3a459d4ee",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.6f1bb54882e79e6c]{Eihwaz}",
+      "range": [
+        13,
+        13
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.19134dd3a459d4ee"
+    },
+    {
+      "_id": "30cac69efce66eca",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.6c691fdbf6396c63]{Pertho}",
+      "range": [
+        14,
+        14
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.30cac69efce66eca"
+    },
+    {
+      "_id": "e04d72bed9b31e16",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.3ec3526d0cbb0a5f]{Algiz}",
+      "range": [
+        15,
+        15
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.e04d72bed9b31e16"
+    },
+    {
+      "_id": "5c5d50cfa67940a4",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.a633e7cfe0fa1417]{Sowilo}",
+      "range": [
+        16,
+        16
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.5c5d50cfa67940a4"
+    },
+    {
+      "_id": "a5399d360776760f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.e2da59553f05cd16]{Tiwaz}",
+      "range": [
+        17,
+        17
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.a5399d360776760f"
+    },
+    {
+      "_id": "38815dac9691ec55",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.dbc088e13c6fd904]{Berkano}",
+      "range": [
+        18,
+        18
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.38815dac9691ec55"
+    },
+    {
+      "_id": "0c0d61a1f5f4af00",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.93178ab7b9c8c978]{Ehwaz}",
+      "range": [
+        19,
+        19
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.0c0d61a1f5f4af00"
+    },
+    {
+      "_id": "c79c76b0f77c651b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.3b75241343506bd4]{Mannaz}",
+      "range": [
+        20,
+        20
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.c79c76b0f77c651b"
+    },
+    {
+      "_id": "321acc2d929707d4",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.683e4c80e0f9f7a7]{Laguz}",
+      "range": [
+        21,
+        21
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.321acc2d929707d4"
+    },
+    {
+      "_id": "d0bebb297785f69d",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.d0bfa07c23ad1b0a]{Ingwaz}",
+      "range": [
+        22,
+        22
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.d0bebb297785f69d"
+    },
+    {
+      "_id": "eeecda92645d1a54",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.a6d02f045d8b5a5b]{Dagaz}",
+      "range": [
+        23,
+        23
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.eeecda92645d1a54"
+    },
+    {
+      "_id": "d5efab4a843a1c0a",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.runes.3e0b9baf32b2ca3e]{Othala}",
+      "range": [
+        24,
+        24
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!75c1c0a5bf7c0a87.d5efab4a843a1c0a"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!75c1c0a5bf7c0a87"
+}

@@ -1,0 +1,275 @@
+{
+  "_id": "33d0d99ccb0f3025",
+  "name": "Nomes nórdicos",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "bbcc26aace854234",
+      "type": 0,
+      "text": "Sigurd / Astrid",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.bbcc26aace854234"
+    },
+    {
+      "_id": "1304da424b35331f",
+      "type": 0,
+      "text": "Erik / Freya",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.1304da424b35331f"
+    },
+    {
+      "_id": "de98c62c2b2f6fe4",
+      "type": 0,
+      "text": "Ragnar / Gudrun",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.de98c62c2b2f6fe4"
+    },
+    {
+      "_id": "d3cf49e6a637e381",
+      "type": 0,
+      "text": "Bjorn / Helga",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.d3cf49e6a637e381"
+    },
+    {
+      "_id": "b1cf2c55f7652d31",
+      "type": 0,
+      "text": "Leif / Ingrid",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.b1cf2c55f7652d31"
+    },
+    {
+      "_id": "19e8f00a16d1c943",
+      "type": 0,
+      "text": "Sven / Thora",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.19e8f00a16d1c943"
+    },
+    {
+      "_id": "0c40cc8b85c10a62",
+      "type": 0,
+      "text": "Olaf / Ragna",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.0c40cc8b85c10a62"
+    },
+    {
+      "_id": "0ec522b98c08c569",
+      "type": 0,
+      "text": "Haldor / Sigrid",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.0ec522b98c08c569"
+    },
+    {
+      "_id": "3ef0ad55ed446c9b",
+      "type": 0,
+      "text": "Arne / Jorunn",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.3ef0ad55ed446c9b"
+    },
+    {
+      "_id": "fd46adc154a35d63",
+      "type": 0,
+      "text": "Hakon / Aslaug",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.fd46adc154a35d63"
+    },
+    {
+      "_id": "0baca862cff8dd70",
+      "type": 0,
+      "text": "Kjartan / Ylva",
+      "range": [
+        11,
+        11
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.0baca862cff8dd70"
+    },
+    {
+      "_id": "b362f88f574e61cf",
+      "type": 0,
+      "text": "Toste / Hilde",
+      "range": [
+        12,
+        12
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.b362f88f574e61cf"
+    },
+    {
+      "_id": "0d09df5193e5d510",
+      "type": 0,
+      "text": "Vagn / Solveig",
+      "range": [
+        13,
+        13
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.0d09df5193e5d510"
+    },
+    {
+      "_id": "43f2502acf29be20",
+      "type": 0,
+      "text": "Arvid / Inga",
+      "range": [
+        14,
+        14
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.43f2502acf29be20"
+    },
+    {
+      "_id": "030ec818531af242",
+      "type": 0,
+      "text": "Knute / Ulfhild",
+      "range": [
+        15,
+        15
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.030ec818531af242"
+    },
+    {
+      "_id": "8cd643b9afb5428b",
+      "type": 0,
+      "text": "Einar / Dagmar",
+      "range": [
+        16,
+        16
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.8cd643b9afb5428b"
+    },
+    {
+      "_id": "d941de143caca97d",
+      "type": 0,
+      "text": "Gorm / Skadi",
+      "range": [
+        17,
+        17
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.d941de143caca97d"
+    },
+    {
+      "_id": "5f8d45981bd460b0",
+      "type": 0,
+      "text": "Halvard / Ingeborg",
+      "range": [
+        18,
+        18
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.5f8d45981bd460b0"
+    },
+    {
+      "_id": "1f50ad0bc355271f",
+      "type": 0,
+      "text": "Magnus / Unn",
+      "range": [
+        19,
+        19
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.1f50ad0bc355271f"
+    },
+    {
+      "_id": "91a35959abee492c",
+      "type": 0,
+      "text": "Thorstein / Sigrun",
+      "range": [
+        20,
+        20
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!33d0d99ccb0f3025.91a35959abee492c"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!33d0d99ccb0f3025"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "29ca421e7346497b",
+  "name": "Vakten",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "56bf004b6f654350",
+      "name": "Vakten",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/vakten.webp\" alt=\"Vakten\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Vakten</h2><p>Guardião da Bifrost cuja forma cintilante reflete as cores da ponte celestial. Empunha um berrante ancestral e um machado de poder cósmico.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.2a8c07c8e42e021a]{Ficha de Vakten}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!29ca421e7346497b.56bf004b6f654350"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.2a8c07c8e42e021a"
+    }
+  },
+  "_key": "!journal!29ca421e7346497b"
+}

@@ -1,0 +1,165 @@
+{
+  "_id": "37807e8deba7a170",
+  "name": "Bjorn, o Espectro do Gelo",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/bjorn-o-espectro-do-gelo.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 22,
+      "max": 22
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Midgard. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Midgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "6a143f9ee360d66e",
+      "name": "Mãos de Urso",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Bjorn, o Espectro do Gelo. Inimigo nomeado de Midgard. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!37807e8deba7a170.6a143f9ee360d66e"
+    },
+    {
+      "_id": "f87f9d6fb1a8253d",
+      "name": "Proteção de Bjorn, o Espectro do Gelo",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!37807e8deba7a170.f87f9d6fb1a8253d"
+    },
+    {
+      "_id": "096321925539fee7",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Antigamente, Bjorn era um nome reverenciado — guardião, guerreiro, o homem que mantinha a natureza selvagem sob controle. Mas chegou o Fimbulwinter, e o frio não apenas congelou a terra; também quebrou algo dentro de Bjorn. Agora ele não é mais um homem. O inverno penetrou em seus ossos e o transformou em um predador. Bjorn não passa de uma fera agora, rondando as matas, vestindo as peles das criaturas que despedaça. Os olhos dele? São PURA FURIA. Ele não mais protege — ele caça. Ele se tornou um temor para as pessoas, espreitando logo além da luz da fogueira, à espera do momento certo para atacar. O herói sobre quem cantavam desapareceu, substituído por algo frio, selvagem e vazio.\n\nPV\n\nUrso couro\n\nUrso mãos\n\n-d2\n\nd8+2\n\nEspreitador Se os personagens estiverem a até 1,5 quilômetro de Bjorn, ele saberá onde eles estão.\n\nBenção do Espectro do Gelo Escolha uma presa (tipo de inimigo ou adversário nomeado). Se você estiver a até 1,5 quilômetro dela, saberá exatamente onde ela está.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!37807e8deba7a170.096321925539fee7"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Bjorn, o Espectro do Gelo",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/bjorn-o-espectro-do-gelo.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.1bb4ed7232e7ac94"
+    }
+  },
+  "folder": "7b1d080bfa84ce3c",
+  "_key": "!actors!37807e8deba7a170"
+}

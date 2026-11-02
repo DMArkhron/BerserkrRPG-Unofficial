@@ -1,0 +1,28 @@
+{
+  "_id": "7795fec29020e8db",
+  "name": "Gigante Lutador de Glima",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "f0d344fae697a8ee",
+      "name": "Gigante Lutador de Glima",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/gigante-lutador-de-glima.webp\" alt=\"Gigante Lutador de Glima\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Gigante Lutador de Glima</h2><p>Gigante de Jötunheim que transforma o combate em uma luta corporal brutal. Usa a força colossal para agarrar, esmagar e derrubar seus oponentes.</p><p><strong>Reino:</strong> Jötunheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.53fc111f0956442b]{Ficha de Gigante Lutador de Glima}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!7795fec29020e8db.f0d344fae697a8ee"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.53fc111f0956442b"
+    }
+  },
+  "_key": "!journal!7795fec29020e8db"
+}

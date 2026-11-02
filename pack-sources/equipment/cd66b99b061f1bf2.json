@@ -1,0 +1,40 @@
+{
+  "_id": "cd66b99b061f1bf2",
+  "name": "Fragmento de Pedra do Trovão",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/cd66b99b061f1bf2.png",
+  "system": {
+    "description": "Arremessado, causa d6 de dano a todos perto da queda.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 140,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!cd66b99b061f1bf2"
+}

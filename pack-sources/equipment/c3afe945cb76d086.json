@@ -1,0 +1,40 @@
+{
+  "_id": "c3afe945cb76d086",
+  "name": "Saco de Tecido",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c3afe945cb76d086.png",
+  "system": {
+    "description": "Transporta até 10 itens normais.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!c3afe945cb76d086"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "72fab0db9b7f6977",
+  "name": "Coração das Chamas — Construto de Chamas",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/72fab0db9b7f6977.png",
+  "system": {
+    "description": "A cada 5 de dano ígneo sofrido pelos inimigos, +1 em todos os Testes até o fim do combate.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 54 (páginas impressas 106–107).",
+    "realm": "Muspelheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "c0be564af3577fce",
+  "_key": "!items!72fab0db9b7f6977"
+}

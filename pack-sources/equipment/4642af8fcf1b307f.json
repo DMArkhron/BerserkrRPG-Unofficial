@@ -1,0 +1,40 @@
+{
+  "_id": "4642af8fcf1b307f",
+  "name": "Núcleo de Brasa",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/4642af8fcf1b307f.png",
+  "system": {
+    "description": "Uma vez por dia, absorva calor do ambiente para curar d6PV.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 54 (páginas impressas 106–107).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!4642af8fcf1b307f"
+}

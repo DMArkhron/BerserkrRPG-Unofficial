@@ -1,0 +1,130 @@
+{
+  "_id": "1fa695fa8e10620b",
+  "name": "Seguidor Anão",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/companheiros/seguidor-anao.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 8,
+      "max": 8
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Companheiros e lacaios",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "0242bbc95345dc74",
+      "name": "Arma",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Seguidor Anão. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!1fa695fa8e10620b.0242bbc95345dc74"
+    },
+    {
+      "_id": "2a7d2b394d46f318",
+      "name": "Proteção de Seguidor Anão",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!1fa695fa8e10620b.2a7d2b394d46f318"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Seguidor Anão",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/companheiros/seguidor-anao.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.eb7b3a06b26a3610"
+    }
+  },
+  "folder": "f873051c6ff2512f",
+  "_key": "!actors!1fa695fa8e10620b"
+}

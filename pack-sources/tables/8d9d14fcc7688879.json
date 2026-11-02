@@ -1,0 +1,119 @@
+{
+  "_id": "8d9d14fcc7688879",
+  "name": "Conversão de atributos",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 46 (páginas impressas 90–91).",
+  "formula": "3d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "afd6cf149d215073",
+      "type": 0,
+      "text": "−3",
+      "range": [
+        1,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.afd6cf149d215073"
+    },
+    {
+      "_id": "9f3162b1808e39f7",
+      "type": 0,
+      "text": "−2",
+      "range": [
+        5,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.9f3162b1808e39f7"
+    },
+    {
+      "_id": "a12b58f038b31e01",
+      "type": 0,
+      "text": "−1",
+      "range": [
+        7,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.a12b58f038b31e01"
+    },
+    {
+      "_id": "e1c4bb92927fb69a",
+      "type": 0,
+      "text": "0",
+      "range": [
+        9,
+        12
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.e1c4bb92927fb69a"
+    },
+    {
+      "_id": "d888968b57127212",
+      "type": 0,
+      "text": "+1",
+      "range": [
+        13,
+        14
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.d888968b57127212"
+    },
+    {
+      "_id": "edf1500c1279e178",
+      "type": 0,
+      "text": "+2",
+      "range": [
+        15,
+        16
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.edf1500c1279e178"
+    },
+    {
+      "_id": "031755cad7652830",
+      "type": 0,
+      "text": "+3",
+      "range": [
+        17,
+        20
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.031755cad7652830"
+    },
+    {
+      "_id": "97d802e45496bd4a",
+      "type": 0,
+      "text": "+4",
+      "range": [
+        21,
+        23
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8d9d14fcc7688879.97d802e45496bd4a"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!8d9d14fcc7688879"
+}

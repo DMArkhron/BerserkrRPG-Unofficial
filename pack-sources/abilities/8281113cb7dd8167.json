@@ -1,0 +1,40 @@
+{
+  "_id": "8281113cb7dd8167",
+  "name": "Convocar Erupção — Construto de Chamas",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/8281113cb7dd8167.png",
+  "system": {
+    "description": "Uma vez por dia, erupção por d3 rodadas, causando d6 de dano por rodada a quem for atingido.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 54 (páginas impressas 106–107).",
+    "realm": "Muspelheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "c0be564af3577fce",
+  "_key": "!items!8281113cb7dd8167"
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "37abb8939a41a417",
+  "name": "Nauthiz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/37abb8939a41a417.png",
+  "system": {
+    "description": "ᚾ — Nauthiz\n\nFeitiço\nReceba +2 no seu próximo Teste.\n\nInscrição em arma ou armadura\nRerrole um ataque que tiver errado. No entanto, você sofre d6 de dano como custo por esse favor das Nornas.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Receba +2 no seu próximo Teste.",
+    "inscription": "Rerrole um ataque que tiver errado. No entanto, você sofre d6 de dano como custo por esse favor das Nornas.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!37abb8939a41a417"
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "ad6048655bd95a53",
+  "name": "Espectro",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-espectro.png",
+  "system": {
+    "description": "Classe de Niflheim.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Cheiro da Morte. Sente o cheiro da morte a até 1,5 quilômetro.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 53 (páginas impressas 104–105).",
+    "realm": "Niflheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 3,
+      "forca": 1,
+      "astucia": 4,
+      "agilidade": 5,
+      "esperteza": 2
+    },
+    "hpFormula": "@attributes.fortitude + 1d8",
+    "destinyFormula": "1d2",
+    "startingEquipment": "Vestes fantasmagóricas; Adaga Espectral (d6); d4 comida; d4 água; d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.1d558c35c349e827",
+      "Compendium.berserkr-rpg.abilities.8aa67d3f17b06fcf",
+      "Compendium.berserkr-rpg.abilities.ecea927b9bd1b8cf",
+      "Compendium.berserkr-rpg.abilities.c6b74ae9a80cc3bc",
+      "Compendium.berserkr-rpg.abilities.99e1bb70bc9b8c40",
+      "Compendium.berserkr-rpg.abilities.3dfcb1bbfd4ae0ae",
+      "Compendium.berserkr-rpg.abilities.359717fd5e8e74af"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "5614aa3223bb8d5d",
+  "_key": "!items!ad6048655bd95a53"
+}

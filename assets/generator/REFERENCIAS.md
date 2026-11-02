@@ -1,0 +1,3 @@
+As dez imagens de classe são ilustrações novas geradas com imagegen integrado. As páginas de Valquíria e Guardião Vanir do PDF fornecido foram usadas exclusivamente como referência de estilo: contornos fortes em tinta preta, hachuras, impressão áspera e cores chapadas azul-petróleo com acentos vibrantes. Nenhuma ilustração de classe extraída do livro é distribuída nesta versão.
+
+Composição: retratos quadrados originais, cabeça e ombros, sem texto ou logotipo. Cada classe recebeu personagens, vestes e poses próprios. Cabeçalho: corvo sobre espada partida, montanhas nórdicas, espaço escuro à esquerda, sem texto.

@@ -1,0 +1,39 @@
+{
+  "_id": "3e0b9baf32b2ca3e",
+  "name": "Othala",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/3e0b9baf32b2ca3e.png",
+  "system": {
+    "description": "ᛟ — Othala\n\nFeitiço\nA criatura-alvo desenvolve uma barba feita de d20‡ Bugigangas. Essa barba não pode ser aparada ou removida, mas pode ser estilizada.\n\nInscrição em arma ou armadura\nInvoque o poder dos seus ancestrais. Uma vez por dia, um espírito ancestral guia sua mão, concedendo uma vantagem na sua próxima defesa.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "A criatura-alvo desenvolve uma barba feita de d20‡ Bugigangas. Essa barba não pode ser aparada ou removida, mas pode ser estilizada.",
+    "inscription": "Invoque o poder dos seus ancestrais. Uma vez por dia, um espírito ancestral guia sua mão, concedendo uma vantagem na sua próxima defesa.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!3e0b9baf32b2ca3e"
+}

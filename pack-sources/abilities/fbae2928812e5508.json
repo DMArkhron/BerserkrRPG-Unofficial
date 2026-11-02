@@ -1,0 +1,40 @@
+{
+  "_id": "fbae2928812e5508",
+  "name": "A Vontade da Bigorna — Mestre Ferreiro",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/fbae2928812e5508.png",
+  "system": {
+    "description": "Uma vez por sessão, Esperteza CD12. No próximo combate: arma recebe +2 de dano e ignora armadura por d6 ataques; ou armadura anula mais 2 de dano por d6 rodadas.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 52 (páginas impressas 102–103).",
+    "realm": "Svartalfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "6a3e69993eb0c223",
+  "_key": "!items!fbae2928812e5508"
+}

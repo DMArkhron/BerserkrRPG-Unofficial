@@ -1,0 +1,28 @@
+{
+  "_id": "c2ddfaac98caf268",
+  "name": "Dragonete de Gelo",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "0ec56a6410e0ca32",
+      "name": "Dragonete de Gelo",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/dragonete-de-gelo.webp\" alt=\"Dragonete de Gelo\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Dragonete de Gelo</h2><p>Criatura semelhante a um dragão que habita os picos de Jötunheim. Seu sopro gélido lança estilhaços afiados e congela o ar.</p><p><strong>Reino:</strong> Jötunheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.19e861c1193b3d2d]{Ficha de Dragonete de Gelo}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!c2ddfaac98caf268.0ec56a6410e0ca32"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.19e861c1193b3d2d"
+    }
+  },
+  "_key": "!journal!c2ddfaac98caf268"
+}

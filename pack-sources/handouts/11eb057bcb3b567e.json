@@ -1,0 +1,28 @@
+{
+  "_id": "11eb057bcb3b567e",
+  "name": "Trolloide",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "0834c8f7c6185c21",
+      "name": "Trolloide",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/trolloide.webp\" alt=\"Trolloide\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Trolloide</h2><p>Saqueador dos ermos de Midgard que perturba povoados e rouba suprimentos. Usa a força, ferramentas e armadilhas para defender seus esconderijos.</p><p><strong>Reino:</strong> Midgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.71d5724144e0f7ac]{Ficha de Trolloide}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!11eb057bcb3b567e.0834c8f7c6185c21"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.71d5724144e0f7ac"
+    }
+  },
+  "_key": "!journal!11eb057bcb3b567e"
+}

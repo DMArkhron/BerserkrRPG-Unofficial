@@ -1,0 +1,270 @@
+{
+  "_id": "a17bee4a1cd61404",
+  "name": "Nidhogg",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/nidhogg.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 75,
+      "max": 75
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Yggdrasil",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 98 (páginas impressas 194–195).",
+    "defenseBonus": 3
+  },
+  "items": [
+    {
+      "_id": "f22fdf0d8442a93a",
+      "name": "Mordida Corruptora",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Nidhogg. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 98 (páginas impressas 194–195).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!a17bee4a1cd61404.f22fdf0d8442a93a"
+    },
+    {
+      "_id": "9dd880330de9443f",
+      "name": "Hálito Necrótico — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Nidhogg. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+4",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 98 (páginas impressas 194–195).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!a17bee4a1cd61404.9dd880330de9443f"
+    },
+    {
+      "_id": "89e8f627095d8b6f",
+      "name": "Chicote de Cauda",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Nidhogg. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 98 (páginas impressas 194–195).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!a17bee4a1cd61404.89e8f627095d8b6f"
+    },
+    {
+      "_id": "fd1d59d63c47c00d",
+      "name": "Proteção de Nidhogg",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 98 (páginas impressas 194–195).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!a17bee4a1cd61404.fd1d59d63c47c00d"
+    },
+    {
+      "_id": "abaac0b56d5163b7",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Escamas corrompidas que absorvem dano\n\nMordida Corruptora\n\nHalito Necrotico\n\nSopro da Decadencia Olhar Mortal\n\nDrenar Alma\n\nChicote de Cauda\n\n+3CD em todas as defesas do PJ\n\nObtendo um desastre na defesa, a mordida de Nidhogg corrompe o alvo. Ele precisa riscar a história da qual mais se orgulha em sua Saga.\n\nNidhogg expele um fluxo concentrado de energia necrótica, visando um único inimigo. Se o alvo falhar em um Teste de Fortitude CD14, sofrerá d10+4 de dano imediatamente e mais d6 de dano pelas próximas d4 rodadas.\n\nNidhogg exala uma nuvem de energia necrótica que causa rápida deterioração em tudo o que toca, corrompendo tanto carne quanto metal. Todos os inimigos precisam Testar Fortitude CD14 para não sofrerem 2d8 de dano.\n\nSe forem afetados, os inimigos também sofrem −2 em todos os Teste de Força por d4 rodadas conforme a deterioração consome suas energias.\n\nArmaduras sem encantamentos atingidas pela nuvem também ficam enfraquecidas, reduzindo sua eficácia em 1 categoria.\n\nNidhogg consegue perscrutar a alma dos seus inimigos. O Devorador de Cadáveres encara um inimigo, que precisa Testar Esperteza CD14 para evitar o olhar.\n\nSe falhar, o alvo recebe +4 nos ataques e precisa atacar seu aliado mais confiável. Esses efeitos duram d3 rodadas.\n\nNidhogg se alimenta da força vital dos inimigos, drenando sua vitalidade para sustentar seu próprio poder.\n\nNidhogg escolhe um inimigo como alvo e drena sua força vital. O alvo precisa Testar Fortitude CD16 para não sofrer 3d6 de dano. Nidhogg recupera o dano causado como PV.\n\nNidhogg varre o campo de batalha com sua cauda, forçando todos os inimigos a Testarem Agilidade CD12 ou sofrerem d8+3 de dano e serem derrubados.\n\n75 −d3\n\nd12+4\n\nd10+4 distância\n\numa vez por combate uma vez por combate\n\numa vez por combate\n\nd8+3\n\nO Despertar da Morte\n\nAs Raizes de Yggdrasil\n\nQuando Nidhogg estiver perto da morte, sua conexão com o submundo se fortalece, tornando-o ainda mais perigoso, pois ele passa a se alimentar do poder dos mortos.\n\nNidhogg canaliza o poder sombrio e corrompido de Yggdrasil, convocando raízes mortais que enredam e estrangulam seus inimigos. Ele só pode fazer isso uma vez.\n\nNidhogg convoca raízes do chão, visando até 3 inimigos. Eles precisam Testar Agilidade CD14 para evitar serem emaranhados. Se estiverem emaranhados, os alvos sofrem d8 de dano por rodada e precisam Testar Força CD14 para se libertar.\n\nAs raízes drenam a energia vital, causando −2 em todos os Testes dos alvos emaranhados enquanto o efeito durar. As raízes duram d4 rodadas, depois elas murcham e morrem.\n\nAtiva-se com PV<25\n\n× Nidhogg recebe +3 em todos os seus Testes de defesa.\n\n× Ele regenera d6PV por rodada (até um máximo de 25PV).\n\n× Todos os ataques de Nidhogg durante esse período causam d6 de dano adicional.\n\n× Enquanto estiver nesse estado, Nidhogg fica imune a todas as condições.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 98 (páginas impressas 194–195).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!a17bee4a1cd61404.abaac0b56d5163b7"
+    },
+    {
+      "_id": "6486908a6adcad4c",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Nidhogg Corrupção em Primeiro Lugar. Comece com Sopro da Decadência para enfraquecer o grupo, fazendo com que cada ataque subsequente seja mais devastador. Controle a Luta. Use As Raízes de Yggdrasil Para encurralar personagens importantes e reduzir a capacidade deles de se defender ou atacar. Finalize com Fúria. Com O Despertar da Morte, aumente a intensidade. A regeneração e dano aumentado de Nidhogg obrigam os personagens a concentrarem seus ataques ou correrem o risco de perder o ritmo da luta.\n\nEspólios e Recompensa$ Presa de Nidhogg. Uma presa afiada e necrótica que pode ser transformada em arma. Causa d10+4 de dano e causa d6 de dano adicional por rodada, com duração de d4 rodadas a menos que seja curado por magia. Escamas de Nidhogg. Escamas grossas e enegrecidas que podem ser transformadas em armaduras. Armaduras feitas com essas escamas concedem +3 de armadura. Benção de Nidhogg A benção de Nidhogg concede +2 em todos os Testes ao lutar contra mortos-vivos ou criaturas do submundo. Uma vez por dia, o personagem pode invocar raízes necróticas para aprisionar os inimigos (CD14 para resistir, d8 de dano por rodada).\n\nNidhogg precisa parecer implacável. Seus ataques drenam as forças, suas habilidades corrompem e aprisionam, e sua presença é um constante fardo para os recursos do grupo. A luta deve ficar cada vez mais desesperadora conforme ele entra em sua fase final, personificando a decadência inevitável que representa.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 98 (páginas impressas 194–195).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!a17bee4a1cd61404.6486908a6adcad4c"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Nidhogg",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/nidhogg.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.b92fa06a9862b48b"
+    }
+  },
+  "folder": "9aba49c53cea8c76",
+  "_key": "!actors!a17bee4a1cd61404"
+}

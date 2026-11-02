@@ -1,0 +1,39 @@
+{
+  "_id": "b789428afaaf06ab",
+  "name": "Espada do Condenado",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/b789428afaaf06ab.png",
+  "system": {
+    "description": "d8 de dano. Desastre no ataque faz a espada causar d8 de dano no usuário.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d8",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!b789428afaaf06ab"
+}

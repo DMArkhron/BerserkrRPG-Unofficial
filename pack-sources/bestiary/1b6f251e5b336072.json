@@ -1,0 +1,200 @@
+{
+  "_id": "1b6f251e5b336072",
+  "name": "Andarilho da Névoa",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/andarilho-da-nevoa.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 6,
+      "max": 6
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Niflheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "082fdf33ca8a2ae5",
+      "name": "Garras Ressequidas",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Andarilho da Névoa. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!1b6f251e5b336072.082fdf33ca8a2ae5"
+    },
+    {
+      "_id": "b57d2ef25f866847",
+      "name": "Proteção de Andarilho da Névoa",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!1b6f251e5b336072.b57d2ef25f866847"
+    },
+    {
+      "_id": "12e7db75ef56d691",
+      "name": "Garras da Confusão",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Acerto exige Esperteza CD12; falha impõe +2CD no próximo ataque do alvo.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!1b6f251e5b336072.12e7db75ef56d691"
+    },
+    {
+      "_id": "91d32f3133ef8c50",
+      "name": "Forma Mutável",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Ataques contra ele têm +1CD.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!1b6f251e5b336072.91d32f3133ef8c50"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Andarilho da Névoa",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/andarilho-da-nevoa.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.4ef0db2872bd29fb"
+    }
+  },
+  "folder": "48b0cdddf0500c1e",
+  "_key": "!actors!1b6f251e5b336072"
+}

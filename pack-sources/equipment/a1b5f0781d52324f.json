@@ -1,0 +1,40 @@
+{
+  "_id": "a1b5f0781d52324f",
+  "name": "Pedaço de Sílex",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/a1b5f0781d52324f.png",
+  "system": {
+    "description": "Faíscas ou cortes.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 5,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!a1b5f0781d52324f"
+}

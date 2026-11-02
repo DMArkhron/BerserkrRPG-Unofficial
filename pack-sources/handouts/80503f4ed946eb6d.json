@@ -1,0 +1,28 @@
+{
+  "_id": "80503f4ed946eb6d",
+  "name": "Draugr",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "53f4a0318c3b00d8",
+      "name": "Draugr",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/draugr.webp\" alt=\"Draugr\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Draugr</h2><p>Espírito de um guerreiro caído, preso à fúria de sua última batalha. Vaga por Midgard com uma sede de violência que jamais se sacia.</p><p><strong>Reino:</strong> Midgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.88f8da3d59c3fb99]{Ficha de Draugr}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!80503f4ed946eb6d.53f4a0318c3b00d8"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.88f8da3d59c3fb99"
+    }
+  },
+  "_key": "!journal!80503f4ed946eb6d"
+}

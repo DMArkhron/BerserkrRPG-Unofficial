@@ -1,0 +1,28 @@
+{
+  "_id": "59a3a33a71a8e594",
+  "name": "Guardião Espiritual",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "ef2e4bc730f4287c",
+      "name": "Guardião Espiritual",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/guardiao-espiritual.webp\" alt=\"Guardião Espiritual\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Guardião Espiritual</h2><p>Sentinela espectral nascida da vontade de Móðguðr. Patrulha as fronteiras de Helheim para manter os mortos presos ao seu destino.</p><p><strong>Reino:</strong> Helheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.da2bd98b1852dc31]{Ficha de Guardião Espiritual}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!59a3a33a71a8e594.ef2e4bc730f4287c"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.da2bd98b1852dc31"
+    }
+  },
+  "_key": "!journal!59a3a33a71a8e594"
+}

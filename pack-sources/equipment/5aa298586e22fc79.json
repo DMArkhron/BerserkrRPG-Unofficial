@@ -1,0 +1,40 @@
+{
+  "_id": "5aa298586e22fc79",
+  "name": "Clava Gigante",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/5aa298586e22fc79.png",
+  "system": {
+    "description": "Arma inicial da classe. Dano 1d12.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d12",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 50 (páginas impressas 98–99).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "7363f73ef00bc8e1",
+  "_key": "!items!5aa298586e22fc79"
+}

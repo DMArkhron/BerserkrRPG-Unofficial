@@ -1,0 +1,235 @@
+{
+  "_id": "246d6c4350c47697",
+  "name": "Vidar",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/vidar.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 60,
+      "max": 60
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 91 (páginas impressas 180–181).",
+    "defenseBonus": 3
+  },
+  "items": [
+    {
+      "_id": "b8475cc6a6448dff",
+      "name": "Lâmina de Vidar",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Vidar. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 91 (páginas impressas 180–181).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!246d6c4350c47697.b8475cc6a6448dff"
+    },
+    {
+      "_id": "dafb12d5cb409235",
+      "name": "Punho da Vingança",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Vidar. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 91 (páginas impressas 180–181).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!246d6c4350c47697.dafb12d5cb409235"
+    },
+    {
+      "_id": "7366a993b443e05e",
+      "name": "Proteção de Vidar",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 91 (páginas impressas 180–181).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!246d6c4350c47697.7366a993b443e05e"
+    },
+    {
+      "_id": "51ba6b9813c2f6be",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Armadura feita com sapatos dos mortos\n\nLâmina de Vidar\n\nPisada Esmagadora Golpe Vingativo\n\nPunho da Vingança\n\nForça Inexorável\n\n+3CD em todas as defesas do PJ\n\nA enorme espada de Vidar causa danos devastadores, cortando a maioria das armaduras com facilidade. Obtendo um desastre na defesa, a armadura degrada em uma categoria adicional.\n\nCom seu enorme sabaton, Vidar desfere um golpe esmagador que ecoa pelo campo de batalha. Vidar pisa com força no chão ou em seu alvo, causando um terremoto ou um golpe esmagador.\n\n×Chão. A pisada faz o chão estremecer, forçando todos os inimigos que estiverem próximos a Testar Agilidade CD14 para não serem derrubados e sofrerem d6 de dano causado pela onda de choque. ×Alvo. Causa 2d8 de dano em um único inimigo e o derruba prostrado.\n\nSe algum outro deus Aesir tiver sido morto ou se o próprio Vidar for bastante ferido pelo grupo, a fúria desta divindade permitirá desferir um golpe devastador. Vidar recebe +4 em seu próximo ataque e causa 2d12+4 de dano no seu próximo acerto bem-sucedido, que só pode ser ativado se:\n\n×Ele sofrer mais de 12 de dano em um único golpe. ×Um deus Aesir tiver sido derrotado pelo grupo.\n\nO golpe desarmado de Vidar é poderoso o suficiente para esmagar ossos. Se o alvo estiver atordoado ou prostrado, este ataque causa d8 de dano adicional.\n\nA força descomunal de Vidar torna praticamente impossível detê-lo ou pará-lo em combate. Vidar não pode ser atordoado ou prostrado por meios normais. Qualquer tentativa falha automaticamente, a menos que envolva magia rúnica ou armas com inscrições.\n\n60 −d3\n\nd12+2\n\numa vez por combate uma vez por combate\n\nd8+4\n\npassiva\n\nVontade Indomável\n\nA Ruína de Fenrir\n\nQuando Vidar está prestes a ser derrotado, sua determinação e força física só fazem aumentar.\n\nDestinado a derrotar o lobo Fenrir, Vidar canaliza essa mesma força inexorável em um único ataque monumental. Ele só pode fazer isso uma vez. O ataque ignora armaduras sem inscrições e causa 3d12+6 de dano, devastando um único alvo.\n\nApós usar a Ruína de Fenrir, Vidar fica vulnerável, e os inimigos que o atacarem terão vantagem pelas próximas d4 rodadas enquanto ele se recupera.\n\nAtiva-se com PV<15\n\n× Vidar recebe +2 de armadura.\n\n× Ele recebe +4 em todas as rolagens de dano.\n\n× Vidar ataca duas vezes por rodada, avançando com uma vingança crua e implacável.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 91 (páginas impressas 180–181).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!246d6c4350c47697.51ba6b9813c2f6be"
+    },
+    {
+      "_id": "d6a70f406ed436f5",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Vidar Precisão Brutal. Os ataques de Vidar devem ser sentidos com força e intenção. Use Pisada Esmagadora de começo para desestabilizar o grupo, forçando-os a se reagrupar enquanto Vidar pune qualquer passo em falso com sua espada ou seus punhos.\n\nBuscar Vingança. Use Golpe Vingativo quando Vidar sofrer um ataque significativo, ou se o grupo já tiver matado um deus Aesir, quando parecer melhor.\n\nFúria Final. Conforme a saúde de Vidar cai, sua Vontade Indomável transformará o campo de batalha em uma luta desesperada pela sobrevivência. Seu dano aumentado e seus ataques duplos farão dele uma presença aterradora.\n\nVidar é um deus do poder bruto, que personifica a inevitabilidade da vingança. Seus ataques são devastadores e sua presença no campo de batalha exige respeito. Enfrentar Vidar não é apenas uma luta — é um acerto de contas que força o grupo a estar à altura da sua vontade implacável ou ser destruído por ela.\n\nEspólios e Recompensas Lâmina de Vidar. Uma espada enorme que causa d12+6 de dano. Uma vez por dia, pode ignorar armadura e causar 2d12 de dano adicional com um único golpe. Após esse ataque, você fica fatigado. Sabaton de Vidar. Este sapato de ferro concede ao usuário +2 de armadura e permite que ele use a Pisada Esmagadora. Uma vez por dia, Teste Força CD12 para causar d8 de dano a todos os inimigos que estiverem próximos e também derrubá-los prostrados. Benção da Vingança. Esta benção permite que o personagem receba +4 para um único ataque ao revidar após uma perda ou ferimento significativo. Uma vez por dia, quando for reduzido a 10PV ou menos, o personagem pode fazer um Golpe Vingativo, causando 2d12 de dano a um inimigo que tenha ferido a ele ou a um aliado.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 91 (páginas impressas 180–181).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!246d6c4350c47697.d6a70f406ed436f5"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Vidar",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/vidar.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.e6fa0c879005b34a"
+    }
+  },
+  "folder": "851ef43e69963a82",
+  "_key": "!actors!246d6c4350c47697"
+}

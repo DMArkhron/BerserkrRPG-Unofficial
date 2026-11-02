@@ -1,0 +1,40 @@
+{
+  "_id": "dcce98133ac87a8e",
+  "name": "Vigor de Ferro — Berserkr",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/dcce98133ac87a8e.png",
+  "system": {
+    "description": "Beber o sangue de um inimigo derrotado leva uma rodada, cura d6PV e dobra o dano do próximo ataque. Sangue corrompido exige Fortitude CD12; falha causa febre.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 47 (páginas impressas 92–93).",
+    "realm": "Midgard",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "49a2552cb404770c",
+  "_key": "!items!dcce98133ac87a8e"
+}

@@ -1,0 +1,165 @@
+{
+  "_id": "b35618674f096872",
+  "name": "Dvalin",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/dvalin.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 20,
+      "max": 20
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Svartalfheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Svartalfheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "e269e60260e7813c",
+      "name": "Martelo Encantado",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Dvalin. Inimigo nomeado de Svartalfheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!b35618674f096872.e269e60260e7813c"
+    },
+    {
+      "_id": "85951385d8cebec1",
+      "name": "Proteção de Dvalin",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!b35618674f096872.85951385d8cebec1"
+    },
+    {
+      "_id": "173fe96cae4b2014",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "outrora um mestre artesão que forjou o lendário Brísingamen para Freyja, Dvalin agora apodrece sob uma maldição que deformou seu corpo e destruiu sua mente. Nas profundezas de Svartalfheim, ele é um gênio caído, agarrando-se desesperadamente a qualquer coisa — runas sombrias, feitiços antigos — para aliviar o peso do que se tornou.\n\nPV\n\nArmadura obra-prima\n\nMartelo Encantado\n\n–d3\n\nd10+2\n\nMestre das Armadilhas Na primeira vez em que um personagem entrar no covil de Dvalin, precisará Testar Agilidade CD14 para evitar uma das armadilhas amaldiçoadas. Falhar resulta em sofrer d6 de dano e -1 em Testes de Astúcia e Força enquanto estiver nos domínios do mestre artesão.\n\nCONvoCAR CAPANgA Uma vez por combate, se as coisas estiverem indo mal para ele, Dvalin pode convocar dois seguidores anões leais (8PV, Armadura -d2, Arma d6) para ajudá-lo.\n\n(causa d4 de dano adicional se a armadura do alvo estiver inscrita com uma Runa)\n\nPulseira de Dvalin Uma ativação de uso único concede ao usuário +3 em todos os Testes de Esperteza pelo restante do dia.\n\nAmaldiçoado. Após a ativação, o usuário será caçado por Heimdall.\n\nSeu covil é um labirinto de lixo amaldiçoado e armadilhas, cada uma delas um pequeno fragmento de sua alma distorcida. Ele está cercado por seguidores leais e perigosos, e quer busque redenção, quer busque vingança, não importa.\n\nQuem o contraria não sai impune.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!b35618674f096872.173fe96cae4b2014"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Dvalin",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/dvalin.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.dee12e7bf35d6598"
+    }
+  },
+  "folder": "482a35982dbaf29e",
+  "_key": "!actors!b35618674f096872"
+}

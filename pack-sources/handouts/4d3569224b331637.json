@@ -1,0 +1,28 @@
+{
+  "_id": "4d3569224b331637",
+  "name": "Luz Cadavérica",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "54249d921c8c1e50",
+      "name": "Luz Cadavérica",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/luz-cadaverica.webp\" alt=\"Luz Cadavérica\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Luz Cadavérica</h2><p>Espírito malévolo de Helheim que imita a luz de um fogo-fátuo. Atrai os incautos com uma falsa promessa de segurança antes de revelar suas chamas espectrais.</p><p><strong>Reino:</strong> Helheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.50c5c186ccb3ab46]{Ficha de Luz Cadavérica}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!4d3569224b331637.54249d921c8c1e50"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.50c5c186ccb3ab46"
+    }
+  },
+  "_key": "!journal!4d3569224b331637"
+}

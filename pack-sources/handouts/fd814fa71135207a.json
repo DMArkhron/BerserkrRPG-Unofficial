@@ -1,0 +1,28 @@
+{
+  "_id": "fd814fa71135207a",
+  "name": "Aranha Cristalina",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "28b1f0bc8cd6589b",
+      "name": "Aranha Cristalina",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/aranha-cristalina.webp\" alt=\"Aranha Cristalina\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Aranha Cristalina</h2><p>Predadora das cavernas de Svartalfheim com tórax de cristal. Suas teias quase invisíveis protegem ninhos entre os minerais das profundezas.</p><p><strong>Reino:</strong> Svartalfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.3194f24b447d05e5]{Ficha de Aranha Cristalina}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!fd814fa71135207a.28b1f0bc8cd6589b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.3194f24b447d05e5"
+    }
+  },
+  "_key": "!journal!fd814fa71135207a"
+}

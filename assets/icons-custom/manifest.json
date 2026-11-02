@@ -1,0 +1,1328 @@
+[
+  {
+    "pack": "equipment",
+    "id": "03048172b6293081",
+    "name": "Feixe de Juncos Secos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/03048172b6293081.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "042c06ca0c187f3e",
+    "name": "Espinhos Envenenados",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/042c06ca0c187f3e.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "058eed36b4652ffc",
+    "name": "Pequena Algibeira com Carvão",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/058eed36b4652ffc.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "05f3efdbc186d96c",
+    "name": "Escudo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/05f3efdbc186d96c.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "0b19c0190f4d27cf",
+    "name": "Cota de Malha Resistente",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0b19c0190f4d27cf.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "0ca6a3504005dcc9",
+    "name": "Maça de Crânio de Troll",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0ca6a3504005dcc9.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "0d7c384859e29602",
+    "name": "Fêmur de Gigante",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0d7c384859e29602.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "0e5a1a135ed39089",
+    "name": "Loriga de Malha",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0e5a1a135ed39089.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "0e7b2864c0a671d2",
+    "name": "Símbolo Sagrado de Madeira",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0e7b2864c0a671d2.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "0fa07dda45c58d3a",
+    "name": "Casaco de Pele Grossa",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0fa07dda45c58d3a.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "11ade93013f2e879",
+    "name": "Jarro de Camarinhas em Conserva",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/11ade93013f2e879.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "13b6ce1e2ef59b14",
+    "name": "Vestes Fantasmagóricas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/13b6ce1e2ef59b14.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "15d4a684bbe949f6",
+    "name": "Machado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/15d4a684bbe949f6.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "1939b506c42dd807",
+    "name": "Martelo de Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/1939b506c42dd807.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "1a67ecbd00400e82",
+    "name": "Cutelo do Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/1a67ecbd00400e82.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "1b8eb3375f0d25f1",
+    "name": "Bastão com Ponta de Crânio",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/1b8eb3375f0d25f1.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "2170049ecff549b0",
+    "name": "Lança da Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/2170049ecff549b0.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "27a6907dacc5051c",
+    "name": "Saco de Grãos Embebidos em Hidromel",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/27a6907dacc5051c.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "29bfd28e7b68d436",
+    "name": "Pente de Madeira Entalhado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/29bfd28e7b68d436.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "2b8270c6b3c71e31",
+    "name": "Punhal",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/2b8270c6b3c71e31.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "2ff1c0e30fe394f8",
+    "name": "Chicote de Espinha de Serpente",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/2ff1c0e30fe394f8.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "3543cd728351a23d",
+    "name": "Machado Forjado em Sangue",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/3543cd728351a23d.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "3aed6473f83bb583",
+    "name": "Algibeira de Couro Desgastada",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/3aed6473f83bb583.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "3ba948acd4565d5c",
+    "name": "Galhada Quebrada",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/3ba948acd4565d5c.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "3cb63b12ac2a8f34",
+    "name": "Pedra Rúnica Aleatória",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/3cb63b12ac2a8f34.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "4642af8fcf1b307f",
+    "name": "Núcleo de Brasa",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/4642af8fcf1b307f.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "4d57bb0061a01312",
+    "name": "Gibão Acolchoado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/4d57bb0061a01312.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "4d669f5473feb9a1",
+    "name": "Manoplas de Garra de Urso Amaldiçoado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/4d669f5473feb9a1.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "4e02508aa5d2f9ab",
+    "name": "Cipó de Trepadeira Espinhosa",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/4e02508aa5d2f9ab.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "505b80e0e279b4b8",
+    "name": "Anel de Bronze Desgastado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/505b80e0e279b4b8.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "52a0d4f00816f774",
+    "name": "Cinto de Couro Gasto",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/52a0d4f00816f774.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "5358c971a38a3c84",
+    "name": "Faca Pequena de Esfolar",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/5358c971a38a3c84.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "55cb94b405f5bfac",
+    "name": "Katar de Garra de Draugr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/55cb94b405f5bfac.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "55e29a7513a0a3e2",
+    "name": "Pena Manchada de Sangue",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/55e29a7513a0a3e2.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "5607a01896b598ea",
+    "name": "Talismã de Presa de Lobo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/5607a01896b598ea.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "57a325cfad564cb0",
+    "name": "Colar de Garra de Corvo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/57a325cfad564cb0.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "586882fd3c315464",
+    "name": "Granadas de Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/586882fd3c315464.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "594f98c8beea5a23",
+    "name": "Espada Bastarda",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/594f98c8beea5a23.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "59c4f8e9018e47a4",
+    "name": "Machado de Arremesso",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/59c4f8e9018e47a4.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "5aa298586e22fc79",
+    "name": "Clava Gigante",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/5aa298586e22fc79.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "62df1b4bd8a8bc18",
+    "name": "Tambor de Pele Esfolada",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/62df1b4bd8a8bc18.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "63af6f72c67212ce",
+    "name": "Chicote de Cabelo de Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/63af6f72c67212ce.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "63e1641f9e0d664d",
+    "name": "Lança de Presa Gélida",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/63e1641f9e0d664d.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "684ca9c93cf4c024",
+    "name": "Armadura Divina",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/684ca9c93cf4c024.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "6af2124b2f167f7e",
+    "name": "Espada",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/6af2124b2f167f7e.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "6c7b35a60239b021",
+    "name": "Algibeira de Couro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/6c7b35a60239b021.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "709695bb02c5fe5a",
+    "name": "Machado de Guerra Pesado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/709695bb02c5fe5a.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "73a6a12049d4b554",
+    "name": "Clava de Dedão de Gigante",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/73a6a12049d4b554.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "73b798b06aed9738",
+    "name": "Túnica de Folhas e Cipós",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/73b798b06aed9738.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "7643ef088ae53267",
+    "name": "Boneca de Pano Esfarrapada",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/7643ef088ae53267.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "76f2355beb785c1c",
+    "name": "Marca da Chama-Amarga",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/76f2355beb785c1c.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "7750a72f7cf9ec49",
+    "name": "Espigões de Ferro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/7750a72f7cf9ec49.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "78a6f4f64f2972fb",
+    "name": "Lampião Entalhado em Madeira",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/78a6f4f64f2972fb.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "7922a7da9bc6ffbf",
+    "name": "Cajado Rúnico de Madeira",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/7922a7da9bc6ffbf.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "7b5a24fa3ec4f7d8",
+    "name": "Vestes Brancas Esvoaçantes",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/7b5a24fa3ec4f7d8.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "7ecc10f364478b10",
+    "name": "Cataplasma de Ervas Medicinais",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/7ecc10f364478b10.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "81efd3f27cef650b",
+    "name": "Lança",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/81efd3f27cef650b.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "875fcf22caa92be4",
+    "name": "Escudo de Serpente Marinha",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/875fcf22caa92be4.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "87c684432b5c9dd4",
+    "name": "Couraça Lamelar",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/87c684432b5c9dd4.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "8908f3b1408902ff",
+    "name": "Clava",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/8908f3b1408902ff.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "8a7d4b0fc7dc6a17",
+    "name": "Machado de Batalha",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/8a7d4b0fc7dc6a17.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "8cd83aa5ff2ce827",
+    "name": "Loriga de Placas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/8cd83aa5ff2ce827.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "8eea59a9ed3f33f8",
+    "name": "Manto das Almas Esquecidas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/8eea59a9ed3f33f8.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "9119e39bc6f8ce3d",
+    "name": "Crânio de Corvo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/9119e39bc6f8ce3d.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "91b6506b77b734ff",
+    "name": "Lâmina da Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/91b6506b77b734ff.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "9bd44638e7be0f9e",
+    "name": "Cajado de Madeira-da-Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/9bd44638e7be0f9e.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "9d06cfdfd1543cea",
+    "name": "Espelho de Bronze Desgastado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/9d06cfdfd1543cea.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "9d6da9fca0e106ef",
+    "name": "Comida",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/9d6da9fca0e106ef.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "9db54bf6fa88ec05",
+    "name": "Ervas Medicinais do Guardião",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/9db54bf6fa88ec05.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "a1b5f0781d52324f",
+    "name": "Pedaço de Sílex",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/a1b5f0781d52324f.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "a5b579d4b0d55b77",
+    "name": "Punhado de Pedras de Rio",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/a5b579d4b0d55b77.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "a6106b9c8fc81864",
+    "name": "Pedaço de Cera de Abelha",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/a6106b9c8fc81864.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "ac4629f4225a52b8",
+    "name": "Fragmento de Cerâmica Antiga",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/ac4629f4225a52b8.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "adef18044243c337",
+    "name": "Cajado da Morte",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/adef18044243c337.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "b084f73e1b61c452",
+    "name": "Machado de Lenhador",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/b084f73e1b61c452.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "b1b82b3a11204ba0",
+    "name": "Gibão de Couro Gasto",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/b1b82b3a11204ba0.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "b37e0345f827ef0d",
+    "name": "Espada da Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/b37e0345f827ef0d.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "b59ab453d6d9f15f",
+    "name": "Arco Rúnico",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/b59ab453d6d9f15f.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "b97412374741a2e8",
+    "name": "Manto de Pele",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/b97412374741a2e8.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "b9be3cc5236b68cc",
+    "name": "Dados de Madeira Esculpidos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/b9be3cc5236b68cc.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "bde723fb24d0c6ea",
+    "name": "Isca de Pesca de Madeira",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/bde723fb24d0c6ea.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "c0350b11c85ba6cb",
+    "name": "Pequena Algibeira com Sal",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c0350b11c85ba6cb.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "c25d493d4b9e12c7",
+    "name": "Pele Seca de Serpente",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c25d493d4b9e12c7.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "c3afe945cb76d086",
+    "name": "Saco de Tecido",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c3afe945cb76d086.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "c43c6c037304a199",
+    "name": "Sem Armadura",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c43c6c037304a199.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "c66dbaaa7fe70796",
+    "name": "Montante",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c66dbaaa7fe70796.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "c7708fa207d2927d",
+    "name": "Cajado Druídico",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c7708fa207d2927d.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "c804f377ab150102",
+    "name": "Brasas Fumegantes da Lareira",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c804f377ab150102.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "cc21e9ab22c4c877",
+    "name": "Feixe de Talos de Milefólio",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/cc21e9ab22c4c877.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "cd66b99b061f1bf2",
+    "name": "Fragmento de Pedra do Trovão",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/cd66b99b061f1bf2.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "d2b9d0030988fc6e",
+    "name": "Chifre de Beber Esculpido",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/d2b9d0030988fc6e.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "d37579540b69eea4",
+    "name": "Anzol de Ferro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/d37579540b69eea4.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "d3b33e147f9600f5",
+    "name": "Cogumelos Secos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/d3b33e147f9600f5.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "d524a9b541616ddb",
+    "name": "Armadura de Escamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/d524a9b541616ddb.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "d9d036c4608531eb",
+    "name": "Corrente Calcinante",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/d9d036c4608531eb.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "dca89aa713756b94",
+    "name": "Adaga de Osso de Lobo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/dca89aa713756b94.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "e010cabe3624b814",
+    "name": "Mangual de Tentáculos de Kraken",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/e010cabe3624b814.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "e0674f24ba5cd450",
+    "name": "Pedaço de Ferro do Pântano",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/e0674f24ba5cd450.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "e375525f80d68c30",
+    "name": "Martelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/e375525f80d68c30.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "e80c6ac3b84927d5",
+    "name": "Adaga Espectral",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/e80c6ac3b84927d5.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "eff45e35936c619e",
+    "name": "Ferramentas de Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/eff45e35936c619e.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f07b82e7864cae75",
+    "name": "Berrante de Guerra Rúnico",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f07b82e7864cae75.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f1dfb310218a666f",
+    "name": "Couraça de Couro Rebitado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f1dfb310218a666f.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f25267a1cd752219",
+    "name": "Arco Longo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f25267a1cd752219.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f28156cfc4e36073",
+    "name": "Agulha de Osso Afiado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f28156cfc4e36073.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f2ddebdb6fcf8196",
+    "name": "Galhos e Pederneira",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f2ddebdb6fcf8196.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f3b0c23ff4a95cbe",
+    "name": "Lança de Osso Dracônico",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f3b0c23ff4a95cbe.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f597a783a25a9acb",
+    "name": "Pano Ensanguentado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f597a783a25a9acb.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "f5ff5ef982360095",
+    "name": "Barbante com Nós do Destino",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f5ff5ef982360095.png"
+  },
+  {
+    "pack": "equipment",
+    "id": "ff6140cfc92502c6",
+    "name": "Odre",
+    "img": "systems/berserkr-rpg/assets/icons-custom/equipment/ff6140cfc92502c6.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "00c7fd7511719b97",
+    "name": "A Vontade do Ferreiro — Mestre Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/00c7fd7511719b97.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "03b2b5a355071016",
+    "name": "Resistência a Fogo — Construto de Chamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/03b2b5a355071016.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "049cad5ba00f7f3f",
+    "name": "Lança dos Dignos — Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/049cad5ba00f7f3f.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "049da40e54e26f19",
+    "name": "Fúria da Natureza — Guardião Vanir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/049da40e54e26f19.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "062807f893703ef6",
+    "name": "A Fúria do Inverno — Gigante de Gelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/062807f893703ef6.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "06b4defff5db7676",
+    "name": "Aprisionar Alma — Pastor de Almas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/06b4defff5db7676.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "07b236ce6ff31470",
+    "name": "Visão Noturna — Elfo da Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/07b236ce6ff31470.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "083b786b26b3cd62",
+    "name": "A Barganha de Hel — Pastor de Almas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/083b786b26b3cd62.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "0be90dde6793c216",
+    "name": "Reforja Rúnica — Mestre Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/0be90dde6793c216.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "1ad161f379e179d3",
+    "name": "Tempestade Rúnica — Arrasa-Reinos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/1ad161f379e179d3.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "1b874e3476d99941",
+    "name": "Juramento aos Ancestrais — Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/1b874e3476d99941.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "1d558c35c349e827",
+    "name": "Cheiro da Morte — Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/1d558c35c349e827.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "201da4a1d3d73424",
+    "name": "A Benção dos Vanir — Guardião Vanir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/201da4a1d3d73424.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "227cb5113e97b7b8",
+    "name": "Forma Radiante — Elfo da Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/227cb5113e97b7b8.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "23ab58d8151e9bd4",
+    "name": "Ritual da Águia de Sangue — Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/23ab58d8151e9bd4.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "26f68e143ad4eff1",
+    "name": "Tempestade dos Aesir — Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/26f68e143ad4eff1.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "2ac0b45918a88961",
+    "name": "O Renascimento de Ymir — Gigante de Gelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/2ac0b45918a88961.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "359717fd5e8e74af",
+    "name": "Comunhão com os Perdidos — Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/359717fd5e8e74af.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "3c99f73915af714a",
+    "name": "Punho Piroclástico — Construto de Chamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/3c99f73915af714a.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "3d963e57125bf9a5",
+    "name": "O Chamado do Valhalla — Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/3d963e57125bf9a5.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "3dfcb1bbfd4ae0ae",
+    "name": "A Marca dos Mortos — Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/3dfcb1bbfd4ae0ae.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "3e4f21fc4211d131",
+    "name": "Águas Restauradoras — Guardião Vanir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/3e4f21fc4211d131.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "4046ce66297e41e5",
+    "name": "Escudo da Natureza — Guardião Vanir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/4046ce66297e41e5.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "4069a088f3617f80",
+    "name": "Maestria Rúnica — Mestre Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/4069a088f3617f80.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "407a7f144be22ab3",
+    "name": "Fera Companheira — Guardião Vanir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/407a7f144be22ab3.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "435f02c925bfb3f6",
+    "name": "Véu de Luz — Elfo da Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/435f02c925bfb3f6.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "44d59b4d9ee359a9",
+    "name": "Asas da Tempestade — Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/44d59b4d9ee359a9.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "47d879856a536708",
+    "name": "Chama Viva — Construto de Chamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/47d879856a536708.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "49d54c5e3ef72f1a",
+    "name": "Cura Luminosa — Elfo da Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/49d54c5e3ef72f1a.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "54e18dc75c686e00",
+    "name": "O Abraço de Hel — Pastor de Almas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/54e18dc75c686e00.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "5b0213f9b92bde82",
+    "name": "A Resiliência do Ferreiro — Mestre Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/5b0213f9b92bde82.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "5bd024cb1d8f3385",
+    "name": "Réquiem do Repouso — Pastor de Almas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/5bd024cb1d8f3385.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "5becf3a1ef8953a5",
+    "name": "O Sacrifício do Berserkr — Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/5becf3a1ef8953a5.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "61de817a0efbdba8",
+    "name": "Véu da Morte — Pastor de Almas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/61de817a0efbdba8.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "63605b40569b3ad5",
+    "name": "O Saber da Natureza — Guardião Vanir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/63605b40569b3ad5.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "64b2149eef78693d",
+    "name": "Esplendor Ofuscante — Elfo da Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/64b2149eef78693d.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "650fa964afd9aed5",
+    "name": "Investida de Lava — Construto de Chamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/650fa964afd9aed5.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "6db1f16af155decc",
+    "name": "Fortalecimento Glacial — Gigante de Gelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/6db1f16af155decc.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "72fab0db9b7f6977",
+    "name": "Coração das Chamas — Construto de Chamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/72fab0db9b7f6977.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "7cde031b0af1ccc2",
+    "name": "Andarilho dos Mundos — Arrasa-Reinos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/7cde031b0af1ccc2.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "7f2ec7e08769a2ee",
+    "name": "Conversar com um Condenado — Pastor de Almas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/7f2ec7e08769a2ee.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "81e610083c75744e",
+    "name": "Feixe Solar — Elfo da Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/81e610083c75744e.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "8281113cb7dd8167",
+    "name": "Convocar Erupção — Construto de Chamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/8281113cb7dd8167.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "87a711eae28d5ab1",
+    "name": "Runa do Estilhaçamento — Mestre Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/87a711eae28d5ab1.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "8aa67d3f17b06fcf",
+    "name": "Aparição Nebulosa — Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/8aa67d3f17b06fcf.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "8ab675f0d94ec455",
+    "name": "Andarilho da Fenda — Arrasa-Reinos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/8ab675f0d94ec455.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "8bd37a8e85c753df",
+    "name": "Renascimento Verdejante — Guardião Vanir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/8bd37a8e85c753df.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "952facd827ba3ccb",
+    "name": "Bastião da Esperança — Elfo da Luz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/952facd827ba3ccb.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "99e1bb70bc9b8c40",
+    "name": "Arma Vinculada — Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/99e1bb70bc9b8c40.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "9dd5742970553e22",
+    "name": "Apoio dos Corvos — Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/9dd5742970553e22.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "a286cc5f07077e59",
+    "name": "Abraço Gélido — Gigante de Gelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/a286cc5f07077e59.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "a66346757ee30a19",
+    "name": "Aura de Imolação — Construto de Chamas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/a66346757ee30a19.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "a9d35365672e10dd",
+    "name": "Égide Gélida — Gigante de Gelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/a9d35365672e10dd.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "ad7bac6a39a6ac4d",
+    "name": "Andar entre os Reinos — Arrasa-Reinos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/ad7bac6a39a6ac4d.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "ae3b4b2b041e8a10",
+    "name": "Voo — Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/ae3b4b2b041e8a10.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "af959182b0967733",
+    "name": "A Voz Daquela que Escolhe — Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/af959182b0967733.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "b377338947785fde",
+    "name": "Olhos dos Caídos — Valquíria",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/b377338947785fde.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "b5a97551b7852154",
+    "name": "Resistência a Gelo — Gigante de Gelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/b5a97551b7852154.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "bc87a8cef86eff4c",
+    "name": "O Caminho Espiritual — Pastor de Almas",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/bc87a8cef86eff4c.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "c6b74ae9a80cc3bc",
+    "name": "Passo Fantasmagórico — Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/c6b74ae9a80cc3bc.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "cf1984288e8e6db6",
+    "name": "Fúria dos Homens — Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/cf1984288e8e6db6.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "d492b97a1a649f81",
+    "name": "Espírito da Pele de Lobo — Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/d492b97a1a649f81.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "d5aa389bbe0ffc20",
+    "name": "Memórias de Outrem — Arrasa-Reinos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/d5aa389bbe0ffc20.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "dbc33a6fb064c95c",
+    "name": "Especialista em Runas — Arrasa-Reinos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/dbc33a6fb064c95c.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "dcce98133ac87a8e",
+    "name": "Vigor de Ferro — Berserkr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/dcce98133ac87a8e.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "dd965fbd296a8e3e",
+    "name": "Forja Rápida — Mestre Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/dd965fbd296a8e3e.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "e675a88e8388ec4d",
+    "name": "Força do Titã — Gigante de Gelo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/e675a88e8388ec4d.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "ecea927b9bd1b8cf",
+    "name": "Lamento dos Perdidos — Espectro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/ecea927b9bd1b8cf.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "f1c2fbd0487687ef",
+    "name": "Inscrição Temporária — Arrasa-Reinos",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/f1c2fbd0487687ef.png"
+  },
+  {
+    "pack": "abilities",
+    "id": "fbae2928812e5508",
+    "name": "A Vontade da Bigorna — Mestre Ferreiro",
+    "img": "systems/berserkr-rpg/assets/icons-custom/abilities/fbae2928812e5508.png"
+  },
+  {
+    "pack": "runes",
+    "id": "05e3349068aa77f3",
+    "name": "Jera",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/05e3349068aa77f3.png"
+  },
+  {
+    "pack": "runes",
+    "id": "1c800c292e500d1a",
+    "name": "Raidho",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/1c800c292e500d1a.png"
+  },
+  {
+    "pack": "runes",
+    "id": "3652e0ec084d21d3",
+    "name": "Kenaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/3652e0ec084d21d3.png"
+  },
+  {
+    "pack": "runes",
+    "id": "37abb8939a41a417",
+    "name": "Nauthiz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/37abb8939a41a417.png"
+  },
+  {
+    "pack": "runes",
+    "id": "3b75241343506bd4",
+    "name": "Mannaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/3b75241343506bd4.png"
+  },
+  {
+    "pack": "runes",
+    "id": "3e0b9baf32b2ca3e",
+    "name": "Othala",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/3e0b9baf32b2ca3e.png"
+  },
+  {
+    "pack": "runes",
+    "id": "3ec3526d0cbb0a5f",
+    "name": "Algiz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/3ec3526d0cbb0a5f.png"
+  },
+  {
+    "pack": "runes",
+    "id": "4505087427206ae1",
+    "name": "Thurisaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/4505087427206ae1.png"
+  },
+  {
+    "pack": "runes",
+    "id": "46ab014ade9c7d14",
+    "name": "Isa",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/46ab014ade9c7d14.png"
+  },
+  {
+    "pack": "runes",
+    "id": "4c68c032cfe52bd6",
+    "name": "Ansuz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/4c68c032cfe52bd6.png"
+  },
+  {
+    "pack": "runes",
+    "id": "683e4c80e0f9f7a7",
+    "name": "Laguz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/683e4c80e0f9f7a7.png"
+  },
+  {
+    "pack": "runes",
+    "id": "6c691fdbf6396c63",
+    "name": "Pertho",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/6c691fdbf6396c63.png"
+  },
+  {
+    "pack": "runes",
+    "id": "6f1bb54882e79e6c",
+    "name": "Eihwaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/6f1bb54882e79e6c.png"
+  },
+  {
+    "pack": "runes",
+    "id": "7254357ea4beb564",
+    "name": "Fehu",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/7254357ea4beb564.png"
+  },
+  {
+    "pack": "runes",
+    "id": "7e3cf9fb7f288d87",
+    "name": "Wunjo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/7e3cf9fb7f288d87.png"
+  },
+  {
+    "pack": "runes",
+    "id": "93178ab7b9c8c978",
+    "name": "Ehwaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/93178ab7b9c8c978.png"
+  },
+  {
+    "pack": "runes",
+    "id": "a4429e0195d1bc90",
+    "name": "Hagalaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/a4429e0195d1bc90.png"
+  },
+  {
+    "pack": "runes",
+    "id": "a633e7cfe0fa1417",
+    "name": "Sowilo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/a633e7cfe0fa1417.png"
+  },
+  {
+    "pack": "runes",
+    "id": "a6d02f045d8b5a5b",
+    "name": "Dagaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/a6d02f045d8b5a5b.png"
+  },
+  {
+    "pack": "runes",
+    "id": "b305d346ef70cb19",
+    "name": "Uruz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/b305d346ef70cb19.png"
+  },
+  {
+    "pack": "runes",
+    "id": "d0bfa07c23ad1b0a",
+    "name": "Ingwaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/d0bfa07c23ad1b0a.png"
+  },
+  {
+    "pack": "runes",
+    "id": "dbc088e13c6fd904",
+    "name": "Berkano",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/dbc088e13c6fd904.png"
+  },
+  {
+    "pack": "runes",
+    "id": "e2da59553f05cd16",
+    "name": "Tiwaz",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/e2da59553f05cd16.png"
+  },
+  {
+    "pack": "runes",
+    "id": "f3f0f8674a96ff00",
+    "name": "Gebo",
+    "img": "systems/berserkr-rpg/assets/icons-custom/runes/f3f0f8674a96ff00.png"
+  },
+  {
+    "pack": "relics",
+    "id": "019f468e83b65d4e",
+    "name": "Andvaranaut",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/019f468e83b65d4e.png"
+  },
+  {
+    "pack": "relics",
+    "id": "063c7e9c6a4651fb",
+    "name": "Espada Enferrujada",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/063c7e9c6a4651fb.png"
+  },
+  {
+    "pack": "relics",
+    "id": "0bd57aa3a87dc891",
+    "name": "Brísingamen",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/0bd57aa3a87dc891.png"
+  },
+  {
+    "pack": "relics",
+    "id": "1490157a6c68f610",
+    "name": "Espelho de Freyja",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/1490157a6c68f610.png"
+  },
+  {
+    "pack": "relics",
+    "id": "29e747d36ef89c2f",
+    "name": "Fome Lacerante",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/29e747d36ef89c2f.png"
+  },
+  {
+    "pack": "relics",
+    "id": "381f223edb24c2d2",
+    "name": "Olho de Andvari",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/381f223edb24c2d2.png"
+  },
+  {
+    "pack": "relics",
+    "id": "5f2fc3f4906fa8a5",
+    "name": "Anel de Osso",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/5f2fc3f4906fa8a5.png"
+  },
+  {
+    "pack": "relics",
+    "id": "7003adf946648ba4",
+    "name": "Helbindr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/7003adf946648ba4.png"
+  },
+  {
+    "pack": "relics",
+    "id": "751781b7381e2acf",
+    "name": "Escamas de Jörmungandr",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/751781b7381e2acf.png"
+  },
+  {
+    "pack": "relics",
+    "id": "79e9d69a59c78615",
+    "name": "Mjölnir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/79e9d69a59c78615.png"
+  },
+  {
+    "pack": "relics",
+    "id": "8a35d7ca52e9fb9a",
+    "name": "Lævateinn",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/8a35d7ca52e9fb9a.png"
+  },
+  {
+    "pack": "relics",
+    "id": "91ddb62ede21a35b",
+    "name": "Moeda de Hel",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/91ddb62ede21a35b.png"
+  },
+  {
+    "pack": "relics",
+    "id": "b6e4674a912f62f3",
+    "name": "Corrente Inquebrável",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/b6e4674a912f62f3.png"
+  },
+  {
+    "pack": "relics",
+    "id": "b789428afaaf06ab",
+    "name": "Espada do Condenado",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/b789428afaaf06ab.png"
+  },
+  {
+    "pack": "relics",
+    "id": "ec132a7b0a12fe7f",
+    "name": "Gungnir",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/ec132a7b0a12fe7f.png"
+  },
+  {
+    "pack": "relics",
+    "id": "f6bedbd3eca2463c",
+    "name": "Adaga da Traição",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/f6bedbd3eca2463c.png"
+  },
+  {
+    "pack": "relics",
+    "id": "fa2225f87279be46",
+    "name": "Grito de Luality",
+    "img": "systems/berserkr-rpg/assets/icons-custom/relics/fa2225f87279be46.png"
+  }
+]

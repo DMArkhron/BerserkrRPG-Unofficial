@@ -1,0 +1,28 @@
+{
+  "_id": "1bb4ed7232e7ac94",
+  "name": "Bjorn, o Espectro do Gelo",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "d48b9a30872d6948",
+      "name": "Bjorn, o Espectro do Gelo",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/bjorn-o-espectro-do-gelo.webp\" alt=\"Bjorn, o Espectro do Gelo\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Bjorn, o Espectro do Gelo</h2><p>Antigo guardião de Midgard transformado pelo Fimbulwinter. O herói desapareceu sob uma fúria predatória que agora espreita além da luz das fogueiras.</p><p><strong>Reino:</strong> Midgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.37807e8deba7a170]{Ficha de Bjorn, o Espectro do Gelo}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!1bb4ed7232e7ac94.d48b9a30872d6948"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.37807e8deba7a170"
+    }
+  },
+  "_key": "!journal!1bb4ed7232e7ac94"
+}

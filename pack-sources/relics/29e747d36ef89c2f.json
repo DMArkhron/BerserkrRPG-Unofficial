@@ -1,0 +1,39 @@
+{
+  "_id": "29e747d36ef89c2f",
+  "name": "Fome Lacerante",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/29e747d36ef89c2f.png",
+  "system": {
+    "description": "Machado concede +2 de Força. Após combate, matar criatura viva em 12 horas ou perder 2PV permanentemente.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!29e747d36ef89c2f"
+}

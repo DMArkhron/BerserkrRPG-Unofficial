@@ -1,0 +1,39 @@
+{
+  "_id": "3652e0ec084d21d3",
+  "name": "Kenaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/3652e0ec084d21d3.png",
+  "system": {
+    "description": "ᚳ — Kenaz\n\nFeitiço\nEvoque uma luz radiante, revelando objetos ou criaturas escondidas.\n\nInscrição em arma ou armadura\nMarque um inimigo com a Runa Kenaz, causando-lhe cegueira e também fazendo-o brilhar intensamente, tornando-o visível através de paredes, escuridão ou ocultação mágica. Os ataques feitos contra o inimigo marcado recebem vantagem.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Evoque uma luz radiante, revelando objetos ou criaturas escondidas.",
+    "inscription": "Marque um inimigo com a Runa Kenaz, causando-lhe cegueira e também fazendo-o brilhar intensamente, tornando-o visível através de paredes, escuridão ou ocultação mágica. Os ataques feitos contra o inimigo marcado recebem vantagem.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!3652e0ec084d21d3"
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "8215c86cf0f928ab",
+  "name": "Condições",
+  "pages": [
+    {
+      "_id": "c2c4f3f96a87b451",
+      "name": "Condições",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h2>Condições</h2><p>Envenenado: no início da rodada, Fortitude CD12; falha causa d4 de dano e desvantagem nos Testes da rodada. Fora do combate, todos os Testes com desvantagem. Cura por antídoto, magia ou após d4 horas.</p><p>Febril: no início do dia, Fortitude CD10; falha causa fadiga até descanso longo e desvantagem em Esperteza. Após três dias, Fortitude CD14 diariamente para não perder d8PV.</p><p>Cego: desvantagem em ataques e Testes dependentes de visão. PJs defendem com vantagem contra inimigo cego. Em viagem, Agilidade CD12 quando o mestre julgar; falha causa d2 de dano.</p><p>Fatigado: desvantagem em Força e Agilidade. Esforço físico exige Fortitude CD10; falha deixa incapaz de agir por uma rodada. Dura até seis horas de descanso ininterrupto.</p><p>Atordoado: não pode mover-se, aparar ou atacar na próxima rodada. Ataques contra o alvo têm vantagem; a defesa do alvo tem desvantagem.</p><p>Prostrado: ataques e defesas do alvo com desvantagem; ataques contra o alvo com vantagem. Levantar requer uma ação.</p><p>Este resumo usa o capítulo principal, p. 129. A folha de referência final apresenta CDs diferentes para algumas condições; a diferença foi preservada como observação, não como automação.</p><p><em>Berserkr — Livro Básico, PDF p. 65 (páginas impressas 128–129).</em></p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!8215c86cf0f928ab.c2c4f3f96a87b451"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!8215c86cf0f928ab",
+  "categories": []
+}

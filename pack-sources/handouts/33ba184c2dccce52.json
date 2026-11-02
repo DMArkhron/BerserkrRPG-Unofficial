@@ -1,0 +1,28 @@
+{
+  "_id": "33ba184c2dccce52",
+  "name": "Hrímgrímnir",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "a645871442d8e390",
+      "name": "Hrímgrímnir",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/hrimgrimnir.webp\" alt=\"Hrímgrímnir\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Hrímgrímnir</h2><p>Jarl Congelado de Niflheim. Reúne espectros e aparições gélidas sob uma autoridade tão implacável quanto o inverno.</p><p><strong>Reino:</strong> Niflheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.197c0ce48a737800]{Ficha de Hrímgrímnir}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!33ba184c2dccce52.a645871442d8e390"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.197c0ce48a737800"
+    }
+  },
+  "_key": "!journal!33ba184c2dccce52"
+}

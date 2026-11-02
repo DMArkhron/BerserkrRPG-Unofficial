@@ -1,0 +1,40 @@
+{
+  "_id": "407a7f144be22ab3",
+  "name": "Fera Companheira — Guardião Vanir",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/407a7f144be22ab3.png",
+  "system": {
+    "description": "Role d6: 1–2 Lobo (6PV, mordida d6); 3–4 Falcão (4PV, garras d4); 5–6 Urso (8PV, garra d8). Age após seu turno. Se morrer, novo companheiro pode ser convocado depois de d4 dias.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+    "realm": "Vanaheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "ce20f5e1fb32d411",
+  "_key": "!items!407a7f144be22ab3"
+}

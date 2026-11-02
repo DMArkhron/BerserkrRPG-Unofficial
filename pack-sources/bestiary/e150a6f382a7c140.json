@@ -1,0 +1,165 @@
+{
+  "_id": "e150a6f382a7c140",
+  "name": "Ælfric",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/aelfric.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 18,
+      "max": 18
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Alfheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Alfheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "4a12949f944564cc",
+      "name": "Lança Luminosa",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Ælfric. Inimigo nomeado de Alfheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e150a6f382a7c140.4a12949f944564cc"
+    },
+    {
+      "_id": "09efb6f36a1bf8ac",
+      "name": "Proteção de Ælfric",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e150a6f382a7c140.09efb6f36a1bf8ac"
+    },
+    {
+      "_id": "5e397bd7e3cb7bdb",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Ælfric — um nome que outrora era frequentemente pronunciado nas cidades de Alfheim. Ele governa a Corte Luminosa como um rei nas trevas, visto, mas não ouvido. Ele não é apenas um elfo com um título pomposo — é o próprio coração pulsante da luz de Alfheim, o último fio que mantém tudo unido.\n\nAtive uma vez para cegar por d3 rodadas todos os inimigos que puderem vê-lo.\n\nUma vez por encontro, Ælfric pode usar seu Escudo Espelhado para refletir um feitiço ou ataque de à distância de volta para o atacante. O atacante sofre o dano ou efeito original que pretendia causar a Ælfric.\n\nQuando Ælfric ativar esta habilidade, sua lança emite um clarão intenso e ofuscante. Todos os inimigos que puderem ver a arma precisam Testar Esperteza CD14 para não ficarem cegos por uma rodada, aumentando em +4 sua CD de ataque durante esse período.\n\nÆlfric tem apenas uma coisa em mente: manter viva a magia antiga, os costumes ancestrais. Sem concessões, sem dobrar-se. Quem pensa que vai mudar isso pode muito bem esperar sentado.\n\nPV\n\nLANÇA LUMINOSA\n\nARMADURA REFLETORA\n\nA LUZ DA CORTE\n\nESCUDO ESPELHADO\n\nCEGAR COM LUZ\n\nd8+2\n\n–d3",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e150a6f382a7c140.5e397bd7e3cb7bdb"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Ælfric",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/aelfric.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.2d6cf54aa2402f10"
+    }
+  },
+  "folder": "8514cb292f74651b",
+  "_key": "!actors!e150a6f382a7c140"
+}

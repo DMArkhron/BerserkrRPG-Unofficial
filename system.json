@@ -1,0 +1,187 @@
+{
+  "id": "berserkr-rpg",
+  "title": "Berserkr RPG",
+  "description": "Sistema Berserkr para Foundry VTT 13: compêndios, gerador e automações da ficha.",
+  "version": "0.20.7",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "DM Arkhron"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/system.css",
+    "styles/art.css",
+    "styles/tabs.css",
+    "styles/themes.css",
+    "styles/generator.css",
+    "styles/sheets-ink.css",
+    "styles/saga-sheet.css",
+    "styles/chat-combat.css",
+    "styles/ragnarok-tracker.css",
+    "styles/pause-logo.css"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "creature": {}
+    },
+    "Item": {
+      "weapon": {},
+      "armor": {},
+      "rune": {},
+      "ability": {},
+      "equipment": {},
+      "class": {}
+    }
+  },
+  "packs": [
+    {
+      "name": "abilities",
+      "label": "Berserkr • Habilidades de Classe",
+      "path": "packs/abilities",
+      "type": "Item",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes",
+      "label": "Berserkr • Classes",
+      "path": "packs/classes",
+      "type": "Item",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tables",
+      "label": "Berserkr • Tabelas",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "runes",
+      "label": "Berserkr • Runas",
+      "path": "packs/runes",
+      "type": "Item",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment",
+      "label": "Berserkr • Equipamentos",
+      "path": "packs/equipment",
+      "type": "Item",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "relics",
+      "label": "Berserkr • Relíquias e Itens Amaldiçoados",
+      "path": "packs/relics",
+      "type": "Item",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bestiary",
+      "label": "Berserkr • Bestiário — Nove Reinos",
+      "path": "packs/bestiary",
+      "type": "Actor",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gods",
+      "label": "Berserkr • Deuses e Chefes do Ragnarök",
+      "path": "packs/gods",
+      "type": "Actor",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "companions",
+      "label": "Berserkr • Companheiros e Lacaios",
+      "path": "packs/companions",
+      "type": "Actor",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rules",
+      "label": "Berserkr • Regras e Referências",
+      "path": "packs/rules",
+      "type": "JournalEntry",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "handouts",
+      "label": "Berserkr • Handouts Ilustrados",
+      "path": "packs/handouts",
+      "type": "JournalEntry",
+      "system": "berserkr-rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "systems/berserkr-rpg/assets/covers/berserkr-system-cover-0.20.1.png",
+      "thumbnail": "systems/berserkr-rpg/assets/covers/berserkr-system-cover-0.20.1.png",
+      "caption": "Berserkr RPG — DM Arkhron"
+    }
+  ],
+  "url": "https://github.com/DMArkhron/BerserkrRPG-Unofficial",
+  "manifest": "https://github.com/DMArkhron/BerserkrRPG-Unofficial/releases/latest/download/system.json",
+  "download": "https://github.com/DMArkhron/BerserkrRPG-Unofficial/releases/download/v0.20.7/berserkr-rpg-v0.20.7.zip",
+  "bugs": "https://github.com/DMArkhron/BerserkrRPG-Unofficial/issues"
+}

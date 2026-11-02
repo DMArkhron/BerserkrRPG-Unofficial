@@ -1,0 +1,200 @@
+/* Original PNG art, class palettes and readable paper panels for every sheet. */
+.berserkr.actor-sheet,.berserkr.item-sheet{--theme-bg:#20272c;--theme-panel:#343e45;--theme-accent:#c2b494;--theme-ink:#eee8d3;--paper:#eee8d3;--ink:#171b20}
+.berserkr.actor-sheet .window-header,.berserkr.item-sheet .window-header{background:var(--theme-bg);border-bottom:3px solid var(--theme-accent);color:var(--theme-ink)}
+.berserkr.actor-sheet .window-content,.berserkr.item-sheet .window-content{container-type:inline-size;background:var(--theme-bg)}
+.berserkr .ink-sheet{--b-ink:var(--theme-ink);--b-gold:var(--theme-accent);--b-red:var(--theme-accent);--b-muted:var(--theme-ink);color:var(--theme-ink);background:linear-gradient(120deg,color-mix(in srgb,var(--theme-bg) 94%,transparent),color-mix(in srgb,var(--theme-panel) 86%,transparent)),url('../assets/generator/ink-texture.png') center/650px;padding:16px;gap:12px}
+.berserkr .ink-sheet *{box-sizing:border-box;min-width:0}
+.berserkr .ink-sheet button{height:auto;line-height:1.3;white-space:normal;text-wrap:pretty;min-height:30px;border:2px solid #090d12;border-radius:0;background:var(--theme-panel);color:var(--theme-ink);box-shadow:2px 2px 0 #090d12;padding:7px 10px;font-weight:700;font-size:12px}
+.berserkr .ink-sheet button:hover{background:var(--theme-accent);color:var(--ink)}
+.berserkr .ink-sheet button:focus-visible,.berserkr .ink-sheet input:focus-visible,.berserkr .ink-sheet select:focus-visible,.berserkr .ink-sheet textarea:focus-visible{outline:3px solid var(--theme-accent);outline-offset:2px}
+.berserkr .ink-sheet input,.berserkr .ink-sheet select,.berserkr .ink-sheet textarea{color:var(--ink);background:var(--paper);border:2px solid #090d12;border-radius:0;min-height:34px;font-size:13px;padding:6px 8px;box-shadow:none}
+.berserkr .ink-sheet select option{color:var(--ink);background:var(--paper)}
+.berserkr .ink-sheet textarea::placeholder{color:#58616a}
+.berserkr .ink-sheet label{color:var(--theme-ink);font-size:11px;letter-spacing:.5px}
+.berserkr .ink-sheet .hero{background-position:right 29%;background-size:cover;min-height:174px;grid-template-columns:120px minmax(0,1fr);gap:20px;border:3px solid #090d12;box-shadow:4px 4px 0 #090d12;padding:14px 18px}
+.berserkr .ink-sheet .hero::after{left:0;bottom:0;width:100%;height:4px;background:var(--theme-accent)}
+.berserkr .ink-sheet .hero-identity{padding-right:22%;align-self:center}
+.berserkr .ink-sheet .hero .brand{display:inline-block;background:var(--paper);color:var(--ink);padding:5px 10px;letter-spacing:1.2px;font-size:10px;clip-path:polygon(0 0,100% 0,97% 100%,0 100%);margin:0 0 7px}
+.berserkr .ink-sheet .hero input.character-name{color:var(--theme-ink);border:0;border-bottom:2px solid var(--theme-accent);background:transparent;font-size:29px;margin:0 0 9px;min-height:38px;padding:0 0 4px;text-shadow:1px 2px 0 #000}
+.berserkr .ink-sheet .hero label input,.berserkr .ink-sheet .hero label select{font-size:12px;min-height:30px;padding:3px 6px;margin-top:3px}
+.berserkr .ink-sheet .portrait-frame{transform:rotate(-2deg);border:3px solid #090d12;box-shadow:3px 3px 0 var(--theme-accent);background:var(--theme-bg)}
+.berserkr .ink-sheet .hero .portrait-frame img{height:116px;object-fit:cover;border:0}
+.berserkr .ink-sheet .portrait-frame span{font-size:8px;letter-spacing:.5px;padding:5px;background:var(--theme-accent);color:var(--ink);overflow-wrap:anywhere}
+.berserkr .ink-sheet .hero-caption{color:var(--theme-ink);font-size:10px;margin:6px 0 0}
+.berserkr .ink-sheet .sheet-overview{gap:10px}
+.berserkr .ink-sheet .sheet-masthead{min-height:32px;gap:10px}
+.berserkr .ink-sheet .wordmark{height:34px;width:190px}
+.berserkr .ink-sheet .masthead-tools>span{font-size:9px;color:var(--theme-ink);letter-spacing:1px}
+.berserkr .ink-sheet .masthead-tools button,.berserkr .ink-sheet .resource-foot button{background:var(--theme-accent);color:var(--ink);font-size:11px}
+.berserkr .ink-sheet .resource-deck{gap:10px;margin:0}
+.berserkr .ink-sheet .resource-card{background:var(--paper);border:2px solid #090d12;border-top:4px solid var(--theme-accent);box-shadow:3px 3px 0 #090d12;grid-template-columns:45px minmax(0,1fr);padding:7px 10px;gap:8px;color:var(--ink)}
+.berserkr .ink-sheet .resource-card::before{display:none}
+.berserkr .ink-sheet .resource-card>img{height:43px;width:43px;background:var(--theme-bg);border:2px solid #090d12}
+.berserkr .ink-sheet .resource-card label{color:var(--ink);font-size:13px}
+.berserkr .ink-sheet .resource-card label span{color:#52606a;font-size:9px;letter-spacing:0}
+.berserkr .ink-sheet .resource-card input{color:var(--ink);background:transparent;width:49px;min-height:31px;font-size:26px;padding:0;border:0}
+.berserkr .ink-sheet .resource-card em{color:#56616b;font-size:20px}
+.berserkr .ink-sheet .resource-foot{margin:0;gap:8px}
+.berserkr .ink-sheet .resource-foot>span{color:var(--theme-ink);font-size:10px}
+.berserkr .ink-sheet .attribute-panel,.berserkr .ink-sheet .combat-panel,.berserkr .ink-sheet .condition-panel,.berserkr .ink-sheet .ready-weapons,.berserkr .ink-sheet .ready-armor,.berserkr .ink-sheet .saga-panel,.berserkr .ink-sheet .notes-panel,.berserkr .ink-sheet .ink-panel{padding:12px;background:var(--theme-panel);border:2px solid #090d12;box-shadow:3px 3px 0 #090d12}
+.berserkr .ink-sheet .ink-section-title{display:table;color:var(--ink);background:var(--paper);font-size:12px;line-height:1.3;text-transform:uppercase;font-weight:800;letter-spacing:.7px;clip-path:polygon(0 0,100% 0,calc(100% - 8px) 100%,0 100%);padding:6px 18px 6px 9px;margin:0 0 10px;border:0;text-shadow:none}
+.berserkr .ink-sheet .attribute-panel{padding:9px 12px}
+.berserkr .ink-sheet .attribute-panel .ink-section-title{margin-bottom:7px;padding:4px 18px 4px 8px}
+.berserkr .ink-sheet .attribute-card{background:var(--paper);border:2px solid #090d12;padding:0;border-bottom:4px solid var(--theme-accent)}
+.berserkr .ink-sheet .attribute-card button{display:flex;align-items:center;justify-content:center;flex-direction:row;gap:5px;background:none;color:var(--ink);border:0;box-shadow:none;font-size:11px;padding:5px 2px 0;min-height:32px}
+.berserkr .ink-sheet .attribute-card img{height:26px;width:26px;background:var(--theme-bg);border:0}
+.berserkr .ink-sheet .attribute-card input{background:transparent;color:var(--ink);border:0;font-size:27px;min-height:28px;padding:0}
+.berserkr .ink-sheet .hint{color:var(--theme-ink);font-size:11px;line-height:1.5}
+.berserkr .ink-sheet .attribute-panel .hint{margin:6px 0 0;font-size:10px}
+.berserkr .ink-sheet .sheet-tabs{background:#090d12;border:2px solid #090d12;box-shadow:3px 3px 0 #090d12;padding:3px;gap:4px}
+.berserkr .ink-sheet .sheet-tabs button{color:var(--theme-ink);background:var(--theme-panel);font-size:12px;min-height:42px;border:0;box-shadow:none;gap:6px;padding:7px 5px}
+.berserkr .ink-sheet .sheet-tabs button.selected{background:var(--theme-accent);color:var(--ink);box-shadow:inset 0 -3px 0 var(--paper)}
+.berserkr .ink-sheet .sheet-tabs button img{width:25px;height:25px;opacity:1;background:var(--theme-bg)}
+.berserkr .ink-sheet .sheet-tabs button small{background:#090d12;color:var(--paper)}
+.berserkr .ink-sheet .sheet-tab-panels{min-height:120px;padding:2px 4px 5px 0;scrollbar-color:var(--theme-accent) var(--theme-bg)}
+.berserkr .ink-sheet .tab-title{border-bottom:3px solid #090d12;padding:7px 0 10px;margin-bottom:12px}
+.berserkr .ink-sheet .tab-title h2{color:var(--theme-ink);font-size:24px;text-transform:uppercase}
+.berserkr .ink-sheet .tab-title span,.berserkr .ink-sheet .tab-title>p{color:var(--theme-ink);font-size:10px;letter-spacing:.5px}
+.berserkr .ink-sheet .sheet-columns,.berserkr .ink-sheet .sheet-column{gap:12px}
+.berserkr .ink-sheet .load-stat{background:var(--paper);color:var(--ink);border:2px solid #090d12}
+.berserkr .ink-sheet .load-stat small,.berserkr .ink-sheet .load-stat strong span{color:#4d5861}
+.berserkr .ink-sheet .combat-stats{margin:12px 0}
+.berserkr .ink-sheet .rest-actions,.berserkr .ink-sheet .effect-row,.berserkr .ink-sheet .utility-drawer{border-color:#090d12}
+.berserkr .ink-sheet .utility-drawer summary,.berserkr .ink-sheet .effect-row small{color:var(--theme-ink)}
+.berserkr .ink-sheet .condition-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}
+.berserkr .ink-sheet button[aria-pressed=true]{background:var(--theme-accent);color:var(--ink);border-color:var(--paper);box-shadow:2px 2px 0 #090d12}
+.berserkr .ink-sheet .weapon-ready-row{border-color:#090d12}
+.berserkr .ink-sheet .weapon-ready-row small{color:var(--theme-ink);font-size:10px}
+.berserkr .ink-sheet .weapon-ready-row .item-name{color:var(--theme-ink)}
+.berserkr .ink-sheet .inventory-summary{background:var(--theme-accent);color:var(--ink);border:2px solid #090d12;box-shadow:3px 3px 0 #090d12}
+.berserkr .ink-sheet .inventory-summary strong,.berserkr .ink-sheet .inventory-summary>small{color:var(--ink)}
+.berserkr .ink-sheet .power-card,.berserkr .ink-sheet .inventory-grid>.item-row{background:var(--paper);border:2px solid #090d12;border-top:5px solid var(--theme-accent);color:var(--ink);box-shadow:3px 3px 0 #090d12;padding:13px}
+.berserkr .ink-sheet .power-card p{color:var(--ink);font-size:12px;line-height:1.6}
+.berserkr .ink-sheet .power-heading small,.berserkr .ink-sheet .item-detail>span{color:#52606a;font-size:10px}
+.berserkr .ink-sheet .item-name,.berserkr .ink-sheet .power-heading .item-name{color:var(--ink);background:transparent;box-shadow:none;border:0;padding:0;font-size:13px;min-height:0;text-align:left}
+.berserkr .ink-sheet .item-actions{gap:6px;border-color:#090d12}
+.berserkr .ink-sheet .item-actions button{font-size:11px;min-height:28px;padding:5px 8px;background:var(--theme-bg);color:var(--theme-ink);border:1px solid #090d12}
+.berserkr .ink-sheet .item-actions button:first-child{background:var(--theme-accent);color:var(--ink);border-color:#090d12}
+.berserkr .ink-sheet .inventory-empty{border:2px dashed var(--theme-accent);color:var(--theme-ink)}
+.berserkr .ink-sheet .warning{background:#ffe1ad;color:#4e2616;padding:5px;font-weight:bold}
+.berserkr .ink-sheet .sheet-footer{color:var(--theme-ink);border-color:var(--theme-accent);font-size:8px;letter-spacing:1px}
+.berserkr .ink-item{overflow:visible}
+.berserkr.item-sheet .ink-sheet .hero{grid-template-columns:92px minmax(0,1fr);min-height:138px;padding:12px;gap:14px;background-position:right 28%}
+.berserkr.item-sheet .ink-sheet .hero>img{height:92px;width:92px;border:3px solid #090d12;box-shadow:3px 3px 0 var(--theme-accent)}
+.berserkr.item-sheet .ink-sheet .hero input[name=name]{font-size:19px;font-weight:bold}
+.berserkr.item-sheet .ink-sheet input[type=checkbox]{width:18px;height:18px;min-height:18px;accent-color:var(--theme-accent)}
+.berserkr.item-sheet .ink-sheet .ink-panel button{width:100%;margin:4px 0;text-align:left}
+@container (max-width:740px){
+ .berserkr .ink-sheet{padding:12px;gap:9px}
+ .berserkr .ink-sheet .masthead-tools>span{display:none}
+ .berserkr .ink-sheet .hero{grid-template-columns:94px minmax(0,1fr);padding:12px;gap:14px;min-height:152px}
+ .berserkr .ink-sheet .hero-identity{padding-right:0}
+ .berserkr .ink-sheet .hero .portrait-frame img{height:98px}
+ .berserkr .ink-sheet .hero input.character-name{font-size:24px}
+ .berserkr .ink-sheet .hero-caption{display:none}
+ .berserkr .ink-sheet .resource-card{grid-template-columns:30px minmax(0,1fr);padding:6px;gap:4px}
+ .berserkr .ink-sheet .resource-card>img{width:29px;height:29px}
+ .berserkr .ink-sheet .resource-card label span{display:none}
+ .berserkr .ink-sheet .resource-card input{width:38px;font-size:24px}
+ .berserkr .ink-sheet .sheet-columns,.berserkr .ink-sheet .inventory-grid{grid-template-columns:1fr}
+ .berserkr .ink-sheet .attribute-card button{flex-direction:column;gap:2px;font-size:10px}
+ .berserkr .ink-sheet .sheet-tabs button{gap:4px;font-size:11px}
+ .berserkr .ink-sheet .sheet-tabs button small{display:none}
+ .berserkr .ink-sheet .tab-title{flex-wrap:wrap}
+}
+@container (max-width:520px){
+ .berserkr .ink-sheet .resource-card{grid-template-columns:minmax(0,1fr)}
+ .berserkr .ink-sheet .resource-card>img{display:none}
+ .berserkr .ink-sheet .resource-card .pair{justify-content:center;gap:3px}
+ .berserkr .ink-sheet .resource-card label{text-align:center;display:block}
+ .berserkr .ink-sheet .resource-card input{width:37px}
+ .berserkr .ink-sheet .sheet-tabs button{flex-direction:column;font-size:10px;min-height:55px;gap:3px}
+ .berserkr .ink-sheet .wordmark{width:160px}
+ .berserkr .ink-sheet .attribute-card button{font-size:9px}
+ .berserkr .ink-sheet .attribute-panel{padding:8px}
+ .berserkr .ink-sheet .resource-foot>span{display:none}
+ .berserkr .ink-sheet .hero{grid-template-columns:82px minmax(0,1fr);gap:10px;padding:10px}
+ .berserkr .ink-sheet .hero .brand{font-size:9px;letter-spacing:.4px;padding:4px 6px}
+ .berserkr .ink-sheet .hero input.character-name{font-size:22px}
+ .berserkr .ink-sheet .hero .grid.two{grid-template-columns:1fr;gap:3px}
+ .berserkr .ink-sheet .hero .portrait-frame img{height:108px}
+ .berserkr .ink-sheet .attribute-panel .hint{display:none}
+ .berserkr.item-sheet .ink-sheet .grid.three,.berserkr.item-sheet .ink-sheet .grid.five{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+.berserkr .ink-sheet .combat-actions button[data-operation=damage]{background:color-mix(in srgb,var(--theme-accent) 30%,var(--theme-bg));color:var(--theme-ink);border-color:var(--theme-accent)}
+/* v0.12.1: compact dimensions and usable resizing at small heights. */
+.berserkr.actor-sheet{min-width:440px;min-height:440px}
+.berserkr.item-sheet{min-width:360px;min-height:360px}
+.berserkr.actor-sheet .window-content{container-type:size}
+.berserkr .ink-sheet{padding:10px;gap:7px}
+.berserkr .ink-sheet .sheet-overview{gap:7px}
+.berserkr .ink-sheet .sheet-masthead{min-height:25px}
+.berserkr .ink-sheet .wordmark{width:155px;height:26px}
+.berserkr .ink-sheet button{min-height:26px;padding:5px 8px;font-size:11px;box-shadow:1px 1px 0 #090d12}
+.berserkr .ink-sheet input,.berserkr .ink-sheet select{min-height:28px;padding:4px 6px;font-size:12px}
+.berserkr .ink-sheet label{font-size:10px}
+.berserkr .ink-sheet .masthead-tools button,.berserkr .ink-sheet .resource-foot button{font-size:10px;padding:4px 7px;min-height:24px}
+.berserkr .ink-sheet .hero{min-height:110px;grid-template-columns:78px minmax(0,1fr);padding:9px 12px;gap:13px}
+.berserkr .ink-sheet .hero .portrait-frame img{height:75px}
+.berserkr .ink-sheet .portrait-frame span{font-size:7px;padding:3px}
+.berserkr .ink-sheet .hero .brand{font-size:9px;padding:3px 8px;margin-bottom:4px}
+.berserkr .ink-sheet .hero input.character-name{font-size:23px;min-height:28px;margin-bottom:5px;padding-bottom:2px}
+.berserkr .ink-sheet .hero label input,.berserkr .ink-sheet .hero label select{min-height:26px;font-size:11px;margin-top:1px}
+.berserkr .ink-sheet .hero-caption{display:none}
+.berserkr .ink-sheet .resource-deck{gap:7px}
+.berserkr .ink-sheet .resource-card{grid-template-columns:30px minmax(0,1fr);padding:5px 7px;gap:6px;border-top-width:3px}
+.berserkr .ink-sheet .resource-card>img{width:28px;height:28px}
+.berserkr .ink-sheet .resource-card label{font-size:11px}
+.berserkr .ink-sheet .resource-card label span{font-size:8px}
+.berserkr .ink-sheet .resource-card input{width:39px;min-height:25px;font-size:22px}
+.berserkr .ink-sheet .resource-card em{font-size:16px}
+.berserkr .ink-sheet .attribute-panel{padding:6px 8px}
+.berserkr .ink-sheet .attribute-panel .ink-section-title{font-size:10px;padding:3px 14px 3px 7px;margin-bottom:5px}
+.berserkr .ink-sheet .attribute-card button{flex-direction:row;gap:4px;font-size:10px;min-height:26px;padding:3px 2px 0}
+.berserkr .ink-sheet .attribute-card img{width:20px;height:20px}
+.berserkr .ink-sheet .attribute-card input{min-height:23px;font-size:22px}
+.berserkr .ink-sheet .attribute-panel .hint{font-size:9px;margin-top:4px}
+.berserkr .ink-sheet .sheet-tabs{padding:2px;gap:3px}
+.berserkr .ink-sheet .sheet-tabs button{min-height:34px;padding:4px;font-size:11px;gap:4px}
+.berserkr .ink-sheet .sheet-tabs button img{width:20px;height:20px}
+.berserkr .ink-sheet .sheet-tab-panels{min-height:0}
+.berserkr .ink-sheet .tab-title{padding:4px 0 7px;margin-bottom:8px}
+.berserkr .ink-sheet .tab-title h2{font-size:20px;margin-top:3px}
+.berserkr .ink-sheet .tab-title span,.berserkr .ink-sheet .tab-title>p{font-size:9px}
+.berserkr .ink-sheet .sheet-columns,.berserkr .ink-sheet .sheet-column{gap:9px}
+.berserkr .ink-sheet .combat-panel,.berserkr .ink-sheet .condition-panel,.berserkr .ink-sheet .ready-weapons,.berserkr .ink-sheet .ready-armor,.berserkr .ink-sheet .saga-panel,.berserkr .ink-sheet .notes-panel,.berserkr .ink-sheet .ink-panel{padding:9px}
+.berserkr .ink-sheet .ink-section-title{font-size:11px;padding:4px 15px 4px 7px;margin-bottom:7px}
+.berserkr .ink-sheet .combat-actions button{padding:7px 4px;font-size:11px;min-height:29px}
+.berserkr .ink-sheet .condition-list button{min-height:28px;padding:5px 3px}
+.berserkr .ink-sheet .combat-stats{margin:9px 0}
+.berserkr .ink-sheet .combat-stats input{font-size:17px}
+.berserkr .ink-sheet .power-card,.berserkr .ink-sheet .inventory-grid>.item-row{padding:9px;min-height:0}
+.berserkr .ink-sheet .power-heading>img,.berserkr .ink-sheet .inventory-grid .inventory-icon{width:32px;height:32px}
+.berserkr .ink-sheet .power-card p{margin:8px 0;font-size:12px}
+.berserkr .ink-sheet .item-actions{margin-top:6px;gap:5px}
+.berserkr .ink-sheet .item-actions button{min-height:25px;font-size:10px;padding:4px 6px}
+.berserkr .ink-sheet .sheet-footer{padding-top:5px;font-size:7px}
+.berserkr.item-sheet .ink-sheet .hero{min-height:106px;grid-template-columns:70px minmax(0,1fr);padding:9px;gap:11px}
+.berserkr.item-sheet .ink-sheet .hero>img{height:70px;width:70px}
+.berserkr.item-sheet .ink-sheet .hero input[name=name]{font-size:17px}
+@container (max-width:740px){
+ .berserkr .ink-sheet .hero-identity{padding-right:0}
+ .berserkr .ink-sheet .attribute-card button{flex-direction:row;font-size:9px;gap:3px}
+ .berserkr .ink-sheet .sheet-tabs button{font-size:10px}
+}
+@container (max-width:520px){
+ .berserkr .ink-sheet .hero{grid-template-columns:70px minmax(0,1fr);padding:8px;gap:10px}
+ .berserkr .ink-sheet .hero .grid.two{grid-template-columns:repeat(2,minmax(0,1fr));gap:5px}
+ .berserkr .ink-sheet .resource-card{grid-template-columns:minmax(0,1fr);padding:4px}
+ .berserkr .ink-sheet .resource-card input{width:34px;font-size:21px}
+ .berserkr .ink-sheet .attribute-card button{flex-direction:column;font-size:9px;gap:1px}
+ .berserkr .ink-sheet .sheet-tabs button{flex-direction:column;min-height:43px;font-size:9px;gap:2px}
+}
+@container (max-height:560px){
+ .berserkr .tabbed-sheet.ink-sheet{display:block;overflow:auto;scrollbar-width:thin;scrollbar-color:var(--theme-accent) var(--theme-bg)}
+ .berserkr .ink-sheet .sheet-overview{margin-bottom:8px}
+ .berserkr .ink-sheet .sheet-tabs{position:sticky;top:0;z-index:3;margin-bottom:8px}
+ .berserkr .ink-sheet .sheet-tab-panels{overflow:visible;min-height:0}
+ .berserkr .ink-sheet .sheet-footer{margin-top:10px}
+}
+.berserkr .ink-sheet input[type=number]::-webkit-inner-spin-button,.berserkr .ink-sheet input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;display:none;margin:0}

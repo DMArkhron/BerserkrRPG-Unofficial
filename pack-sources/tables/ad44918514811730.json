@@ -1,0 +1,93 @@
+{
+  "_id": "ad44918514811730",
+  "name": "Habilidades — Elfo da Luz",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 51 (páginas impressas 100–101).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "629f0ec9094aacf2",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.64b2149eef78693d]{Esplendor Ofuscante — Elfo da Luz}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!ad44918514811730.629f0ec9094aacf2"
+    },
+    {
+      "_id": "5145a0bd8718a104",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.435f02c925bfb3f6]{Véu de Luz — Elfo da Luz}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!ad44918514811730.5145a0bd8718a104"
+    },
+    {
+      "_id": "c679f571e7d0f828",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.49d54c5e3ef72f1a]{Cura Luminosa — Elfo da Luz}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!ad44918514811730.c679f571e7d0f828"
+    },
+    {
+      "_id": "96fc45ecdc3747fd",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.81e610083c75744e]{Feixe Solar — Elfo da Luz}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!ad44918514811730.96fc45ecdc3747fd"
+    },
+    {
+      "_id": "e1abf6eace20766c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.227cb5113e97b7b8]{Forma Radiante — Elfo da Luz}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!ad44918514811730.e1abf6eace20766c"
+    },
+    {
+      "_id": "4659866728e2e87f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.952facd827ba3ccb]{Bastião da Esperança — Elfo da Luz}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!ad44918514811730.4659866728e2e87f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!ad44918514811730"
+}

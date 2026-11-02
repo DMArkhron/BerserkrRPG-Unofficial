@@ -1,0 +1,40 @@
+{
+  "_id": "cf1984288e8e6db6",
+  "name": "Fúria dos Homens — Berserkr",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/cf1984288e8e6db6.png",
+  "system": {
+    "description": "Ao desferir o golpe final em um inimigo, recupere 1PV.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 47 (páginas impressas 92–93).",
+    "realm": "Midgard",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "49a2552cb404770c",
+  "_key": "!items!cf1984288e8e6db6"
+}

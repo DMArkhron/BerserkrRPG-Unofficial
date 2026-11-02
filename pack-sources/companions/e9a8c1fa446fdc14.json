@@ -1,0 +1,95 @@
+{
+  "_id": "e9a8c1fa446fdc14",
+  "name": "Lobo Companheiro",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/companheiros/lobo-companheiro.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 6,
+      "max": 6
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Companheiros e lacaios",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "c571180ece6ac827",
+      "name": "Mordida",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Lobo Companheiro. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e9a8c1fa446fdc14.c571180ece6ac827"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Lobo Companheiro",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/companheiros/lobo-companheiro.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.997785044e039f51"
+    }
+  },
+  "folder": "f873051c6ff2512f",
+  "_key": "!actors!e9a8c1fa446fdc14"
+}

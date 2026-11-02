@@ -1,0 +1,95 @@
+{
+  "_id": "7e589aa6907310ea",
+  "name": "Guerreiro de Gelo",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/companheiros/guerreiro-de-gelo.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Companheiros e lacaios",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "e31c64acdc4500cc",
+      "name": "Punhos de Gelo",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Guerreiro de Gelo. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!7e589aa6907310ea.e31c64acdc4500cc"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Guerreiro de Gelo",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/companheiros/guerreiro-de-gelo.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.3163d585159eb876"
+    }
+  },
+  "folder": "f873051c6ff2512f",
+  "_key": "!actors!7e589aa6907310ea"
+}

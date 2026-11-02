@@ -1,0 +1,22 @@
+{
+  "_id": "5804ced764420347",
+  "name": "Saga, morte e recuperação",
+  "pages": [
+    {
+      "_id": "d288c46d04a8b02f",
+      "name": "Saga, morte e recuperação",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h2>Saga, morte e recuperação</h2><p>PV negativos significam morte. A 0PV, fica Quebrado e rola d6. Use a tabela Quebrado.</p><p>Descanso curto: recupera d4PV. Descanso longo: d6PV. Sem comida e água não recupera PV.</p><p>Registre feitos na Saga. Quando morrer, reconta a história em três minutos; o mestre atribui dados aos feitos e a soma influencia o destino da alma.</p><p><em>Berserkr — Livro Básico, PDF p. 65 (páginas impressas 128–129).</em></p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!5804ced764420347.d288c46d04a8b02f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!5804ced764420347",
+  "categories": []
+}

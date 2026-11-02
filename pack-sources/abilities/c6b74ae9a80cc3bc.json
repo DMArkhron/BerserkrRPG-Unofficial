@@ -1,0 +1,40 @@
+{
+  "_id": "c6b74ae9a80cc3bc",
+  "name": "Passo Fantasmagórico — Espectro",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/c6b74ae9a80cc3bc.png",
+  "system": {
+    "description": "Uma vez por dia, sucesso automático numa ação de furtividade, independentemente da dificuldade.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 53 (páginas impressas 104–105).",
+    "realm": "Niflheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "b5479967b168b165",
+  "_key": "!items!c6b74ae9a80cc3bc"
+}

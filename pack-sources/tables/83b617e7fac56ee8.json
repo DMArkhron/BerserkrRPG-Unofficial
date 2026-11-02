@@ -1,0 +1,54 @@
+{
+  "_id": "83b617e7fac56ee8",
+  "name": "Forma de transportar",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "e39393798b521f58",
+      "type": 0,
+      "text": "Mãos Vazias: apenas mãos/corpo; ganhe uma Runa aleatória.",
+      "range": [
+        1,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!83b617e7fac56ee8.e39393798b521f58"
+    },
+    {
+      "_id": "5b96005d68c94fab",
+      "type": 0,
+      "text": "Algibeira de Couro: até 7 itens normais.",
+      "range": [
+        3,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!83b617e7fac56ee8.5b96005d68c94fab"
+    },
+    {
+      "_id": "fe688f195a04c39d",
+      "type": 0,
+      "text": "Saco de Tecido: até 10 itens normais.",
+      "range": [
+        5,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!83b617e7fac56ee8.fe688f195a04c39d"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!83b617e7fac56ee8"
+}

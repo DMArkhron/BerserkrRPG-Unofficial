@@ -1,0 +1,48 @@
+{
+  "_id": "f41cb28394fd3b48",
+  "name": "Construto de Chamas",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-chamas.png",
+  "system": {
+    "description": "Classe de Muspelheim.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Resistência a Fogo. Sofre metade do dano de ataques de fogo.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 54 (páginas impressas 106–107).",
+    "realm": "Muspelheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 5,
+      "forca": 4,
+      "astucia": 1,
+      "agilidade": 3,
+      "esperteza": 2
+    },
+    "hpFormula": "@attributes.fortitude + 1d10",
+    "destinyFormula": "1d3",
+    "startingEquipment": "Corrente Calcinante (d12); Núcleo de Brasa (uma vez por dia, cura d6PV absorvendo calor); d4 comida; d4 água; d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.03b2b5a355071016",
+      "Compendium.berserkr-rpg.abilities.a66346757ee30a19",
+      "Compendium.berserkr-rpg.abilities.650fa964afd9aed5",
+      "Compendium.berserkr-rpg.abilities.3c99f73915af714a",
+      "Compendium.berserkr-rpg.abilities.47d879856a536708",
+      "Compendium.berserkr-rpg.abilities.8281113cb7dd8167",
+      "Compendium.berserkr-rpg.abilities.72fab0db9b7f6977"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "7b9c32b0401e2044",
+  "_key": "!items!f41cb28394fd3b48"
+}

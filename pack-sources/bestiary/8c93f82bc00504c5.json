@@ -1,0 +1,165 @@
+{
+  "_id": "8c93f82bc00504c5",
+  "name": "Ymir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/ymir.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 40,
+      "max": 40
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Niflheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Niflheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "561b46cb9f25d6d0",
+      "name": "Sopro Primordial — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Ymir. Inimigo nomeado de Niflheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6+2",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!8c93f82bc00504c5.561b46cb9f25d6d0"
+    },
+    {
+      "_id": "3c4e6843a29c8846",
+      "name": "Proteção de Ymir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d4",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!8c93f82bc00504c5.3c4e6843a29c8846"
+    },
+    {
+      "_id": "8852d18574c8ee6a",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "de quem toda a vida surgiu, jaz congelado no coração dos ermos gélidos de Niflheim. Seu corpo, há muito morto, é um aceno silencioso ao caos da criação — seu sangue se transformou em mares, seus ossos em montanhas, sua carne em terra.\n\nMas mesmo na morte, algo de Ymir permanece — sua presença.\n\nAtive uma vez para fazer a legião trapaceira cair de joelhos, causando o dobro do dano aos seguidores de Loki por d4 rodadas.\n\nO Sopro Primordial de Ymir pode atingir múltiplos alvos e congelar itens mundanos se a jogada obtiver um desastre, destruindo-os.\n\nA cada rodada, a presença de Ymir faz com que o gelo abaixo dele se desloque e rache. Todos os personagens precisam Testar Agilidade CD14 no início do turno deles para não sofrerem d6 de dano gélido conforme o gelo se desloca. PV\n\nCarne endurecida pela\n\nSopro primordial\n\nVento Antigo\n\nDespertar as Profundezas\n\nA Dadiva do Criador\n\n–d4\n\nd6+2 distância (ignora armadura não encantada)\n\ngeada",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!8c93f82bc00504c5.8852d18574c8ee6a"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Ymir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/ymir.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.7cd9b0747b14f08b"
+    }
+  },
+  "folder": "48b0cdddf0500c1e",
+  "_key": "!actors!8c93f82bc00504c5"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "00c7fd7511719b97",
+  "name": "A Vontade do Ferreiro — Mestre Ferreiro",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/00c7fd7511719b97.png",
+  "system": {
+    "description": "Discernir o valor e o artesão original de praticamente qualquer arma ou armadura.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 52 (páginas impressas 102–103).",
+    "realm": "Svartalfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "6a3e69993eb0c223",
+  "_key": "!items!00c7fd7511719b97"
+}

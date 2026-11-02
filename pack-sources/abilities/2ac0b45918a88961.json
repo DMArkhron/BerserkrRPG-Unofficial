@@ -1,0 +1,40 @@
+{
+  "_id": "2ac0b45918a88961",
+  "name": "O Renascimento de Ymir — Gigante de Gelo",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/2ac0b45918a88961.png",
+  "system": {
+    "description": "Uma vez na vida, ao chegar a 0PV, envolva-se em gelo que absorve o dano e retarda a morte. Fica imóvel; apenas chamas de Muspelheim derretem esse gelo.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 50 (páginas impressas 98–99).",
+    "realm": "Jötunheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "ca1f037bea3ba223",
+  "_key": "!items!2ac0b45918a88961"
+}

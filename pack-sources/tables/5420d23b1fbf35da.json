@@ -1,0 +1,93 @@
+{
+  "_id": "5420d23b1fbf35da",
+  "name": "Quebrado — zero PV",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 65 (páginas impressas 128–129).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "3ea233185e6a14cb",
+      "type": 0,
+      "text": "Inconsciente d4 rodadas; acorde com d4PV.",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5420d23b1fbf35da.3ea233185e6a14cb"
+    },
+    {
+      "_id": "b6b8f7d9451a4cb4",
+      "type": 0,
+      "text": "Membro fraturado ou decepado; febril.",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5420d23b1fbf35da.b6b8f7d9451a4cb4"
+    },
+    {
+      "_id": "981ae062ce8a91de",
+      "type": 0,
+      "text": "Perde dentes; Astúcia −1.",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5420d23b1fbf35da.981ae062ce8a91de"
+    },
+    {
+      "_id": "cbe4b3a8bfb8cf42",
+      "type": 0,
+      "text": "Role na tabela de Lesões Incapacitantes.",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5420d23b1fbf35da.cbe4b3a8bfb8cf42"
+    },
+    {
+      "_id": "a290a840029487f6",
+      "type": 0,
+      "text": "Hemorragia: morre em d2 horas salvo tratamento; todos os Testes em CD16.",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5420d23b1fbf35da.a290a840029487f6"
+    },
+    {
+      "_id": "04c30e9b1239253d",
+      "type": 0,
+      "text": "Morto.",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5420d23b1fbf35da.04c30e9b1239253d"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!5420d23b1fbf35da"
+}

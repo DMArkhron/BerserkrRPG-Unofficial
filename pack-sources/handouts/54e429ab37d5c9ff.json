@@ -1,0 +1,28 @@
+{
+  "_id": "54e429ab37d5c9ff",
+  "name": "Surtr",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "d5d50b73c8187753",
+      "name": "Surtr",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/surtr.webp\" alt=\"Surtr\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Surtr</h2><p>Gigante de fogo de Muspelheim, revestido de lava e chamas. Empunha uma espada ardente e traz consigo o incêndio da batalha final.</p><p><strong>Reino:</strong> Muspelheim</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.953a23b6276c9635]{Ficha de Surtr}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!54e429ab37d5c9ff.d5d50b73c8187753"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.953a23b6276c9635"
+    }
+  },
+  "_key": "!journal!54e429ab37d5c9ff"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "73100fc14c8ec0d0",
+  "name": "Mara",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "f661af5a4c19d995",
+      "name": "Mara",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/mara.webp\" alt=\"Mara\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Mara</h2><p>Entidade de pesadelo que invade o sono dos vivos. Alimenta-se do medo e enfraquece suas vítimas ao transformar sonhos em terror.</p><p><strong>Reino:</strong> Midgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.a1bada9b5aef0eb3]{Ficha de Mara}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!73100fc14c8ec0d0.f661af5a4c19d995"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.a1bada9b5aef0eb3"
+    }
+  },
+  "_key": "!journal!73100fc14c8ec0d0"
+}

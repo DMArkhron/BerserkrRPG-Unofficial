@@ -1,0 +1,39 @@
+{
+  "_id": "b6e4674a912f62f3",
+  "name": "Corrente Inquebrável",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/b6e4674a912f62f3.png",
+  "system": {
+    "description": "Prende inimigos poderosos. Cada dia usada causa −2 em todos os Testes de Esperteza.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!b6e4674a912f62f3"
+}

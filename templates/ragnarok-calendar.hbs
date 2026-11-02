@@ -1,0 +1,7 @@
+<main class="rk">
+<header class="rk-heading"><div><span class="rk-kicker">O destino dos Nove Reinos</span><h1>Calendário do Ragnarök</h1></div></header>
+<section class="rk-card"><h2>{{phaseLabel}} · {{progress}}/30</h2><p class="rk-calendar-help">Cada casa representa um marco da campanha, não um dia real. O mestre registra os avanços; todos acompanham o destino.</p>
+<div class="rk-calendar-grid">{{#each days}}<article class="rk-calendar-day {{className}}"><strong>{{number}}</strong><span>{{label}}</span></article>{{/each}}</div>
+<div class="rk-markers"><span><i class="rk-dot odin"></i> Odin</span><span><i class="rk-dot loki"></i> Loki</span></div></section>
+<section class="rk-card"><h2>Batalha final</h2><p class="rk-calendar-help">Odin: {{battle.odin}}/15 · Loki: {{battle.loki}}/15</p><h2>Deuses caídos</h2><p class="rk-calendar-help">{{#each fallenGods}}{{this}}{{#unless @last}} · {{/unless}}{{else}}Nenhum deus registrado.{{/each}}</p></section>
+</main>

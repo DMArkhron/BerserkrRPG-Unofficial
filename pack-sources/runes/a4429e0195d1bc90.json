@@ -1,0 +1,39 @@
+{
+  "_id": "a4429e0195d1bc90",
+  "name": "Hagalaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/a4429e0195d1bc90.png",
+  "system": {
+    "description": "ᚻ — Hagalaz\n\nFeitiço\nInvoque uma tempestade de granizo, causando d6 de dano em todas as criaturas que estiverem na área, com duração de d4 rodadas.\n\nInscrição em arma ou armadura\nCerque-se de uma chuva de granizo inclemente por d4 rodadas. Os inimigos que o atacarem sofrem d4 de dano devido à tempestade congelante.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Invoque uma tempestade de granizo, causando d6 de dano em todas as criaturas que estiverem na área, com duração de d4 rodadas.",
+    "inscription": "Cerque-se de uma chuva de granizo inclemente por d4 rodadas. Os inimigos que o atacarem sofrem d4 de dano devido à tempestade congelante.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!a4429e0195d1bc90"
+}

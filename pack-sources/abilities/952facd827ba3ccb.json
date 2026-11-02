@@ -1,0 +1,40 @@
+{
+  "_id": "952facd827ba3ccb",
+  "name": "Bastião da Esperança — Elfo da Luz",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/952facd827ba3ccb.png",
+  "system": {
+    "description": "Pilar de luz por d6 rodadas. Aliados nele recebem +2 de ataque e defesa e imunidade ao medo e a efeitos que alteram atributos. O livro não especifica frequência.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 51 (páginas impressas 100–101).",
+    "realm": "Alfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "510378d8e217f6e0",
+  "_key": "!items!952facd827ba3ccb"
+}

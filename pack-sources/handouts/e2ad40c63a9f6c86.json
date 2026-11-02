@@ -1,0 +1,28 @@
+{
+  "_id": "e2ad40c63a9f6c86",
+  "name": "Skirnir",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "dc5abba99e1c3acc",
+      "name": "Skirnir",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/skirnir.webp\" alt=\"Skirnir\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Skirnir</h2><p>Antigo mensageiro de Freyr, agora corrompido por forças sombrias. Sua revolta ameaça Vanaheim e se manifesta na violência dos ventos e rios.</p><p><strong>Reino:</strong> Vanaheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.8dcf6be7d32724e3]{Ficha de Skirnir}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!e2ad40c63a9f6c86.dc5abba99e1c3acc"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.8dcf6be7d32724e3"
+    }
+  },
+  "_key": "!journal!e2ad40c63a9f6c86"
+}

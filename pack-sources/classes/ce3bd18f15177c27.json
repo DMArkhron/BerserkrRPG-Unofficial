@@ -1,0 +1,48 @@
+{
+  "_id": "ce3bd18f15177c27",
+  "name": "Gigante de Gelo",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-gelo.png",
+  "system": {
+    "description": "Classe de Jötunheim.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Resistência a Gelo. Sofre metade do dano de ataques baseados em gelo.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 50 (páginas impressas 98–99).",
+    "realm": "Jötunheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 4,
+      "forca": 5,
+      "astucia": 3,
+      "agilidade": 2,
+      "esperteza": 1
+    },
+    "hpFormula": "@attributes.fortitude + 1d12",
+    "destinyFormula": "1d2",
+    "startingEquipment": "Casaco de pele grossa; Clava Gigante (d12); d4 comida; d4 água; d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.b5a97551b7852154",
+      "Compendium.berserkr-rpg.abilities.e675a88e8388ec4d",
+      "Compendium.berserkr-rpg.abilities.a9d35365672e10dd",
+      "Compendium.berserkr-rpg.abilities.a286cc5f07077e59",
+      "Compendium.berserkr-rpg.abilities.062807f893703ef6",
+      "Compendium.berserkr-rpg.abilities.6db1f16af155decc",
+      "Compendium.berserkr-rpg.abilities.2ac0b45918a88961"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "a91005a967e18cc6",
+  "_key": "!items!ce3bd18f15177c27"
+}

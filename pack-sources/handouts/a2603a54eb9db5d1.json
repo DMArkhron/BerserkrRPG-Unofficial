@@ -1,0 +1,28 @@
+{
+  "_id": "a2603a54eb9db5d1",
+  "name": "Loki",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "dab0f34ca7675480",
+      "name": "Loki",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/loki.webp\" alt=\"Loki\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Loki</h2><p>Astuto agente de engano e ruptura. Sua presença entre os conflitos dos deuses aproxima os reinos do caos do Ragnarök.</p><p><strong>Reino:</strong> Ragnarök</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.f40cff58b2712b4d]{Ficha de Loki}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!a2603a54eb9db5d1.dab0f34ca7675480"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.f40cff58b2712b4d"
+    }
+  },
+  "_key": "!journal!a2603a54eb9db5d1"
+}

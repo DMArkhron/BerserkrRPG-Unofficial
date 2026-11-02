@@ -1,0 +1,28 @@
+{
+  "_id": "c0ec4dc9debb86eb",
+  "name": "Eldrimnir",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "a9034bb6368c0db3",
+      "name": "Eldrimnir",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/eldrimnir.webp\" alt=\"Eldrimnir\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Eldrimnir</h2><p>Colosso de Muspelheim ligado à lava e aos tremores da terra. Sua passagem transforma o campo de batalha em rocha derretida e ruína.</p><p><strong>Reino:</strong> Muspelheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.29932ebf3be39bbb]{Ficha de Eldrimnir}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!c0ec4dc9debb86eb.a9034bb6368c0db3"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.29932ebf3be39bbb"
+    }
+  },
+  "_key": "!journal!c0ec4dc9debb86eb"
+}

@@ -1,0 +1,93 @@
+{
+  "_id": "7dbcefba99f8a450",
+  "name": "Habilidades — Pastor de Almas",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 55 (páginas impressas 108–109).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "d175a77eb11bcb4f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.5bd024cb1d8f3385]{Réquiem do Repouso — Pastor de Almas}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7dbcefba99f8a450.d175a77eb11bcb4f"
+    },
+    {
+      "_id": "a0186a54c9f42b5f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.06b4defff5db7676]{Aprisionar Alma — Pastor de Almas}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7dbcefba99f8a450.a0186a54c9f42b5f"
+    },
+    {
+      "_id": "554560dcd4784862",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.54e18dc75c686e00]{O Abraço de Hel — Pastor de Almas}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7dbcefba99f8a450.554560dcd4784862"
+    },
+    {
+      "_id": "29475ec74b480418",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.61de817a0efbdba8]{Véu da Morte — Pastor de Almas}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7dbcefba99f8a450.29475ec74b480418"
+    },
+    {
+      "_id": "7d19cf902946599e",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.bc87a8cef86eff4c]{O Caminho Espiritual — Pastor de Almas}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7dbcefba99f8a450.7d19cf902946599e"
+    },
+    {
+      "_id": "090cccb87ce40340",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.083b786b26b3cd62]{A Barganha de Hel — Pastor de Almas}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7dbcefba99f8a450.090cccb87ce40340"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!7dbcefba99f8a450"
+}

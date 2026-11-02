@@ -1,0 +1,28 @@
+{
+  "_id": "d5815b600f97139f",
+  "name": "Hrist",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "e18fdbc1742084fc",
+      "name": "Hrist",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/hrist.webp\" alt=\"Hrist\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Hrist</h2><p>Valquíria caída cuja missão foi consumida por uma sede de guerra. Suas asas já não guiam os mortos: ela caça os vivos com uma lâmina impiedosa.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.7bcc28a0883239c5]{Ficha de Hrist}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!d5815b600f97139f.e18fdbc1742084fc"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.7bcc28a0883239c5"
+    }
+  },
+  "_key": "!journal!d5815b600f97139f"
+}

@@ -1,0 +1,165 @@
+{
+  "_id": "63d14524b4afc5bd",
+  "name": "Thrym",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/thrym.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 30,
+      "max": 30
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Jötunheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Jötunheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "8c5fcb93645798de",
+      "name": "Clava de Gelo",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Thrym. Inimigo nomeado de Jötunheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!63d14524b4afc5bd.8c5fcb93645798de"
+    },
+    {
+      "_id": "53566684e7ac77fc",
+      "name": "Proteção de Thrym",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!63d14524b4afc5bd.53566684e7ac77fc"
+    },
+    {
+      "_id": "719085f460b6aaba",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Uma enorme massa de gelo, a cada passo seu o chão racha, lançando estilhaços de gelo para todos os lados. Conhecido por roubar o Mjölnir de Thor, sua ambição se equipara às geleiras que comanda — frias e implacáveis. Seus olhos, brilhando como lagoas árticas, enxergam apenas através das lentes de um poder antigo e insensível. Sua enorme clava de gelo evoca nevascas com um único golpe.\n\nConvocar Homens de Gelo. Thrym evoca d4 Guerreiros de Gelo (4PV, punhos de gelo d6), que emergem da neve ao seu redor. Esses lacaios obedecem às ordens de Thrym e atacarão os intrusos implacavelmente até serem destruídos ou dispensados. Invocar Nevasca. Thrym consegue invocar uma nevasca uma vez por encontro. Essa tempestade furiosa afeta todas as criaturas (mas não seus Guerreiros de Gelo), obrigando-as a Testar Fortitude CD14 ou sofrer d6 de dano gélido e −2 de penalidade em todos os Testes até o fim do próximo turno delas devido aos ventos congelantes.\n\nO\n\nEle é o governante dos Gigantes de Gelo. Thrym é o pesadelo vivo de Jötunheim. ELE É\n\nREI DO GELO.\n\nPV\n\nCLAVA DE GELO DE THRYM\n\nCORPO INCRUSTADO DE GELO\n\nd12+4\n\n–d3",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!63d14524b4afc5bd.719085f460b6aaba"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Thrym",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/thrym.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.407d8315d8a8ab98"
+    }
+  },
+  "folder": "eca273978e2ab80a",
+  "_key": "!actors!63d14524b4afc5bd"
+}

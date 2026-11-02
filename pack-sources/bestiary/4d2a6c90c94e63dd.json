@@ -1,0 +1,165 @@
+{
+  "_id": "4d2a6c90c94e63dd",
+  "name": "Gullveig",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/gullveig.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 18,
+      "max": 18
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Vanaheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Vanaheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "f9649cd11fbd8431",
+      "name": "Cajado de Cipós",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Gullveig. Inimigo nomeado de Vanaheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!4d2a6c90c94e63dd.f9649cd11fbd8431"
+    },
+    {
+      "_id": "9779fd6b0f6338bc",
+      "name": "Proteção de Gullveig",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!4d2a6c90c94e63dd.9779fd6b0f6338bc"
+    },
+    {
+      "_id": "8fc8f92d867c8539",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV\n\nCajado de cipós Resistente ao Fogo\n\nArsenal de Bruxaria\n\nA Fome da Feiticeira.\n\nProteção da natureza\n\nd4\n\nSofre apenas metade do dano de ataques de fogo.\n\n1 Invocar Javali.Invoca um javali espectral para atacar um único alvo, causando d6 de dano.\n\n2 Explosão de Fogo de Bruxa. Lança um raio de energia escura; todos os alvos que ela pode ver precisam Testar Agilidade CD12 para não sofrerem d8 de dano.\n\n3 Amarrar com Trepadeiras. Trepadeiras irrompem do chão. O alvo precisa Testar Força CD14 para não ficar atordoado.\n\n4 A Maldição da Fraqueza. Enfraquece a determinação de um alvo; ele precisa Testar Astúcia CD12 para não sofrer -2 de penalidade em todos os Testes do próximo turno dele.\n\nGullveig pode usar diferentes ataques mágicos rolando d4 a cada rodada para determinar sua ação:\n\nAtive uma vez para derrubar a ordem divina: causa dano dobrado aos deuses Aesir por d4 rodadas.\n\n–d3\n\nGullveig, a velha bruxa e vidente, é uma figura envolta em mistério e ameaça. Seu nome é pronunciado com uma mistura de admiração e medo, simbolizando sua insaciável sede por ouro e poder, bem como seu domínio sobre a magia arcana. Três vezes queimada, três vezes renascida, seus laços com o conflito Aesir-Vanir estão gravados nos mitos.\n\nAgora, em Vanaheim, ela está de volta — mais forte e mais perigosa. O objetivo dela? Derrubar a ordem divina, conquistar seu lugar como uma divindade e fazer os deuses tremerem diante de sua fria e calculista sede de poder. 40",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!4d2a6c90c94e63dd.8fc8f92d867c8539"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Gullveig",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/gullveig.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.c24450bfea9bba0a"
+    }
+  },
+  "folder": "7e2613f4b05c85c2",
+  "_key": "!actors!4d2a6c90c94e63dd"
+}

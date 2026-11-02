@@ -1,0 +1,39 @@
+{
+  "_id": "8a35d7ca52e9fb9a",
+  "name": "Lævateinn",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/8a35d7ca52e9fb9a.png",
+  "system": {
+    "description": "Os gigantes de fogo de Muspelheim descobrem o paradeiro de Lævateinn e exigem sua devolução. Eldmir chega para recuperá-la à força.\n\nA maldição da Lævateinn fica pior. O portador tem visões de Loki incitando-o a cometer traição e sofre com apagões aleatórios, nos quais não controla o próprio corpo.\n\nA própria Loki toma conhecimento do portador e envia um emissário para fazer um pacto: empunhar a lâmina no Ragnarök e obter um poder incalculável, ou enfrentar sua ira por usar a arma indevidamente.\n\nUm misterioso ferreiro Anão se oferece para ensinar ao portador um ritual capaz de aprisionar o poder caótico da Lævateinn, mas isso exige o sacrifício de sangue de um aliado.\n\nUm grupo de berserkrs busca Lævateinn, reivindicando-a como seu direito de nascença. Eles não hesitarão em fazer qualquer coisa para recuperá-la, acreditando que isso os levará a uma sede de sangue ainda maior.\n\nCirculam rumores de que a única forma de controlar completamente Lævateinn é reforjá-la nas chamas de Muspelheim. Uma jornada traiçoeira pelo Reino do Fogo aguarda o portador.\n\nChama Infernal\n\n+G+anchos de Missão d6 1\n\nOnda Caotica\n\nDestino Amaldicoado\n\nLævateinn está constantemente envolta em fogo infernal. Com um ataque bem-sucedido, ela causa d6 de dano ígneo adicional e ignora 2 de armadura.\n\nA lâmina pulsa com um poder caótico, desencadeando uma explosão de destruição. Uma vez por combate, o portador pode lançar uma rajada da Lævateinn, causando 3d8 de dano em todos os inimigos que estiverem próximos da lâmina. O portador precisa Testar Fortitude CD14 para não sofrer d6 de dano devido ao ricochete caótico dela.\n\nSempre que o portador obtiver um acerto crítico, precisará Testar Esperteza CD14. Se falhar, será amaldiçoado, sofrendo −2 em todos os Testes pelas próximas d6 rodadas, conforme a lâmina corrompe sua mente. Se obtiver um desastre ao atacar com Lævateinn, o portador automaticamente sofre 2d6 de dano conforme a maldição se alastra e perde d6PV permanentemente até que faça um ritual para quebrar a maldição.\n\nForjada pela própria Loki há muito tempo, em um processo desconhecido por qualquer mestre ferreiro, a arma não pode ser destruída por meios convencionais. Dizem que ela tem o poder de matar até mesmo os deuses e causar ruína ao mundo. Empunhar Lævateinn concede grande poder, mas também traz\n\npassiva\n\numa vez por combate\n\npassiva\n\nd1\n\n0+\n\n5 co\n\nrpo\n\na co\n\nrpo/\n\ndistân\n\ncia\n\n(ao\n\nser\n\narre\n\nmessa\n\nda, a\n\nlâmi n\n\na se m\n\nu ltiplic\n\na em tr\n\nês\n\nfrag\n\nmen\n\ntos,\n\nating\n\nindo\n\naté trê\n\ns inimi\n\ngos dif\n\nerente\n\ns)\n\ngrande risco, pois a natureza maldosa da arma muitas vezes se volta contra seu portador, corrompendo tanto o corpo quanto a alma.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d10+5",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 106 (páginas impressas 210–211).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!8a35d7ca52e9fb9a"
+}

@@ -1,0 +1,93 @@
+{
+  "_id": "8203b6e8223ee70b",
+  "name": "Habilidades — Berserkr",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 47 (páginas impressas 92–93).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "c1867278af45606c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.d492b97a1a649f81]{Espírito da Pele de Lobo — Berserkr}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8203b6e8223ee70b.c1867278af45606c"
+    },
+    {
+      "_id": "494a05f330aa8507",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.dcce98133ac87a8e]{Vigor de Ferro — Berserkr}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8203b6e8223ee70b.494a05f330aa8507"
+    },
+    {
+      "_id": "165ee6d487015582",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.26f68e143ad4eff1]{Tempestade dos Aesir — Berserkr}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8203b6e8223ee70b.165ee6d487015582"
+    },
+    {
+      "_id": "0b02a49c89cd056a",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.1b874e3476d99941]{Juramento aos Ancestrais — Berserkr}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8203b6e8223ee70b.0b02a49c89cd056a"
+    },
+    {
+      "_id": "30982f47ecd8db49",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.5becf3a1ef8953a5]{O Sacrifício do Berserkr — Berserkr}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8203b6e8223ee70b.30982f47ecd8db49"
+    },
+    {
+      "_id": "e854555292598462",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.23ab58d8151e9bd4]{Ritual da Águia de Sangue — Berserkr}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8203b6e8223ee70b.e854555292598462"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!8203b6e8223ee70b"
+}

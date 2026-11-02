@@ -1,0 +1,40 @@
+{
+  "_id": "c66dbaaa7fe70796",
+  "name": "Montante",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c66dbaaa7fe70796.png",
+  "system": {
+    "description": "Arma básica. Dano 1d12; preço 200‡.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 200,
+    "equipped": false,
+    "damage": "1d12",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "7363f73ef00bc8e1",
+  "_key": "!items!c66dbaaa7fe70796"
+}

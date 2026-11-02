@@ -1,0 +1,28 @@
+{
+  "_id": "bdf3e646a356434e",
+  "name": "Frigg",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "126a512b5305876e",
+      "name": "Frigg",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/frigg.webp\" alt=\"Frigg\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Frigg</h2><p>Deusa ligada ao destino e à proteção. Seus fios e presságios evocam aquilo que os mortais ainda não conseguem enxergar.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.81daf0945e5bfb9e]{Ficha de Frigg}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!bdf3e646a356434e.126a512b5305876e"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.81daf0945e5bfb9e"
+    }
+  },
+  "_key": "!journal!bdf3e646a356434e"
+}

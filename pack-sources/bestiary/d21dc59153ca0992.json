@@ -1,0 +1,165 @@
+{
+  "_id": "d21dc59153ca0992",
+  "name": "Nithing",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/nithing.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 15,
+      "max": 15
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Midgard. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Midgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "9ef4f90a0d35556e",
+      "name": "Dedos Ressequidos",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Nithing. Inimigo nomeado de Midgard. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d21dc59153ca0992.9ef4f90a0d35556e"
+    },
+    {
+      "_id": "156409387f37c233",
+      "name": "Proteção de Nithing",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d21dc59153ca0992.156409387f37c233"
+    },
+    {
+      "_id": "7f56c52665e9aac1",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Os Nithings são espíritos malévolos nascidos da traição, da mentira e de juramentos quebrados, criaturas de puro rancor e vingança. Os Nithings assumem muitas formas — frequentemente uma sombra retorcida ou uma figura pálida e esquelética cuja presença congela o ar. Por onde passam,\n\nPV\n\nROBES FANTASMAGÓRICOS\n\nDEDOS RESSEQUIDOS\n\n-d2\n\nd6+2\n\nRemorso do Mentiroso Quem quer que seja a pessoa que volte atrás com suas palavras em Midgard, os Nithings a encontrarão e a punirão.\n\nIntuição de Nithing Você sabe automaticamente quando alguém está mentindo e se sente compelido a fazer justiça.\n\ndeixam rastros de gelo, marcando sua existência amarga. Eles caçam aqueles que desonram suas palavras, que traem seus parentes ou que fazem escolhas desesperadas e traiçoeiras. Mas eles não se limitam a matar — arrastam suas vítimas para a escuridão, alimentando-se de sua culpa, de suas promessas quebradas e sua vergonha. Sob o domínio sombrio do Fimbulwinter, esses espíritos se multiplicaram, atraídos pelo caos e desespero que agora assolam Midgard. 25",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 13 (páginas impressas 24–25).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d21dc59153ca0992.7f56c52665e9aac1"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Nithing",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/nithing.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.7f91b6c6fe2b8393"
+    }
+  },
+  "folder": "7b1d080bfa84ce3c",
+  "_key": "!actors!d21dc59153ca0992"
+}

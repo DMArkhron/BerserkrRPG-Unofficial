@@ -1,0 +1,165 @@
+{
+  "_id": "d94090ebb102a2e7",
+  "name": "Logi",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/logi.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 22,
+      "max": 22
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Muspelheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Muspelheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "5446c69044fa783a",
+      "name": "Punhos de Fogo",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Logi. Inimigo nomeado de Muspelheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d94090ebb102a2e7.5446c69044fa783a"
+    },
+    {
+      "_id": "27bcc8d247c07669",
+      "name": "Proteção de Logi",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d94090ebb102a2e7.27bcc8d247c07669"
+    },
+    {
+      "_id": "03310cf2bd6280ff",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "não é apenas fogo — é a fúria pura e indomável das chamas.\n\nPV\n\nPUNHOS DE FOGO\n\nVÉU DE FOGO\n\nd8+3 –d2\n\nCHAMA INSTÁVEL No início de cada rodada, o fogo caótico de Logi se espalha para qualquer objeto inflamável que estiver próximo dele, que então se incendeia e queima incontrolavelmente.\n\nO ESPÍRITO DA CHAMA Ative uma vez para ficar imune a dano ígneo por d4 rodadas.\n\nEXPLOSÃO INFERNAL. Uma vez por combate, Logi libera uma rajada de fogo, forçando todos que estiverem próximos a Testar Agilida-\n\nde CD14 para não sofrerem d8 de dano ígneo.\n\nUma conflagração senciente com chamas que dançam como se tivessem vontade própria; e essa vontade é o caos. Encontrá-lo é testemunhar o poder mais bruto do mundo, do tipo que não pede permissão. Tudo o que ele toca vira fumaça, se transforma em cinzas num instante.\n\n+L+ogi",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d94090ebb102a2e7.03310cf2bd6280ff"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Logi",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/logi.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.306a03e743dba046"
+    }
+  },
+  "folder": "030d2cd6f8ec9b3f",
+  "_key": "!actors!d94090ebb102a2e7"
+}

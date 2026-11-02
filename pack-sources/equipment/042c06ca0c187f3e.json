@@ -1,0 +1,40 @@
+{
+  "_id": "042c06ca0c187f3e",
+  "name": "Espinhos Envenenados",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/042c06ca0c187f3e.png",
+  "system": {
+    "description": "d4 doses; d4 de dano e envenenamento.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 70,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!042c06ca0c187f3e"
+}

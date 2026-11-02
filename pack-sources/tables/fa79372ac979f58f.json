@@ -1,0 +1,145 @@
+{
+  "_id": "fa79372ac979f58f",
+  "name": "Classe aleatória",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 46 (páginas impressas 90–91).",
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "fd81b1609d8b5271",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.910fb77c5878ee7d]{Berserkr}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.fd81b1609d8b5271"
+    },
+    {
+      "_id": "c3cebc8973eca862",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.de638536d9d1a03f]{Valquíria}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.c3cebc8973eca862"
+    },
+    {
+      "_id": "49c639ad6e5ed9cf",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.1618538c99ec84e6]{Guardião Vanir}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.49c639ad6e5ed9cf"
+    },
+    {
+      "_id": "b386c5c70271c36d",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.ce3bd18f15177c27]{Gigante de Gelo}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.b386c5c70271c36d"
+    },
+    {
+      "_id": "d1734f807e3e00a0",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.877f9d2ed80e09b4]{Elfo da Luz}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.d1734f807e3e00a0"
+    },
+    {
+      "_id": "9dc66faf404ece0c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.6b7d87fedad6e68c]{Mestre Ferreiro}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.9dc66faf404ece0c"
+    },
+    {
+      "_id": "92cf71041385646f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.ad6048655bd95a53]{Espectro}",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.92cf71041385646f"
+    },
+    {
+      "_id": "0d4fa7ea78dba394",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.f41cb28394fd3b48]{Construto de Chamas}",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.0d4fa7ea78dba394"
+    },
+    {
+      "_id": "83dee3d11b7b29c1",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.ec58e65a2d4f9529]{Pastor de Almas}",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.83dee3d11b7b29c1"
+    },
+    {
+      "_id": "7ccc727b3aefa594",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.classes.c02fb4c9a7a57fe0]{Arrasa-Reinos}",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!fa79372ac979f58f.7ccc727b3aefa594"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!fa79372ac979f58f"
+}

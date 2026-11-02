@@ -1,0 +1,95 @@
+{
+  "_id": "e66051e6a3972545",
+  "name": "Urso Companheiro",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/companheiros/urso-companheiro.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 8,
+      "max": 8
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Companheiros e lacaios",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "3e889b305f470390",
+      "name": "Garra",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Urso Companheiro. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e66051e6a3972545.3e889b305f470390"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Urso Companheiro",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/companheiros/urso-companheiro.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.d4f68706c93a6e5b"
+    }
+  },
+  "folder": "f873051c6ff2512f",
+  "_key": "!actors!e66051e6a3972545"
+}

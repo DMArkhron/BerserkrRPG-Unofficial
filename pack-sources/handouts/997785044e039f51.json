@@ -1,0 +1,28 @@
+{
+  "_id": "997785044e039f51",
+  "name": "Lobo Companheiro",
+  "folder": "71a09416cc60335c",
+  "pages": [
+    {
+      "_id": "1dea0d0ad0374420",
+      "name": "Lobo Companheiro",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/companheiros/lobo-companheiro.webp\" alt=\"Lobo Companheiro\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Lobo Companheiro</h2><p>Aliado animal ligado ao Guardião Vanir. Acompanha seu protetor e usa os instintos de caça para auxiliá-lo nos perigos dos reinos.</p><p><strong>Reino:</strong> Companheiros e lacaios</p><p>@UUID[Compendium.berserkr-rpg.companions.Actor.e9a8c1fa446fdc14]{Ficha de Lobo Companheiro}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!997785044e039f51.1dea0d0ad0374420"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.companions.Actor.e9a8c1fa446fdc14"
+    }
+  },
+  "_key": "!journal!997785044e039f51"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "bc87a8cef86eff4c",
+  "name": "O Caminho Espiritual — Pastor de Almas",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/bc87a8cef86eff4c.png",
+  "system": {
+    "description": "Ponte espectral sobre um obstáculo por d6 horas. Cada viajante sacrifica d4PV, uma história da Saga ou outra essência.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 55 (páginas impressas 108–109).",
+    "realm": "Helheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "e2bfb7a789095b6b",
+  "_key": "!items!bc87a8cef86eff4c"
+}

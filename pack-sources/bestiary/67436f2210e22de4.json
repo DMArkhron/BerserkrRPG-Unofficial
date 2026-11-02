@@ -1,0 +1,130 @@
+{
+  "_id": "67436f2210e22de4",
+  "name": "Váli",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/vali.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 27,
+      "max": 27
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Asgard. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 17 (páginas impressas 32–33).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "f390a69575f33b41",
+      "name": "Machado de Batalha do Vingador",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Váli. Inimigo nomeado de Asgard. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 17 (páginas impressas 32–33).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!67436f2210e22de4.f390a69575f33b41"
+    },
+    {
+      "_id": "8d4519c324588d76",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV\n\nMACHADO DE BATALHA DO VINGADOR\n\nd10+3\n\n-\n\nENSANGUENTADO Quando estiver com metade dos pontos de vida ou menos, os ataques e a defesa têm CD+2.\n\nfoi definida pela vingança. Ele busca não apenas punir aqueles que desafiam os deuses, mas também impor seu próprio senso de moralidade brutal a todos os reinos. Cada combate é um meio de satisfazer sua sede de vingança. Sua fúria fria e calculista o torna um deus temível em Asgard. Sem se importar com misericórdia ou\n\ndiplomacia, o coração de Váli é consumido pela necessidade de corrigir injustiças pela força, e aqueles que se colocam em seu caminho são logo esmagados sob o peso de sua ira. Ele é mais do que apenas um guerreiro. É a vingança encarnada.\n\nA vida de",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 17 (páginas impressas 32–33).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!67436f2210e22de4.8d4519c324588d76"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Váli",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/vali.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.b99eaa733a8af2b9"
+    }
+  },
+  "folder": "8b3f9a3d85212627",
+  "_key": "!actors!67436f2210e22de4"
+}

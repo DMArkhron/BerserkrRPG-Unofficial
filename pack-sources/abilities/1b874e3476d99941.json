@@ -1,0 +1,40 @@
+{
+  "_id": "1b874e3476d99941",
+  "name": "Juramento aos Ancestrais — Berserkr",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/1b874e3476d99941.png",
+  "system": {
+    "description": "Uma vez por sessão, rerrole um ataque ou defesa fracassado.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 47 (páginas impressas 92–93).",
+    "realm": "Midgard",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "49a2552cb404770c",
+  "_key": "!items!1b874e3476d99941"
+}

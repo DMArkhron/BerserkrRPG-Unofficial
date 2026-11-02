@@ -1,0 +1,40 @@
+{
+  "_id": "6c7b35a60239b021",
+  "name": "Algibeira de Couro",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/6c7b35a60239b021.png",
+  "system": {
+    "description": "Transporta até 7 itens normais.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!6c7b35a60239b021"
+}

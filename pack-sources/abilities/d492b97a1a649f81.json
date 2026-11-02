@@ -1,0 +1,40 @@
+{
+  "_id": "d492b97a1a649f81",
+  "name": "Espírito da Pele de Lobo — Berserkr",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/d492b97a1a649f81.png",
+  "system": {
+    "description": "Uma vez por dia, transe de d6 rodadas: +2 nos ataques e rastreio pelo faro. Ao terminar, Teste Esperteza CD14; falha obriga a atacar a criatura mais próxima.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 47 (páginas impressas 92–93).",
+    "realm": "Midgard",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "49a2552cb404770c",
+  "_key": "!items!d492b97a1a649f81"
+}

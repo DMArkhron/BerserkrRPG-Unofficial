@@ -1,0 +1,40 @@
+{
+  "_id": "49d54c5e3ef72f1a",
+  "name": "Cura Luminosa — Elfo da Luz",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/49d54c5e3ef72f1a.png",
+  "system": {
+    "description": "Uma vez por dia, cure d6+2PV em si ou num aliado; remove febre, fadiga, envenenamento e cegueira.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 51 (páginas impressas 100–101).",
+    "realm": "Alfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "510378d8e217f6e0",
+  "_key": "!items!49d54c5e3ef72f1a"
+}

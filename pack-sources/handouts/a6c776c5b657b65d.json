@@ -1,0 +1,28 @@
+{
+  "_id": "a6c776c5b657b65d",
+  "name": "Fenrir",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "067d24d317182d5a",
+      "name": "Fenrir",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/fenrir.webp\" alt=\"Fenrir\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Fenrir</h2><p>Lobo colossal preso por correntes que não podem conter seu destino para sempre. Seu despertar ameaça os deuses e os reinos.</p><p><strong>Reino:</strong> Ragnarök</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.c05c5fc032d3b489]{Ficha de Fenrir}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!a6c776c5b657b65d.067d24d317182d5a"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.c05c5fc032d3b489"
+    }
+  },
+  "_key": "!journal!a6c776c5b657b65d"
+}

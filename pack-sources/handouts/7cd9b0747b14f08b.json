@@ -1,0 +1,28 @@
+{
+  "_id": "7cd9b0747b14f08b",
+  "name": "Ymir",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "160ed74162e2ced1",
+      "name": "Ymir",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/ymir.webp\" alt=\"Ymir\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Ymir</h2><p>Gigante primordial adormecido sob o gelo de Niflheim. Seu poder ancestral persiste, e os sinais de seu despertar anunciam uma ameaça aos reinos.</p><p><strong>Reino:</strong> Niflheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.8c93f82bc00504c5]{Ficha de Ymir}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!7cd9b0747b14f08b.160ed74162e2ced1"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.8c93f82bc00504c5"
+    }
+  },
+  "_key": "!journal!7cd9b0747b14f08b"
+}

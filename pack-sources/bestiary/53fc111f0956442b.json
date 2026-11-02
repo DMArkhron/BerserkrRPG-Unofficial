@@ -1,0 +1,165 @@
+{
+  "_id": "53fc111f0956442b",
+  "name": "Gigante Lutador de Glima",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/gigante-lutador-de-glima.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 15,
+      "max": 15
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Jötunheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "7746fc2e6b3a4373",
+      "name": "Estrangulamento",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Gigante Lutador de Glima. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!53fc111f0956442b.7746fc2e6b3a4373"
+    },
+    {
+      "_id": "78574494804a0ecd",
+      "name": "Proteção de Gigante Lutador de Glima",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!53fc111f0956442b.78574494804a0ecd"
+    },
+    {
+      "_id": "402545620052ca13",
+      "name": "Movimentos de Luta Livre",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Role d3 por rodada: 1 Suplex: d6 e prostrado; 2 Abraço de Urso: d4 por rodada até escapar, Força CD12; 3 Arremesso: distância curta, d6 e atordoado.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 24 (páginas impressas 46–47).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!53fc111f0956442b.402545620052ca13"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Gigante Lutador de Glima",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/gigante-lutador-de-glima.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.7795fec29020e8db"
+    }
+  },
+  "folder": "eca273978e2ab80a",
+  "_key": "!actors!53fc111f0956442b"
+}

@@ -1,0 +1,130 @@
+{
+  "_id": "c60ddfd59d99f55a",
+  "name": "Ninfa do Rio",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/ninfa-do-rio.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 5,
+      "max": 5
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Vanaheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 20 (páginas impressas 38–39).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "e3ade3f47904414e",
+      "name": "Grito Estridente",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Ninfa do Rio. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 20 (páginas impressas 38–39).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!c60ddfd59d99f55a.e3ade3f47904414e"
+    },
+    {
+      "_id": "dd01cd3b665e6688",
+      "name": "Canto da Sereia",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Uma vez por encontro, inimigos que ouvirem testam Astúcia CD14 ou se movem em sua direção no próximo turno.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 20 (páginas impressas 38–39).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!c60ddfd59d99f55a.dd01cd3b665e6688"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Ninfa do Rio",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/ninfa-do-rio.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.e3a33e974f24208a"
+    }
+  },
+  "folder": "7e2613f4b05c85c2",
+  "_key": "!actors!c60ddfd59d99f55a"
+}

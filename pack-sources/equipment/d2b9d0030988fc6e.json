@@ -1,0 +1,40 @@
+{
+  "_id": "d2b9d0030988fc6e",
+  "name": "Chifre de Beber Esculpido",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/d2b9d0030988fc6e.png",
+  "system": {
+    "description": "Recipiente para água ou hidromel.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 40,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!d2b9d0030988fc6e"
+}

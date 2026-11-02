@@ -1,0 +1,48 @@
+{
+  "_id": "c02fb4c9a7a57fe0",
+  "name": "Arrasa-Reinos",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-reinos.png",
+  "system": {
+    "description": "Classe de Entre os Reinos.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Memórias de Outrem. Tem as memórias de todos os personagens já interpretados pelo jogador.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 56 (páginas impressas 110–111).",
+    "realm": "Entre os Reinos",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 2,
+      "forca": 3,
+      "astucia": 4,
+      "agilidade": 1,
+      "esperteza": 5
+    },
+    "hpFormula": "@attributes.fortitude + 1d8",
+    "destinyFormula": "1d3",
+    "startingEquipment": "3 Runas apenas como feitiços; d4 comida; d4 água; 3d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.d5aa389bbe0ffc20",
+      "Compendium.berserkr-rpg.abilities.1ad161f379e179d3",
+      "Compendium.berserkr-rpg.abilities.dbc33a6fb064c95c",
+      "Compendium.berserkr-rpg.abilities.f1c2fbd0487687ef",
+      "Compendium.berserkr-rpg.abilities.ad7bac6a39a6ac4d",
+      "Compendium.berserkr-rpg.abilities.7cde031b0af1ccc2",
+      "Compendium.berserkr-rpg.abilities.8ab675f0d94ec455"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "65d27351d1897519",
+  "_key": "!items!c02fb4c9a7a57fe0"
+}

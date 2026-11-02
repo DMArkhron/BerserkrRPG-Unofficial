@@ -1,0 +1,28 @@
+{
+  "_id": "cccf1c12660e47b2",
+  "name": "Guardião do Bosque",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "c67d8261215607cd",
+      "name": "Guardião do Bosque",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/guardiao-do-bosque.webp\" alt=\"Guardião do Bosque\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Guardião do Bosque</h2><p>Defensor ancestral das florestas de Vanaheim. Faz raízes e árvores se voltarem contra aqueles que perturbam seu domínio.</p><p><strong>Reino:</strong> Vanaheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.4ef4f9fa20728120]{Ficha de Guardião do Bosque}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!cccf1c12660e47b2.c67d8261215607cd"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.4ef4f9fa20728120"
+    }
+  },
+  "_key": "!journal!cccf1c12660e47b2"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "4ef0db2872bd29fb",
+  "name": "Andarilho da Névoa",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "ba264edb211ab10e",
+      "name": "Andarilho da Névoa",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/andarilho-da-nevoa.webp\" alt=\"Andarilho da Névoa\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Andarilho da Névoa</h2><p>Ser mutável das névoas de Niflheim. Cerca os viajantes com formas incertas, apagando a distinção entre o caminho e a ameaça.</p><p><strong>Reino:</strong> Niflheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.1b6f251e5b336072]{Ficha de Andarilho da Névoa}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!4ef0db2872bd29fb.ba264edb211ab10e"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.1b6f251e5b336072"
+    }
+  },
+  "_key": "!journal!4ef0db2872bd29fb"
+}

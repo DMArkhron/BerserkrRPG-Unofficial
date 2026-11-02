@@ -1,0 +1,39 @@
+{
+  "_id": "93178ab7b9c8c978",
+  "name": "Ehwaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/93178ab7b9c8c978.png",
+  "system": {
+    "description": "ᛖ — Ehwaz\n\nFeitiço\nForme um vínculo com um aliado por d6 rodadas. Todo dano que o aliado sofrer será dividido pela metade, e você sofre essa outra metade.\n\nInscrição em arma ou armadura\nEvoque um cavalo místico sob você. Enquanto estiver a cavalo, seus movimentos ficam mais rápidos, e sua defesa é feita com vantagem. Se sofrer 4 de dano, o cavalo desaparece e você cairá prostrado.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Forme um vínculo com um aliado por d6 rodadas. Todo dano que o aliado sofrer será dividido pela metade, e você sofre essa outra metade.",
+    "inscription": "Evoque um cavalo místico sob você. Enquanto estiver a cavalo, seus movimentos ficam mais rápidos, e sua defesa é feita com vantagem. Se sofrer 4 de dano, o cavalo desaparece e você cairá prostrado.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!93178ab7b9c8c978"
+}

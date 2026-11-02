@@ -1,0 +1,40 @@
+{
+  "_id": "f5ff5ef982360095",
+  "name": "Barbante com Nós do Destino",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f5ff5ef982360095.png",
+  "system": {
+    "description": "Corda comprida trançada com nós de proteção.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 30,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!f5ff5ef982360095"
+}

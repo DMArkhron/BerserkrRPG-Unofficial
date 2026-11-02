@@ -1,0 +1,40 @@
+{
+  "_id": "13b6ce1e2ef59b14",
+  "name": "Vestes Fantasmagóricas",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/13b6ce1e2ef59b14.png",
+  "system": {
+    "description": "Vestimenta inicial do Espectro.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 53 (páginas impressas 104–105).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!13b6ce1e2ef59b14"
+}

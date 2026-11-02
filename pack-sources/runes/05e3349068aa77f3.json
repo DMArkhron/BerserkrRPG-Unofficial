@@ -1,0 +1,39 @@
+{
+  "_id": "05e3349068aa77f3",
+  "name": "Jera",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/05e3349068aa77f3.png",
+  "system": {
+    "description": "ᛡ — Jera\n\nFeitiço\nDobre sua quantidade atual de comida e água.\n\nInscrição em arma ou armadura\nEvoque uma colheita abundante — você e seus aliados encontrarão d6 de comida e água nas imediações.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Dobre sua quantidade atual de comida e água.",
+    "inscription": "Evoque uma colheita abundante — você e seus aliados encontrarão d6 de comida e água nas imediações.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!05e3349068aa77f3"
+}

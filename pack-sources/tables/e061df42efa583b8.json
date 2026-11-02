@@ -1,0 +1,41 @@
+{
+  "_id": "e061df42efa583b8",
+  "name": "Iniciativa coletiva",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 64 (páginas impressas 126–127).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "849cfae70f6aaaa4",
+      "type": 0,
+      "text": "Inimigos agem primeiro.",
+      "range": [
+        1,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!e061df42efa583b8.849cfae70f6aaaa4"
+    },
+    {
+      "_id": "4c76c2aa4d3ab096",
+      "type": 0,
+      "text": "Personagens agem primeiro.",
+      "range": [
+        4,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!e061df42efa583b8.4c76c2aa4d3ab096"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!e061df42efa583b8"
+}

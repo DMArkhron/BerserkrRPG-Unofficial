@@ -1,0 +1,40 @@
+{
+  "_id": "29bfd28e7b68d436",
+  "name": "Pente de Madeira Entalhado",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/29bfd28e7b68d436.png",
+  "system": {
+    "description": "Pentear cabelo e barba.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 50,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!29bfd28e7b68d436"
+}

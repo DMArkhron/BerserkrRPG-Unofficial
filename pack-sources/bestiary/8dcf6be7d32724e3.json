@@ -1,0 +1,165 @@
+{
+  "_id": "8dcf6be7d32724e3",
+  "name": "Skirnir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/skirnir.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 10,
+      "max": 10
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Vanaheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Vanaheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "a071626d463e0287",
+      "name": "Espada Bastarda de Sequoia",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Skirnir. Inimigo nomeado de Vanaheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+1",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!8dcf6be7d32724e3.a071626d463e0287"
+    },
+    {
+      "_id": "911e9e666ce7a4ea",
+      "name": "Proteção de Skirnir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!8dcf6be7d32724e3.911e9e666ce7a4ea"
+    },
+    {
+      "_id": "fc6c614ca5cc8340",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV\n\nEspada bastarda de sequoia\n\nNao Atirem no Mensageiro Negociador Corrupto\n\nVestes de couro esfarrapadas\n\nd10+1\n\nUma vez por encontro, ele pode escolher um personagem como alvo e tentar encantá-lo. O alvo precisa Testar Astúcia CD14 para não ser temporariamente enfeitiçado pela vontade de Skirnir, caso contrário, ele se volta contra seus aliados e ataca o membro do grupo mais próximo na rodada seguinte.\n\nEste efeito se encerra após uma rodada ou se o personagem enfeitiçado sofrer dano.\n\nUso único; qualquer pessoa aceitará um acordo ou barganha da sua escolha, por mais absurda que seja. Elas, no entanto, ficarão cientes do truque após d12 horas.\n\n–d2\n\n, Skirnir era conhecido por sua competência diplomática e devoção inabalável. Sua jornada para conquistar a giganta Gerd foi uma prova da sua engenhosidade.\n\nMas esses\n\nA amargura transformou-se em vingança contra os deuses a quem tempos já passaram.\n\noutrora servia, acreditando que eles o abandonaram.\n\nOutrora mensageiro leal de Freyr",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 21 (páginas impressas 40–41).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!8dcf6be7d32724e3.fc6c614ca5cc8340"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Skirnir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/skirnir.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.e2ad40c63a9f6c86"
+    }
+  },
+  "folder": "7e2613f4b05c85c2",
+  "_key": "!actors!8dcf6be7d32724e3"
+}

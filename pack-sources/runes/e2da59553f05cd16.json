@@ -1,0 +1,39 @@
+{
+  "_id": "e2da59553f05cd16",
+  "name": "Tiwaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/e2da59553f05cd16.png",
+  "system": {
+    "description": "ᛏ — Tiwaz\n\nFeitiço\nObtenha um sucesso automático no próximo ataque, mas sofra d4 de dano pela tensão cobrar seu preço.\n\nInscrição em arma ou armadura\nTenha um sucesso no seu próximo ataque, mas, depois do golpe, sofra o dobro de dano da próxima vez que você for atingido.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Obtenha um sucesso automático no próximo ataque, mas sofra d4 de dano pela tensão cobrar seu preço.",
+    "inscription": "Tenha um sucesso no seu próximo ataque, mas, depois do golpe, sofra o dobro de dano da próxima vez que você for atingido.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!e2da59553f05cd16"
+}

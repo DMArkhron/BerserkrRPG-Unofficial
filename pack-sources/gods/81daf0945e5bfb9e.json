@@ -1,0 +1,235 @@
+{
+  "_id": "81daf0945e5bfb9e",
+  "name": "Frigg",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/frigg.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 45,
+      "max": 45
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +2CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 87 (páginas impressas 172–173).",
+    "defenseBonus": 2
+  },
+  "items": [
+    {
+      "_id": "b37ea1010e08a350",
+      "name": "Tear do Destino",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Frigg. Chefe divino. Aplica +2CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 87 (páginas impressas 172–173).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!81daf0945e5bfb9e.b37ea1010e08a350"
+    },
+    {
+      "_id": "091b2da76657f7aa",
+      "name": "Tecer Maldição — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Frigg. Chefe divino. Aplica +2CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6+3",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 87 (páginas impressas 172–173).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!81daf0945e5bfb9e.091b2da76657f7aa"
+    },
+    {
+      "_id": "47bd2a7aca5d61c2",
+      "name": "Proteção de Frigg",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 87 (páginas impressas 172–173).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!81daf0945e5bfb9e.47bd2a7aca5d61c2"
+    },
+    {
+      "_id": "65a572741a0b7e0f",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Manto tecido pelo destino\n\nTear do Destino\n\nTecelã do Destino Fios do Destino\n\nTecer Maldição\n\nA Benção de Frigg\n\n+2CD em todas as Defesas do PJ\n\nFrigg lança os fios encantados do destino que se entrelaçam e se enroscam em torno de seus inimigos. Obtendo um desastre na defesa, o alvo é enredado pelos fios e fica atordoado por 1 rodada.\n\nFrigg estica os fios do destino, forçando o fluxo dos acontecimentos a se curvar à sua vontade.\n\nEla pode forçar um jogador a rerrolar qualquer Teste bem-sucedido uma vez por combate.\n\nFrigg prende seus inimigos com fios do destino, ou os isola completamente do fluxo do futuro. Frigg escolhe um personagem e o força a Testar Esperteza CD16.\n\n×Sucesso. Ele resiste, mas ainda está preso ao destino e sofre −2 em todos os Testes pelas próximas 2 rodadas.\n\n×Falha. O alvo fica temporariamente isolado do destino e não pode receber cura, benefícios mágicos ou intervenção divina (Destinos) pelas próximas 3 rodadas.\n\nFrigg amaldiçoa seus inimigos com uma palavra de poder. O alvo precisa Testar Fortitude CD12 para não sofrer desvantagem em seu próximo ataque, pois a maldição interrompe sua concentração.\n\nComo protetora da vida e matriarca da sabedoria, Frigg pode proteger a si mesma ou a um aliado com poder divino.\n\nFrigg concede +3 de armadura a si mesma ou a um aliado por 3 rodadas, protegendo o alvo com o poder do destino. Além disso, se o alvo morrer durante esse período, seus pontos de vida serão restaurados para 1PV.\n\n45 −d3\n\nd8+2\n\numa vez por combate uma vez por combate\n\nd6+3 distância\n\numa vez por combate\n\nA Última Profecia\n\nEscolhido pelo Destino\n\nQuando a saúde de Frigg cair abaixo de 20PV, sua intuição fica mais aguçada, fazendo com que ela e a trama do destino se tornem um só.\n\nFrigg escolhe um campeão, virando o destino contra seus inimigos ao manipular a vontade deles aos seus propósitos. Ela só pode fazer isso uma vez.\n\nFrigg escolhe um dos seus inimigos para lutar por ela, concedendo um sucesso automático no próximo Teste do campeão. Teste Esperteza CD16 para não ser obrigado a lutar por Frigg por d4 rodadas.\n\nAtiva-se com PV<20\n\n× Frigg prevê todos os resultados possíveis pelas próximas 3 rodadas. A CD para atingi-la é aumentada em d6.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 87 (páginas impressas 172–173).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!81daf0945e5bfb9e.65a572741a0b7e0f"
+    },
+    {
+      "_id": "e09105a082200337",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Frigg Mestre do Controle. As habilidades de Frigg fazem dela a mestra do destino. Use Tecelã do Destino para forçar novas rolagens de dados, mantendo os jogadores na dúvida e abalando suas certezas.\n\nPrecisão Defensiva. Frigg não é uma lutadora; ela usa sua Benção para proteger a si mesma e aos seus aliados, enquanto enfraquece os inimigos com maldições e fios aprisionadores. Interprete-a como intocável, sempre um passo à frente.\n\nInexorável na Profecia Final. Quando sua Profecia Final for acionada, Frigg fica praticamente intocável. Use este momento para transformar o campo de batalha em uma teia do destino, subjugando os personagens com seu controle e forçando-os a agir rápido antes que suas visões os consumam por completo.\n\nEspólios e Recompensas Tear do Destino. Um tear mágico que concede a quem o empunha um controle limitado sobre o destino. Uma vez por dia, permite ao usuário rerrolar qualquer Teste malsucedido, manipulando os fios do destino ao seu favor.\n\nManto do Destino Tecido. Um manto tecido com fios do destino, concedendo +2 de armadura e a capacidade de prever o perigo uma vez por sessão (negando automaticamente um efeito de Ira dos Deuses).\n\nBenção de Frigg. Uma dádiva divina que protege o portador das garras da morte. Uma vez por sessão, após a morte, o personagem é restaurado a 1PV, protegido pela previsão de Frigg.\n\nFrigg não é apenas uma combatente — ela é inevitável. Cada movimento dela parece deliberado, como se o combate já estivesse escrito, à medida que seus fios se apertam em torno das escolhas dos jogadores. Lutar contra ela é como lutar contra o próprio destino — implacável, inflexível e inexorável.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 87 (páginas impressas 172–173).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!81daf0945e5bfb9e.e09105a082200337"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Frigg",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/frigg.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.bdf3e646a356434e"
+    }
+  },
+  "folder": "851ef43e69963a82",
+  "_key": "!actors!81daf0945e5bfb9e"
+}

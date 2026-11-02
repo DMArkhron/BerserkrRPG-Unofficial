@@ -1,0 +1,21 @@
+.berserkr {--b-ink:#ece5d6;--b-gold:#c8a569;--b-panel:#252a2d;color:var(--b-ink)}
+.berserkr .window-content{background:#191e21;color:var(--b-ink);overflow:auto}
+.berserkr-body{padding:16px;display:flex;flex-direction:column;gap:14px}
+.berserkr .hero{display:grid;grid-template-columns:100px 1fr;gap:18px;align-items:center}
+.berserkr .hero img{width:100px;height:120px;object-fit:cover;border:1px solid var(--b-gold);cursor:pointer}
+.berserkr .brand{letter-spacing:2px;color:var(--b-gold);font-size:12px}
+.berserkr input,.berserkr select,.berserkr textarea{background:#111619;color:var(--b-ink);border:1px solid #667075;width:100%}
+.berserkr textarea{resize:vertical;min-height:100px}
+.berserkr fieldset{border:1px solid #5b625f;border-radius:5px;padding:12px;background:var(--b-panel)}
+.berserkr legend{color:var(--b-gold);font-weight:bold;padding:0 6px}
+.berserkr .grid{display:grid;gap:10px}.berserkr .two{grid-template-columns:repeat(2,1fr)}.berserkr .three{grid-template-columns:repeat(3,1fr)}.berserkr .five{grid-template-columns:repeat(5,1fr)}
+.berserkr label{display:block;font-size:13px}.berserkr .pair{display:flex;gap:5px}.berserkr button{color:var(--b-ink);background:#30393e;border:1px solid #687473;cursor:pointer}
+.berserkr .hint{font-size:12px;color:#c1c9c6}.berserkr .warning{color:#ffc78a}.berserkr .create-row{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:10px}
+.berserkr .item-row{display:flex;gap:8px;align-items:center;border-bottom:1px solid #535c5d;padding:7px 0}.berserkr .item-name{text-align:left;flex:1}.berserkr .item-row span{font-size:12px}.berserkr .check{display:flex;align-items:center;gap:8px;margin-top:10px}.berserkr .check input{width:auto}
+
+.berserkr.item-sheet .five{grid-template-columns:repeat(3,1fr)}
+.berserkr.item-sheet fieldset button{margin:3px 0;width:100%;text-align:left}
+
+.berserkr .item-row{flex-wrap:wrap}.berserkr button[aria-pressed="true"]{background:#713e24;color:white}.berserkr .generator-step{padding:12px}.berserkr .class-card.selected{outline:2px solid #b58b4a}.berserkr .generator-footer{display:flex;gap:12px;margin-top:20px}.berserkr-chat button{margin:4px}
+
+.berserkr .class-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.berserkr .choice{display:block;text-align:left;white-space:normal;margin:6px 0;padding:10px}.berserkr .choice small{display:block;white-space:pre-wrap}.berserkr .choice.selected{border:2px solid #b58b4a;background:#e8dcc6}.berserkr .attribute-row{display:flex;gap:10px;align-items:center;margin:8px 0;flex-wrap:wrap}.berserkr .description{white-space:pre-wrap}.berserkr progress{width:100%}.berserkr .generator button{white-space:normal}

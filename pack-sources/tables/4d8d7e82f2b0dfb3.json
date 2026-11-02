@@ -1,0 +1,93 @@
+{
+  "_id": "4d8d7e82f2b0dfb3",
+  "name": "Habilidades — Arrasa-Reinos",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 56 (páginas impressas 110–111).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "c235f28942dcb53b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.1ad161f379e179d3]{Tempestade Rúnica — Arrasa-Reinos}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4d8d7e82f2b0dfb3.c235f28942dcb53b"
+    },
+    {
+      "_id": "71250611e6fbcbe2",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.dbc33a6fb064c95c]{Especialista em Runas — Arrasa-Reinos}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4d8d7e82f2b0dfb3.71250611e6fbcbe2"
+    },
+    {
+      "_id": "df9fc6032c746e8c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.f1c2fbd0487687ef]{Inscrição Temporária — Arrasa-Reinos}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4d8d7e82f2b0dfb3.df9fc6032c746e8c"
+    },
+    {
+      "_id": "fecf876e5ce46918",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.ad7bac6a39a6ac4d]{Andar entre os Reinos — Arrasa-Reinos}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4d8d7e82f2b0dfb3.fecf876e5ce46918"
+    },
+    {
+      "_id": "91fe0f960bf13a93",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.7cde031b0af1ccc2]{Andarilho dos Mundos — Arrasa-Reinos}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4d8d7e82f2b0dfb3.91fe0f960bf13a93"
+    },
+    {
+      "_id": "9c89bb01741ef6ae",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.8ab675f0d94ec455]{Andarilho da Fenda — Arrasa-Reinos}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4d8d7e82f2b0dfb3.9c89bb01741ef6ae"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!4d8d7e82f2b0dfb3"
+}

@@ -1,0 +1,111 @@
+/* v0.8: a fixed overview and independently scrolling, accessible tab panels. */
+.berserkr.actor-sheet .window-content{display:flex;flex-direction:column;overflow:hidden;min-height:0}
+.berserkr-body.tabbed-sheet{height:100%;min-height:0;overflow:hidden;gap:10px;padding:16px 22px;flex:1}
+.berserkr .sheet-overview{display:flex;flex-direction:column;gap:10px;flex-shrink:0}
+.berserkr .sheet-overview .sheet-masthead{min-height:36px}
+.berserkr .sheet-overview .wordmark{width:215px;height:42px}
+.berserkr .sheet-overview .masthead-tools button{padding:8px 12px;font-size:11px}
+.berserkr .sheet-overview .hero{grid-template-columns:114px minmax(0,1fr);min-height:154px;padding:13px 20px;gap:20px;background-position:center 42%}
+.berserkr .sheet-overview .hero .portrait-frame img{height:108px}
+.berserkr .sheet-overview .portrait-frame span{font-size:6px;padding:4px 0;letter-spacing:.8px}
+.berserkr .sheet-overview .hero-identity{padding-right:120px}
+.berserkr .sheet-overview .hero .brand{font-size:8px;letter-spacing:2.4px;margin:0 0 5px}
+.berserkr .sheet-overview .hero input.character-name{font-size:29px;min-height:37px;margin-bottom:8px;padding-bottom:5px}
+.berserkr .sheet-overview .hero label{font-size:9px}
+.berserkr .sheet-overview .hero label input{min-height:28px;padding:4px 8px;margin-top:2px;font-size:12px}
+.berserkr .sheet-overview .hero-caption{font-size:10px;margin-top:6px}
+.berserkr .sheet-overview .resource-deck{gap:10px;margin-top:3px}
+.berserkr .sheet-overview .resource-card{padding:8px 12px;grid-template-columns:48px minmax(0,1fr)}
+.berserkr .sheet-overview .resource-card>img{width:43px;height:43px}
+.berserkr .sheet-overview .resource-card label{font-size:12px}
+.berserkr .sheet-overview .resource-card label span{display:inline;font-size:8px;margin-left:4px;letter-spacing:.4px}
+.berserkr .sheet-overview .resource-card input{font-size:26px;min-height:30px;width:47px}
+.berserkr .sheet-overview .resource-foot>span{font-size:10px}
+.berserkr .sheet-overview .attribute-panel{padding:5px 12px 8px}
+.berserkr .sheet-overview .attribute-card{padding-bottom:1px;background:#082b3780}
+.berserkr .sheet-overview .attribute-card button{flex-direction:row;justify-content:center;gap:5px;padding:5px 2px 0;font-size:10px}
+.berserkr .sheet-overview .attribute-card img{width:32px;height:32px}
+.berserkr .sheet-overview .attribute-card input{font-size:27px;min-height:29px}
+.berserkr .sheet-overview .attribute-panel .hint{margin-top:6px;font-size:10px}
+.berserkr .sheet-tabs{display:flex;gap:5px;flex-shrink:0;padding:5px;background:#061e29;border:1px solid #326271;box-shadow:0 3px 0 #041722;position:relative}
+.berserkr .sheet-tabs button{flex:1;display:flex;align-items:center;justify-content:center;gap:7px;min-width:0;min-height:43px;border:1px solid transparent;background:transparent;color:#a6c3c7;font-size:12px;font-weight:bold;padding:6px;position:relative;white-space:normal}
+.berserkr .sheet-tabs button img{width:27px;height:27px;object-fit:contain;border:0;opacity:.65}
+.berserkr .sheet-tabs button small{color:#a5c8c8;background:#123b48;font-size:9px;border-radius:3px;padding:2px 4px;font-weight:normal}
+.berserkr .sheet-tabs button.selected{background:#204e5d;border-color:#5e8b91;color:#fbf0d6;box-shadow:inset 0 -3px 0 #ef4667}
+.berserkr .sheet-tabs button.selected img{opacity:1}
+.berserkr .sheet-tabs button.selected small{background:#b0334e;color:#fff3e0}
+.berserkr .sheet-tabs button:hover{background:#17414e;color:#edf0de}
+.berserkr .sheet-tab-panels{flex:1;min-height:150px;overflow:auto;overscroll-behavior:contain;padding:2px 5px 5px 0;scrollbar-width:thin;scrollbar-color:#3c7480 #082632}
+.berserkr .sheet-tab-panel[hidden]{display:none!important}
+.berserkr .sheet-tab-panel{min-height:100%;padding:0 1px 10px;outline:none}
+.berserkr .sheet-tab-panel:focus-visible{outline:1px dashed #719ba2;outline-offset:-2px}
+.berserkr .tab-title{display:flex;justify-content:space-between;align-items:center;gap:14px;margin:0 0 16px;padding:9px 1px 11px;border-bottom:1px solid #35616d}
+.berserkr .tab-title span{font-size:8px;letter-spacing:2.2px;font-weight:bold;color:#89b8bd}
+.berserkr .tab-title h2{font-size:22px;line-height:1.1;margin:4px 0 0;color:#ecebce;font-weight:800;border:0}
+.berserkr .tab-title>p{font-size:10px;color:#90b2b8;margin:0;text-align:right}
+.berserkr .tab-create{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:5px}
+.berserkr .tab-create button,.berserkr .tab-title>button{font-size:10px;min-height:27px;padding:5px 8px}
+.berserkr .sheet-tab-panels .sheet-columns{gap:16px;margin-top:0}
+.berserkr .sheet-tab-panels .sheet-column{gap:16px}
+.berserkr .sheet-tab-panels fieldset{padding:12px}
+.berserkr .sheet-tab-panels legend{font-size:12px;letter-spacing:.8px}
+.berserkr .sheet-tab-panels .combat-actions button{padding:10px 6px;font-size:11px}
+.berserkr .sheet-tab-panels .combat-stats{margin:12px 0}
+.berserkr .sheet-tab-panels .utility-drawer{margin-bottom:0}
+.berserkr .weapon-ready-row{display:flex;align-items:center;gap:9px;padding:9px 0;border-bottom:1px solid #315767}
+.berserkr .weapon-ready-row:last-of-type{border-bottom:0}
+.berserkr .weapon-ready-row>img{width:34px;height:34px;object-fit:cover;border:1px solid #406b78;flex-shrink:0}
+.berserkr .weapon-ready-row>div{flex:1;min-width:0}
+.berserkr .weapon-ready-row small{display:block;font-size:9px;color:#90b6bb}
+.berserkr .weapon-ready-row .item-name{font-size:11px;margin-bottom:2px}
+.berserkr .weapon-ready-row>button:not(.item-name){font-size:10px;min-height:27px;padding:5px 7px}
+.berserkr .inventory-summary{display:flex;align-items:center;flex-wrap:wrap;gap:18px;padding:10px 12px;background:#103c49;border-left:3px solid #df3e5e;margin-bottom:12px;font-size:11px;color:#adc9c9}
+.berserkr .inventory-summary strong{color:#efedcf;margin-left:5px;font-size:14px}
+.berserkr .inventory-summary>small{margin-left:auto;font-size:9px;color:#81aeb5}
+.berserkr .inventory-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;align-items:start}
+.berserkr .inventory-grid>.item-row{display:flex;flex-wrap:nowrap;gap:11px;align-items:flex-start;border:1px solid #315c69;background:linear-gradient(145deg,#12424f,#0a2b38);padding:12px;margin:0;min-height:99px}
+.berserkr .inventory-grid>.inventory-empty{grid-column:1/-1;padding:35px 0;border:1px dashed #315e6b}
+.berserkr .inventory-grid .inventory-icon{width:43px;height:43px}
+.berserkr .inventory-grid .item-name{font-size:12px}
+.berserkr .inventory-grid .item-detail>span{font-size:9px}
+.berserkr .inventory-grid .item-actions{gap:5px}
+.berserkr .inventory-grid .item-actions button{font-size:10px;padding:4px 8px;min-height:25px}
+.berserkr .power-card{padding:14px;background:linear-gradient(145deg,#144554,#0b2e3b);border:1px solid #376371;box-shadow:0 3px 0 #06202b;min-width:0}
+.berserkr .power-heading{display:flex;align-items:center;gap:11px}
+.berserkr .power-heading>img{width:42px;height:42px;object-fit:cover;border:1px solid #56808a;flex-shrink:0}
+.berserkr .power-heading>div{min-width:0;flex:1}
+.berserkr .power-heading .item-name{font-size:13px;color:#f0eccf}
+.berserkr .power-heading small{font-size:9px;color:#90b8ba}
+.berserkr .power-card>p{font-size:11px;color:#aac5c4;line-height:1.6;margin:13px 0;white-space:pre-wrap}
+.berserkr .power-card .item-actions{padding-top:10px;border-top:1px solid #315a66}
+.berserkr .power-card .item-actions button{font-size:10px;min-height:26px;padding:5px 8px}
+.berserkr .power-card .item-actions button:first-child{background:#245969;border-color:#57939b;color:#f6edd4}
+.berserkr .rune-card{border-top:2px solid #6e9f9c}
+.berserkr .sheet-tab-panels .saga-panel textarea,.berserkr .sheet-tab-panels .notes-panel textarea{min-height:190px;resize:vertical}
+.berserkr .tabbed-sheet .sheet-footer{flex-shrink:0;margin:0;padding-top:8px;font-size:7px}
+@media(max-width:740px){
+  .berserkr-body.tabbed-sheet{padding:12px;gap:8px}
+  .berserkr .sheet-overview .hero-identity{padding-right:0}
+  .berserkr .sheet-overview .hero{grid-template-columns:94px minmax(0,1fr);padding:10px;gap:13px;min-height:140px}
+  .berserkr .sheet-overview .hero input.character-name{font-size:23px}
+  .berserkr .sheet-overview .hero .portrait-frame img{height:97px}
+  .berserkr .sheet-overview .hero-caption{display:none}
+  .berserkr .sheet-overview .resource-card{grid-template-columns:30px minmax(0,1fr);padding:7px}
+  .berserkr .sheet-overview .resource-card>img{width:30px;height:30px}
+  .berserkr .sheet-overview .resource-card label span{display:none}
+  .berserkr .sheet-overview .resource-card input{width:35px;font-size:23px}
+  .berserkr .sheet-overview .attribute-card button{flex-direction:column;font-size:9px;gap:0}
+  .berserkr .sheet-overview .attribute-card img{width:27px;height:27px}
+  .berserkr .sheet-tabs button{font-size:10px;gap:4px;padding:5px 2px}
+  .berserkr .sheet-tabs button img{width:20px;height:20px}
+  .berserkr .sheet-tabs button small{display:none}
+  .berserkr .sheet-tab-panels .sheet-columns{grid-template-columns:1fr}
+  .berserkr .inventory-grid{grid-template-columns:1fr}
+  .berserkr .tab-title{gap:8px}
+}
+@media(max-height:760px){
+  .berserkr .sheet-overview .hero{min-height:120px;padding:9px 16px;grid-template-columns:87px minmax(0,1fr)}
+  .berserkr .sheet-overview .hero .portrait-frame img{height:83px}
+  .berserkr .sheet-overview .hero-caption,.berserkr .sheet-overview .resource-foot>span,.berserkr .sheet-overview .attribute-panel .hint{display:none}
+  .berserkr .sheet-overview .resource-card{padding:5px 9px}
+}

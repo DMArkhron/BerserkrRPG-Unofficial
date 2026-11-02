@@ -1,0 +1,39 @@
+{
+  "_id": "91ddb62ede21a35b",
+  "name": "Moeda de Hel",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/91ddb62ede21a35b.png",
+  "system": {
+    "description": "Jogar concede d100‡; após d6 usos, Hel reivindica o usuário.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!91ddb62ede21a35b"
+}

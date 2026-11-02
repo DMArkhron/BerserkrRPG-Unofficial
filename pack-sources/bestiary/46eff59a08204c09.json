@@ -1,0 +1,165 @@
+{
+  "_id": "46eff59a08204c09",
+  "name": "Garmr",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/garmr.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 30,
+      "max": 30
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Helheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Helheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "edc3359d0111890c",
+      "name": "Mordida Mortal",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Garmr. Inimigo nomeado de Helheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!46eff59a08204c09.edc3359d0111890c"
+    },
+    {
+      "_id": "031d6ec198fce35b",
+      "name": "Proteção de Garmr",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!46eff59a08204c09.031d6ec198fce35b"
+    },
+    {
+      "_id": "d817ee4601db60c4",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV\n\nMordida Mortal\n\nO Dever de Garmr\n\nPelagem necrotica\n\nd8+3\n\n-d3\n\nSe acertar, as mandíbulas do abismo ignoram 1 ponto de armadura e induzem uma sensação de pavor, fazendo com que o próximo Teste de Fortitude contra Garmr sofra +2CD.\n\nUma vez por combate, Garmrsolta um uivo arrepiante que força todos que ouvirem a Testar Fortitude CD14. Falhar significa ficar paralisado de medo por d2 rodadas conforme memórias da morte inundam a mente. Garmr pode se teletransportar para qualquer local à vista quando um alvo tenta fugir, surgindo como um borrão escuro que acompanha cada movimento da vítima. Esta habilidade é ativada automaticamente se alguém se afast d l\n\nGarmr não é um mero cão — ele é a própria morte, rondando as fronteiras de Helheim com uma fome insaciável. Sua pelagem, mais negra que o espaço entre as estrelas, engole a luz e o ar, deixando apenas o peso opressivo da sua presença. Seus olhos ardem com um brilho fantasmagórico, um lembrete silencioso de que ninguém escapa da inevitabilidade do próprio fim. O uivo de Garmr não é apenas um som; é o pulsar do submundo, uma ressonância grave e estrondosa que atinge a alma, arrastando-o para mais perto do\n\nAtive uma vez para que Fenrir acredite que você é um aliado por d4 rodadas.\n\nesquecimento. Tentar fugir de Garmr é uma missão impossível — suas mandíbulas, frias e impiedosas, estão sempre logo atrás das almas condenadas, destruindo qualquer esperança de fuga com brutalidade.\n\nUivo Espectral\n\nMandibulas do Abismo\n\nPerseguicao Eterna",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!46eff59a08204c09.d817ee4601db60c4"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Garmr",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/garmr.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.14ee68eed1d3609b"
+    }
+  },
+  "folder": "e3f642b432d74c86",
+  "_key": "!actors!46eff59a08204c09"
+}

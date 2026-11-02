@@ -1,0 +1,28 @@
+{
+  "_id": "9a30ba60460a5425",
+  "name": "Etin de Geada",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "abb359ae5e445a2e",
+      "name": "Etin de Geada",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/etin-de-geada.webp\" alt=\"Etin de Geada\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Etin de Geada</h2><p>Gigante menor de Jötunheim capaz de comandar o gelo. Invoca nevascas e cria armas gélidas ao redor de seu corpo imponente.</p><p><strong>Reino:</strong> Jötunheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.d9453e649256f77f]{Ficha de Etin de Geada}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!9a30ba60460a5425.abb359ae5e445a2e"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.d9453e649256f77f"
+    }
+  },
+  "_key": "!journal!9a30ba60460a5425"
+}

@@ -1,0 +1,47 @@
+/* Ink and paper, shared by chat, action dialogs and combat controls. */
+.berserkr-message{background:var(--theme-bg)!important;border:1px solid #10151a!important;border-left:4px solid var(--theme-accent)!important;border-radius:5px!important;color:var(--theme-ink)!important;overflow:hidden}
+.berserkr-message .message-header{color:var(--theme-ink)!important;padding:5px 7px;border-bottom:1px solid var(--theme-accent);font-size:11px}
+.berserkr-message .message-content{padding:8px;color:var(--theme-ink);overflow-wrap:anywhere}
+.berserkr-message .berserkr-chat{background:linear-gradient(#eee8d3eb,#eee8d3eb),url('../assets/generator/ink-texture.png') center/400px;border:1px solid #151b20;border-radius:3px;color:#20252a;padding:12px;line-height:1.5;font-size:13px}
+.berserkr-message .berserkr-chat h3{font-family:Georgia,serif;font-size:20px;line-height:1.2;border:0;border-bottom:2px solid var(--theme-accent);padding:0 0 9px;margin:0 0 10px;color:#171c21}
+.berserkr-message .berserkr-chat p{margin:8px 0}.berserkr-message small{font-size:10px;line-height:1.4}
+.berserkr-message .dice-roll .dice-formula{background:#eee8d3;color:#20252a;border:0;border-radius:3px;padding:7px;font-size:13px}
+.berserkr-message .dice-roll .dice-total{background:var(--theme-panel);color:var(--theme-ink);font-size:30px;line-height:1.4;border:0;border-bottom:3px solid var(--theme-accent);box-shadow:none}
+.berserkr-message .dice-tooltip{background:#eee8d3;color:#20252a;padding:7px;border-radius:3px}
+.berserkr-message button{height:auto;min-height:32px;white-space:normal;line-height:1.4;padding:7px 10px;background:var(--theme-bg);color:var(--theme-ink);border:1px solid var(--theme-accent);border-radius:3px;font-weight:700;margin-top:5px}
+.berserkr-dialog{--dialog-paper:#eee8d3;--dialog-ink:#20252a;min-width:300px}
+.berserkr-dialog .window-content{background:linear-gradient(#eee8d3ed,#eee8d3ed),url('../assets/generator/ink-texture.png') center/500px;color:var(--dialog-ink);padding:18px;gap:16px}
+.berserkr-dialog .form-group{display:grid;grid-template-columns:minmax(100px,1fr) minmax(120px,1.2fr);gap:12px;align-items:center;margin:0 0 12px}
+.berserkr-dialog label{font-size:13px;font-weight:700;line-height:1.45;color:var(--dialog-ink);letter-spacing:0}
+.berserkr-dialog input:not([type=checkbox]),.berserkr-dialog select{height:36px;min-width:0;width:100%;background:#fff9e9;color:#20252a;border:1px solid #6d6960;border-radius:3px;padding:6px 9px}
+.berserkr-dialog p{line-height:1.6}.berserkr-dialog button{min-height:36px;height:auto;white-space:normal;background:#143f4e;color:#eee8d3;border:1px solid #20252a;line-height:1.4}
+.berserkr .saga-sheet .sb-identity-fields{gap:10px}.berserkr .saga-sheet .sb-identity-fields label{padding:6px 8px;border-left:2px solid var(--theme-accent);background:#0003;border-radius:3px}
+.berserkr .saga-sheet .sb-box.sb-defense,.berserkr .saga-sheet .sb-box.sb-status,.berserkr .saga-sheet .sb-box.sb-rest{background:linear-gradient(#eee8d3ed,#eee8d3ed),url('../assets/generator/ink-texture.png') center/450px;color:#20252a;border:1px solid #151b20;border-top:3px solid var(--theme-accent);border-radius:4px;padding:12px}
+.berserkr .saga-sheet :is(.sb-defense,.sb-status,.sb-rest) h3{display:flex;align-items:center;gap:8px;color:#20252a;font-family:Georgia,serif;font-size:16px;letter-spacing:0;text-transform:none;margin-bottom:8px}
+.berserkr .saga-sheet :is(.sb-defense,.sb-status,.sb-rest) h3 img{width:28px;height:28px;object-fit:contain;border:0}
+.berserkr .saga-sheet :is(.sb-defense,.sb-status,.sb-rest) :is(label,.sb-help){color:#41454a}
+.berserkr .saga-sheet .sb-conditions{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:7px}
+.berserkr .saga-sheet .sb-conditions button{display:flex;align-items:center;gap:8px;justify-content:flex-start;background:#f8f2e3;color:#20252a;border:1px solid #8e8a80;min-height:35px;font-size:12px}
+.berserkr .saga-sheet .sb-conditions button::before{content:'';width:10px;height:10px;border:1px solid #68665e;border-radius:50%;flex-shrink:0}
+.berserkr .saga-sheet .sb-conditions button[aria-pressed=true]{background:var(--theme-bg);color:var(--theme-ink);border-color:var(--theme-accent)}
+.berserkr .saga-sheet .sb-conditions button[aria-pressed=true]::before{background:var(--theme-accent);border-color:var(--theme-accent)}
+.berserkr .saga-sheet .sb-rest .sb-inline-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.berserkr .saga-sheet .sb-rest button{display:flex;flex-direction:column;align-items:flex-start;gap:3px;min-height:48px;padding:9px 12px}
+.berserkr .saga-sheet .sb-rest button small{font-size:10px;font-weight:400;opacity:.8}
+.berserkr .saga-sheet .sb-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.berserkr .saga-sheet .sb-actions button{min-height:36px;font-size:12px}
+/* Compact action summaries and a single protection block. */
+.berserkr-message .bk-test{display:grid;grid-template-columns:1fr auto;gap:6px 12px;align-items:center;padding:8px 0;border-bottom:1px solid #ada99a}
+.berserkr-message .bk-test strong{grid-row:span 2;font:700 20px Arial;color:#20252a;background:#d9d4c5;border-radius:3px;padding:5px 10px}
+.berserkr-message .bk-test b{font-size:13px}.berserkr-message .bk-test span{font-size:12px}
+.berserkr-message .bk-dice-detail{font-size:11px;margin:7px 0;color:#51534f}.berserkr-message .bk-dice-detail summary{cursor:pointer}
+.berserkr-message .dice-roll .dice-total{font-size:18px;line-height:1.4}.berserkr-message .berserkr-chat h3{font-size:16px;padding-bottom:7px}
+.berserkr .saga-sheet .sb-ready>img{width:48px;height:48px;object-fit:contain;border:0;flex-shrink:0}
+.berserkr .saga-sheet .sb-ready{grid-template-columns:48px minmax(0,1fr) auto;gap:10px;padding:9px 0}
+.berserkr .saga-sheet .sb-defense{display:flex;flex-direction:column;gap:9px}
+.berserkr .saga-sheet .sb-protection-item{display:flex;align-items:center;gap:12px;color:#20252a;font-size:14px}
+.berserkr .saga-sheet .sb-protection-item img{width:64px;height:64px;object-fit:contain;border:0}
+.berserkr .saga-sheet .sb-protection-item .sb-item-name{color:#20252a;background:transparent;border:0;font-size:14px}
+.berserkr .saga-sheet .sb-defense-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.berserkr .saga-sheet .sb-defense-actions button{min-height:35px;font-size:12px}
+.berserkr .saga-sheet .sb-damage-action{width:100%;background:#e2ddce;color:#20252a;border-color:#8e8a80}
+.berserkr .saga-sheet .sb-defense-settings{font-size:11px;color:#41454a}.berserkr .saga-sheet .sb-defense-settings summary{cursor:pointer;padding:5px 0}.berserkr .saga-sheet .sb-unarmed{margin-bottom:5px}

@@ -1,0 +1,4 @@
+#pause.berserkr-pause{overflow:visible;text-align:center;height:205px;}
+#pause.berserkr-pause img.berserkr-pause-logo{display:block;position:static;inset:auto;width:160px;height:160px;object-fit:contain;margin:0 auto;border:0;box-shadow:none;opacity:1;animation:none!important;transform:none!important;filter:drop-shadow(0 3px 7px #000b);}
+#pause.berserkr-pause figcaption{font-family:Georgia,"Times New Roman",serif;color:#e9e1d2;letter-spacing:.2em;text-shadow:0 2px 5px #000;}
+@media(prefers-reduced-motion:reduce){#pause.berserkr-pause{animation:none!important;}}

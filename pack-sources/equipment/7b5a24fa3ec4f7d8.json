@@ -1,0 +1,40 @@
+{
+  "_id": "7b5a24fa3ec4f7d8",
+  "name": "Vestes Brancas Esvoaçantes",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/7b5a24fa3ec4f7d8.png",
+  "system": {
+    "description": "Vestimenta inicial do Elfo da Luz.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 51 (páginas impressas 100–101).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!7b5a24fa3ec4f7d8"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "204fd2b10557f031",
+  "name": "Einherjar",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "cb45b6d53679b0b5",
+      "name": "Einherjar",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/einherjar.webp\" alt=\"Einherjar\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Einherjar</h2><p>Espírito de um guerreiro corajoso de Asgard. Conserva suas armas e sua determinação como uma sentinela além da vida mortal.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.2f5358a219c02d1c]{Ficha de Einherjar}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!204fd2b10557f031.cb45b6d53679b0b5"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.2f5358a219c02d1c"
+    }
+  },
+  "_key": "!journal!204fd2b10557f031"
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "877f9d2ed80e09b4",
+  "name": "Elfo da Luz",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-luz.png",
+  "system": {
+    "description": "Classe de Alfheim.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Visão Noturna. Enxerga no escuro.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 51 (páginas impressas 100–101).",
+    "realm": "Alfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 4,
+      "forca": 1,
+      "astucia": 5,
+      "agilidade": 3,
+      "esperteza": 2
+    },
+    "hpFormula": "@attributes.fortitude + 1d8",
+    "destinyFormula": "1d2",
+    "startingEquipment": "Vestes brancas; Cajado de Madeira-da-Luz (d6); d4 Granadas de Luz (d6 de dano e cegueira); d4 comida; d4 água; 2d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.07b236ce6ff31470",
+      "Compendium.berserkr-rpg.abilities.64b2149eef78693d",
+      "Compendium.berserkr-rpg.abilities.435f02c925bfb3f6",
+      "Compendium.berserkr-rpg.abilities.49d54c5e3ef72f1a",
+      "Compendium.berserkr-rpg.abilities.81e610083c75744e",
+      "Compendium.berserkr-rpg.abilities.227cb5113e97b7b8",
+      "Compendium.berserkr-rpg.abilities.952facd827ba3ccb"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "db23fc2ee1582c84",
+  "_key": "!items!877f9d2ed80e09b4"
+}

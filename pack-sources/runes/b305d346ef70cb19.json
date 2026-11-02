@@ -1,0 +1,39 @@
+{
+  "_id": "b305d346ef70cb19",
+  "name": "Uruz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/b305d346ef70cb19.png",
+  "system": {
+    "description": "ᚢ — Uruz\n\nFeitiço\nCanalize a energia bruta de Uruz, recebendo ou concedendo +2 em Testes de Força por d6 rodadas.\n\nInscrição em arma ou armadura\nLibere uma onda de choque a partir da sua arma, fazendo todos os inimigos próximos caírem prostrados e causando d4 de dano em cada um.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Canalize a energia bruta de Uruz, recebendo ou concedendo +2 em Testes de Força por d6 rodadas.",
+    "inscription": "Libere uma onda de choque a partir da sua arma, fazendo todos os inimigos próximos caírem prostrados e causando d4 de dano em cada um.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!b305d346ef70cb19"
+}

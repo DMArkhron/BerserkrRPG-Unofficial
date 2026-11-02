@@ -1,0 +1,28 @@
+{
+  "_id": "80e3241d33255d1e",
+  "name": "Espírito Flamejante",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "1fa01b50cb8a0ea0",
+      "name": "Espírito Flamejante",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/espirito-flamejante.webp\" alt=\"Espírito Flamejante\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Espírito Flamejante</h2><p>Pequena entidade nascida das chamas de Muspelheim. Salta de forma imprevisível e incendeia tudo o que toca.</p><p><strong>Reino:</strong> Muspelheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.962132b94347ec02]{Ficha de Espírito Flamejante}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!80e3241d33255d1e.1fa01b50cb8a0ea0"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.962132b94347ec02"
+    }
+  },
+  "_key": "!journal!80e3241d33255d1e"
+}

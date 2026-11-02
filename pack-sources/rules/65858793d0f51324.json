@@ -1,0 +1,22 @@
+{
+  "_id": "65858793d0f51324",
+  "name": "Combate e Aparar",
+  "pages": [
+    {
+      "_id": "a5da75cecbe032b8",
+      "name": "Combate e Aparar",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h2>Combate e Aparar</h2><p>Testes usam 1d20 ± atributo contra a CD. Força para corpo a corpo; Astúcia para distância; Agilidade para defesa; Fortitude para Aparar.</p><p>Aparar: Teste Fortitude contra a CD do ataque iminente +3. Consulte os efeitos de crítico e desastre do livro.</p><p>20 natural: crítico. 1 natural: desastre. O dano das armas pode ser rolado pela ficha; acerto e efeitos não são aplicados automaticamente.</p><p>Iniciativa coletiva: d6 (1–3 inimigos primeiro; 4–6 PJs primeiro). Iniciativa individual: Agilidade + d6.</p><p><em>Berserkr — Livro Básico, PDF p. 64 (páginas impressas 126–127).</em></p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!65858793d0f51324.a5da75cecbe032b8"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!65858793d0f51324",
+  "categories": []
+}

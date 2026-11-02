@@ -1,0 +1,28 @@
+{
+  "_id": "407d8315d8a8ab98",
+  "name": "Thrym",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "ced7eb9d71d759e0",
+      "name": "Thrym",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/thrym.webp\" alt=\"Thrym\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Thrym</h2><p>Rei dos Gigantes de Gelo de Jötunheim. Domina o inverno e reúne seguidores para impor sua vontade sob o frio do Ragnarök.</p><p><strong>Reino:</strong> Jötunheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.63d14524b4afc5bd]{Ficha de Thrym}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!407d8315d8a8ab98.ced7eb9d71d759e0"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.63d14524b4afc5bd"
+    }
+  },
+  "_key": "!journal!407d8315d8a8ab98"
+}

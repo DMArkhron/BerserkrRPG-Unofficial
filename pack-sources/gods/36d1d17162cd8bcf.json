@@ -1,0 +1,235 @@
+{
+  "_id": "36d1d17162cd8bcf",
+  "name": "Freyja",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/freyja.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 55,
+      "max": 55
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Vanaheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 85 (páginas impressas 168–169).",
+    "defenseBonus": 3
+  },
+  "items": [
+    {
+      "_id": "8c72288be69dee87",
+      "name": "Lâmina de Hogni",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Freyja. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 85 (páginas impressas 168–169).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!36d1d17162cd8bcf.8c72288be69dee87"
+    },
+    {
+      "_id": "77acc0af07d7efa8",
+      "name": "Varinha de Seiðr — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Freyja. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 85 (páginas impressas 168–169).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!36d1d17162cd8bcf.77acc0af07d7efa8"
+    },
+    {
+      "_id": "68f9e2626cdd9ed5",
+      "name": "Proteção de Freyja",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 85 (páginas impressas 168–169).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!36d1d17162cd8bcf.68f9e2626cdd9ed5"
+    },
+    {
+      "_id": "293402eec7b0cf3b",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Proteções e runas mágicas\n\nLâmina de Hogni\n\nComandar Valquírias Magia de Seiðr\n\nVarinha de Seiðr\n\nA Benção de Fólkvangr\n\n+3CD em todas as defesas do PJ\n\nOs golpes de Freyja com esta lâmina são rápidos e calculados, uma combinação perfeita de elegância e brutalidade.\n\nFreyja convoca os espíritos mortais do Fólkvangr para lutarem ao seu lado, exigindo sua lealdade com o peso da eternidade.\n\nFreyja convoca duas Valquírias para auxiliá-la em combate. Se uma Valquíria for morta, Freyja pode sacrificar d8PV para chamar outra imediatamente.\n\nFreyja utiliza a magia de Seiðr com precisão devastadora, transformando o campo de batalha em um teatro de caos e controle. A cada rodada, ela conjura um efeito mágico:\n\n×Névoa do Fólkvangr. Freyja invoca uma névoa mágica e densa que obscurece o campo de batalha. Todos os inimigos precisam Testar Astúcia CD14 para não sofrerem desvantagem em ataques na próxima rodada.\n\n×Deusa da Fertilidade. Freyja abençoa a si mesma ou a um aliado, concedendo +2 de dano na próxima rodada.\n\n×Sortilégio de Seiðr. Freyja conjura uma maldição sobre um alvo. Ele precisa Testar Fortitude CD14, ou vai sofrer d6 de dano no começo da próxima rodada e desvantagem na defesa e para aparar.\n\nFreyja empunha uma varinha mágica, permitindo-lhe lançar raios de energia de Seiðr. Se uma armadura sem inscrições for atingida, ela será degradada em uma categoria.\n\nOs espíritos dos mortos honrados transmitem seu poder a Freyja e seus aliados, fortalecendo sua vontade de lutar. Freyja e os aliados dela (incluindo as Valquírias convocadas) recebem +2 de Armadura e curam d6PV.\n\n55 −d2\n\nd10+2\n\numa vez por combate a cada rodada\n\nd8+3 distância\n\numa vez por combate\n\nResistência Final\n\nFúria de Batalha\n\nQuando a saúde de Freyja cai abaixo de 20PV, sua fúria divina se manifesta e ela fica mais perigosa.\n\nSe um inimigo for derrotado ou morrer devido a um de seus ataques, Freyja recupera d6PV, conforme sua ligação com os guerreiros caídos do Fólkvangr a fortalece.\n\nAtiva-se com PV<20\n\n× Freyja recebe +2 em todas as defesas dos PJs.\n\n× Ela ganha 2 Valquírias no início de Resistência Final.\n\n× Neste estado, Freyja ataca duas vezes por rodada.\n\n× Quando a divindade for derrotada, suas Valquírias também desaparecem.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 85 (páginas impressas 168–169).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!36d1d17162cd8bcf.293402eec7b0cf3b"
+    },
+    {
+      "_id": "1f9c7115f4c0cf71",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Freyja Presença Imponente.A princípio, Freyja deve parecer intocável, uma deusa da guerra que orquestra o caos enquanto suas Valquírias a protegem de qualquer mal. Mantenha-a em movimento, usando a magia de Seiðr para convocar névoa, amaldiçoar e fortalecer.\n\nEstratégia das Valquírias. As Valquírias dela não são só bucha de canhão — são extensões da sua vontade. Use-as para pressionar os personagens, forçando-os a dividir sua atenção enquanto Freyja conjura magia de uma distância segura.\n\nFúria Final. A Resistência Final de Freyja precisa passar a sensação de que a deusa recorreu às suas reservas divinas para esmagar os personagens. Se eles hesitarem, sua fúria regenerativa e as Valquírias conseguirão dominá-los.\n\nEspólios e Recompensas Brísingamen. Um colar que concede ao usuário não apenas uma beleza incomparável, mas também o poder de controlar as emoções e invocar a proteção divina (Lendários, 211).\n\nVarinha de Seiðr Uma varinha mágica que causa d8+3 de dano. Uma vez por dia, Teste Esperteza CD14 para conjurar um feitiço poderoso. Todos os aliados recebem vantagem na defesa por d3 rodadas.\n\nAmuleto de Freyja Um amuleto mágico que concede ao portador a capacidade de convocar uma Valquíria uma vez por dia, que ajuda no combate por d6 rodadas.\n\nFreyja é mais do que uma deusa da guerra — ela é um símbolo da vida, da morte e de tudo o que existe entre ambas. No campo de batalha, ela comanda não apenas espadas mas também valquírias, magia e uma força de vontade bruta e inabalável. Lutar contra ela não é apenas um combate — é resistir ao próprio caos da guerra, guiado por sabedoria ancestral.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 85 (páginas impressas 168–169).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!36d1d17162cd8bcf.1f9c7115f4c0cf71"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Freyja",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/freyja.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.c2e7a121de6d488f"
+    }
+  },
+  "folder": "7921dc2c4e9dc65f",
+  "_key": "!actors!36d1d17162cd8bcf"
+}

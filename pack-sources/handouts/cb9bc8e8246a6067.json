@@ -1,0 +1,28 @@
+{
+  "_id": "cb9bc8e8246a6067",
+  "name": "Colecionador de Ossos",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "843c2c38d581dc9b",
+      "name": "Colecionador de Ossos",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/colecionador-de-ossos.webp\" alt=\"Colecionador de Ossos\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Colecionador de Ossos</h2><p>Figura esquelética que reúne os restos dos mortos de Helheim. Reanima ossos em servos grotescos e drena a força dos vivos.</p><p><strong>Reino:</strong> Helheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.c7bb580176d7936e]{Ficha de Colecionador de Ossos}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!cb9bc8e8246a6067.843c2c38d581dc9b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.c7bb580176d7936e"
+    }
+  },
+  "_key": "!journal!cb9bc8e8246a6067"
+}

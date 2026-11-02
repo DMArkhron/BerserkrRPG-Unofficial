@@ -1,0 +1,165 @@
+{
+  "_id": "7bcc28a0883239c5",
+  "name": "Hrist",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/hrist.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 18,
+      "max": 18
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Asgard. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 17 (páginas impressas 32–33).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "26f7643300fe2f9f",
+      "name": "Espada Longa Dourada",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Hrist. Inimigo nomeado de Asgard. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 17 (páginas impressas 32–33).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!7bcc28a0883239c5.26f7643300fe2f9f"
+    },
+    {
+      "_id": "aba1640f79f90761",
+      "name": "Proteção de Hrist",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 17 (páginas impressas 32–33).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!7bcc28a0883239c5.aba1640f79f90761"
+    },
+    {
+      "_id": "9c8b90f06a66f7cc",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV\n\nEspada longa Dourada\n\nVoar\n\nAmnésia\n\nArmadura Dourada\n\nd8+3\n\nPode voar à vontade.\n\nVocê não se lembrará desse encontro.\n\n–d3\n\nutrora uma nobre Valquíria que escolhia os caídos dignos do Valhalla, o papel de Hrist foi consumido por uma sede insaciável por guerra. Suas asas radiantes, agora manchadas de sangue, não servem mais para guiar almas ao Valhalla, mas para caçar os vivos.\n\nDesiludida e tomada pela fúria, Hrist considera a vida mortal indigna dos deuses e busca extingui-la onde quer que ela prospere.\n\nSeu julgamento foi distorcido e transformado em vingança. Sua lâmina é veloz e impiedosa. Outrora guardiã do equilíbrio, Hrist tornouse uma força de pura destruição, deixando apenas morte em seu rastro. O\n\nXXX2",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 17 (páginas impressas 32–33).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!7bcc28a0883239c5.9c8b90f06a66f7cc"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Hrist",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/hrist.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.d5815b600f97139f"
+    }
+  },
+  "folder": "8b3f9a3d85212627",
+  "_key": "!actors!7bcc28a0883239c5"
+}

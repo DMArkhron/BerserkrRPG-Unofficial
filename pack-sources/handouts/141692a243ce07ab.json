@@ -1,0 +1,28 @@
+{
+  "_id": "141692a243ce07ab",
+  "name": "Construto Cinéreo",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "9aa1a7507c940350",
+      "name": "Construto Cinéreo",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/construto-cinereo.webp\" alt=\"Construto Cinéreo\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Construto Cinéreo</h2><p>Ser artificial de Muspelheim que se ergue das cinzas. Seu corpo recomposto transforma os restos da destruição em uma nova ameaça.</p><p><strong>Reino:</strong> Muspelheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.2fca6bee108efe63]{Ficha de Construto Cinéreo}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!141692a243ce07ab.9aa1a7507c940350"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.2fca6bee108efe63"
+    }
+  },
+  "_key": "!journal!141692a243ce07ab"
+}

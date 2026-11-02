@@ -1,0 +1,39 @@
+{
+  "_id": "f3f0f8674a96ff00",
+  "name": "Gebo",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/f3f0f8674a96ff00.png",
+  "system": {
+    "description": "ᚷ — Gebo\n\nFeitiço\nTroque força vital. Cure d6PV de um aliado às custas de seus próprios PV.\n\nInscrição em arma ou armadura\nCause dano máximo no próximo ataque bem-sucedido, mas em troca sacrifique d6PV.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Troque força vital. Cure d6PV de um aliado às custas de seus próprios PV.",
+    "inscription": "Cause dano máximo no próximo ataque bem-sucedido, mas em troca sacrifique d6PV.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!f3f0f8674a96ff00"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "cc14451b3f40c461",
+  "name": "Hel",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "c73fdbc0620681a4",
+      "name": "Hel",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/hel.webp\" alt=\"Hel\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Hel</h2><p>Senhora de Helheim e dos mortos. Governa um domínio de frio, decadência e almas que não encontraram o caminho do Valhalla.</p><p><strong>Reino:</strong> Helheim</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.f4ca135d17425509]{Ficha de Hel}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!cc14451b3f40c461.c73fdbc0620681a4"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.f4ca135d17425509"
+    }
+  },
+  "_key": "!journal!cc14451b3f40c461"
+}

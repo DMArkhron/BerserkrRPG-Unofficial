@@ -1,0 +1,40 @@
+{
+  "_id": "1b8eb3375f0d25f1",
+  "name": "Bastão com Ponta de Crânio",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/1b8eb3375f0d25f1.png",
+  "system": {
+    "description": "Cada crânio adicional causa d4 de dano adicional, máximo três crânios adicionais.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "7363f73ef00bc8e1",
+  "_key": "!items!1b8eb3375f0d25f1"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "d5aa389bbe0ffc20",
+  "name": "Memórias de Outrem — Arrasa-Reinos",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/d5aa389bbe0ffc20.png",
+  "system": {
+    "description": "Tem as memórias de todos os personagens já interpretados pelo jogador.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 56 (páginas impressas 110–111).",
+    "realm": "Entre os Reinos",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "91d4ac79a576dae0",
+  "_key": "!items!d5aa389bbe0ffc20"
+}

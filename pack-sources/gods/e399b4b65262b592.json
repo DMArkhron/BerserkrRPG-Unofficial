@@ -1,0 +1,235 @@
+{
+  "_id": "e399b4b65262b592",
+  "name": "Jörmungandr",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/jormungandr.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 90,
+      "max": 90
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Midgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 94 (páginas impressas 186–187).",
+    "defenseBonus": 4
+  },
+  "items": [
+    {
+      "_id": "7cba20f1fdabc811",
+      "name": "Mordida Venenosa",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Jörmungandr. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 94 (páginas impressas 186–187).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e399b4b65262b592.7cba20f1fdabc811"
+    },
+    {
+      "_id": "948d784ee49530e3",
+      "name": "Chicote de Cauda",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Jörmungandr. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 94 (páginas impressas 186–187).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e399b4b65262b592.948d784ee49530e3"
+    },
+    {
+      "_id": "be75120f9049466a",
+      "name": "Proteção de Jörmungandr",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 94 (páginas impressas 186–187).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e399b4b65262b592.be75120f9049466a"
+    },
+    {
+      "_id": "8f0f1076bcd2d283",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Jörmungandr Domínio do Campo de Batalha.Use Onda Gigante e Hálito Venenoso de começo para bagunçar o posicionamento do grupo e enfraquecer a coesão deles. Vise Pontos Fracos. Foque Mordida Venenosa em personagens que estão usando armadura pesada para enfraquecer as defesas deles, enquanto deixa Espiral Constritora para eliminar ameaças capazes de causar bastante dano. Fúria do Apocalipse. Quando Jörmungandr entrar na sua fase final, seus golpes e A Ira do Destruidor de Mundos precisam forçar os personagens a uma luta desesperada para evitar a aniquilação.\n\nEspólios e Recompensas Presa de Jörmungandr Uma presa enorme e venenosa que pode ser usada como arma. Causa d10+4 de dano e aplica um veneno que causa d6 de dano venenoso por 2 rodadas. As Escamas de Jörmungandr. Escamas grossas e impenetráveis que podem ser transformadas em armaduras. Armaduras feitas com estas escamas concedem +2 de armadura e resistência a veneno (efeitos venenosos causam apenas metade do dano). A Benção da Serpente. Concede ao personagem imunidade a veneno e capacidade de respirar debaixo d'água. Uma vez por dia, o personagem pode convocar uma onda gigante que causa d8 de dano e deixa os inimigos prostrados.\n\nCada ataque e habilidade da precisa transmitir uma sensação avassaladora, desde o poder esmagador de suas espirais até os efeitos da sua presença, que alteram o campo de batalha. Deixe os jogadores sentirem que estão lutando contra uma lenda que abala a própria terra e o mar.\n\nPV Escamas grossas e metálicas\n\nMordida Venenosa\n\nHálito Venenoso\n\nEspiral Constritora Cauda Chicoteante Onda Gigante\n\n+5CD em todas as defesas do PJ\n\nA mordida injeta um veneno poderoso. O alvo precisa Testar Fortitude CD14 no início de cada rodada. Falhar causa d6 de dano e desvantagem em todos os Testes durante a rodada. Ao serem atingidas, armaduras sem encantamentos degradam 1 categoria.\n\nJörmungandr pode liberar uma nuvem de gás venenoso da sua boca, que se espalha pelo campo de batalha e infecta quem for atingido por ela. Todos os inimigos atingidos precisam Testar Fortitude CD14 para não serem envenenados.\n\nJörmungandr consegue envolver vários inimigos com seu corpo gigantesco, esmagando-os com sua força descomunal.\n\nJörmungandr ataca até 2 inimigos, tentando prendê-los em suas espirais. Os alvos precisam Testar Força CD14 para evitar serem pegos. Se forem apanhados, sofrem 3d6 de dano por rodada que permanecerem presos, e precisam Testar Força CD14 no início de cada rodada para se libertarem.\n\nSe falharem, permanecem presos e sofrem dano adicional a cada rodada até serem libertados ou mortos.\n\nJörmungandr varre o campo de batalha com sua enorme cauda, derrubando vários inimigos. Todos os alvos Testam Agilidade CD12 para não sofrerem d10+4 de dano e caírem prostrados.\n\nA presença da serpente perturba o próprio oceano, provocando uma onda gigantesca. Jörmungandr convoca uma onda enorme, que se abate sobre o campo de batalha. Todas as criaturas precisam Testar Força CD14 ou serão varridas, sofrendo d8 de dano e caindo prostradas.\n\nEfeitos no Terreno. Após a onda atingir o campo de batalha, o lugar fica escorregadio e alagado, forçando todos os personagens a Testarem Agilidade CD12 no início de cada rodada ou se moverão mais lentamente devido ao terreno difícil. Esse efeito dura d4 rodadas.\n\n90 −d3\n\nd12+6\n\numa vez por combate\n\numa vez por combate d10+4 uma vez por combate\n\nO Fim do Ragnarök\n\nA Ira do Destruidor de Mundos\n\nQuando Jörmungandr ficar gravemente ferido, ele começa a se debater, tornando o campo de batalha ainda mais perigoso.\n\nJörmungandr pode liberar todo o seu poder, golpeando a terra com sua cauda e causando danos catastróficos. A Serpente do Mundo só pode fazer isso uma vez.\n\nJörmungandr bate com sua enorme cauda no chão, causando terremotos que se propagam pelo campo de batalha. Todos os inimigos precisam Testar Fortitude CD16 ou sofrerão 3d10 de dano e cairão prostrados.\n\nAlém disso, o terreno fica estilhaçado e instável, obrigando os personagens a Testarem Agilidade CD14 a cada rodada para evitar sofrerem d6 de dano devido ao solo fraturado.\n\nAtiva-se com PV<30\n\n× Sempre que atingir a serpente com um ataque corpo a corpo, Teste Agilidade CD14 ou sofra d12 de dano.\n\nJörmungandr",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 94 (páginas impressas 186–187).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e399b4b65262b592.8f0f1076bcd2d283"
+    },
+    {
+      "_id": "ee4b0a53cd4b04c2",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Jörmungandr Domínio do Campo de Batalha.Use Onda Gigante e Hálito Venenoso de começo para bagunçar o posicionamento do grupo e enfraquecer a coesão deles. Vise Pontos Fracos. Foque Mordida Venenosa em personagens que estão usando armadura pesada para enfraquecer as defesas deles, enquanto deixa Espiral Constritora para eliminar ameaças capazes de causar bastante dano. Fúria do Apocalipse. Quando Jörmungandr entrar na sua fase final, seus golpes e A Ira do Destruidor de Mundos precisam forçar os personagens a uma luta desesperada para evitar a aniquilação.\n\nEspólios e Recompensas Presa de Jörmungandr Uma presa enorme e venenosa que pode ser usada como arma. Causa d10+4 de dano e aplica um veneno que causa d6 de dano venenoso por 2 rodadas. As Escamas de Jörmungandr. Escamas grossas e impenetráveis que podem ser transformadas em armaduras. Armaduras feitas com estas escamas concedem +2 de armadura e resistência a veneno (efeitos venenosos causam apenas metade do dano). A Benção da Serpente. Concede ao personagem imunidade a veneno e capacidade de respirar debaixo d'água. Uma vez por dia, o personagem pode convocar uma onda gigante que causa d8 de dano e deixa os inimigos prostrados.\n\nCada ataque e habilidade da precisa transmitir uma sensação avassaladora, desde o poder esmagador de suas espirais até os efeitos da sua presença, que alteram o campo de batalha. Deixe os jogadores sentirem que estão lutando contra uma lenda que abala a própria terra e o mar.\n\nPV Escamas grossas e metálicas\n\nMordida Venenosa\n\nHálito Venenoso\n\nEspiral Constritora Cauda Chicoteante Onda Gigante\n\n+5CD em todas as defesas do PJ\n\nA mordida injeta um veneno poderoso. O alvo precisa Testar Fortitude CD14 no início de cada rodada. Falhar causa d6 de dano e desvantagem em todos os Testes durante a rodada. Ao serem atingidas, armaduras sem encantamentos degradam 1 categoria.\n\nJörmungandr pode liberar uma nuvem de gás venenoso da sua boca, que se espalha pelo campo de batalha e infecta quem for atingido por ela. Todos os inimigos atingidos precisam Testar Fortitude CD14 para não serem envenenados.\n\nJörmungandr consegue envolver vários inimigos com seu corpo gigantesco, esmagando-os com sua força descomunal.\n\nJörmungandr ataca até 2 inimigos, tentando prendê-los em suas espirais. Os alvos precisam Testar Força CD14 para evitar serem pegos. Se forem apanhados, sofrem 3d6 de dano por rodada que permanecerem presos, e precisam Testar Força CD14 no início de cada rodada para se libertarem.\n\nSe falharem, permanecem presos e sofrem dano adicional a cada rodada até serem libertados ou mortos.\n\nJörmungandr varre o campo de batalha com sua enorme cauda, derrubando vários inimigos. Todos os alvos Testam Agilidade CD12 para não sofrerem d10+4 de dano e caírem prostrados.\n\nA presença da serpente perturba o próprio oceano, provocando uma onda gigantesca. Jörmungandr convoca uma onda enorme, que se abate sobre o campo de batalha. Todas as criaturas precisam Testar Força CD14 ou serão varridas, sofrendo d8 de dano e caindo prostradas.\n\nEfeitos no Terreno. Após a onda atingir o campo de batalha, o lugar fica escorregadio e alagado, forçando todos os personagens a Testarem Agilidade CD12 no início de cada rodada ou se moverão mais lentamente devido ao terreno difícil. Esse efeito dura d4 rodadas.\n\n90 −d3\n\nd12+6\n\numa vez por combate\n\numa vez por combate d10+4 uma vez por combate\n\nO Fim do Ragnarök\n\nA Ira do Destruidor de Mundos\n\nQuando Jörmungandr ficar gravemente ferido, ele começa a se debater, tornando o campo de batalha ainda mais perigoso.\n\nJörmungandr pode liberar todo o seu poder, golpeando a terra com sua cauda e causando danos catastróficos. A Serpente do Mundo só pode fazer isso uma vez.\n\nJörmungandr bate com sua enorme cauda no chão, causando terremotos que se propagam pelo campo de batalha. Todos os inimigos precisam Testar Fortitude CD16 ou sofrerão 3d10 de dano e cairão prostrados.\n\nAlém disso, o terreno fica estilhaçado e instável, obrigando os personagens a Testarem Agilidade CD14 a cada rodada para evitar sofrerem d6 de dano devido ao solo fraturado.\n\nAtiva-se com PV<30\n\n× Sempre que atingir a serpente com um ataque corpo a corpo, Teste Agilidade CD14 ou sofra d12 de dano.\n\nJörmungandr",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 94 (páginas impressas 186–187).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!e399b4b65262b592.ee4b0a53cd4b04c2"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Jörmungandr",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/jormungandr.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.a86ef867c4416f35"
+    }
+  },
+  "folder": "39e84f18f01ed430",
+  "_key": "!actors!e399b4b65262b592"
+}

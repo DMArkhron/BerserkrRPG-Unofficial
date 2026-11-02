@@ -1,0 +1,28 @@
+{
+  "_id": "73591fa599e1ceda",
+  "name": "Thor",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "b582058615d0f5e6",
+      "name": "Thor",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/thor.webp\" alt=\"Thor\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Thor</h2><p>Deus do trovão e guerreiro de força devastadora. Seus golpes e relâmpagos representam uma das maiores ameaças no confronto com os deuses.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.59135ba9fb550d8e]{Ficha de Thor}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!73591fa599e1ceda.b582058615d0f5e6"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.59135ba9fb550d8e"
+    }
+  },
+  "_key": "!journal!73591fa599e1ceda"
+}

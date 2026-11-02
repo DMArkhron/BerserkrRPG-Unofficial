@@ -1,0 +1,165 @@
+{
+  "_id": "197c0ce48a737800",
+  "name": "Hrímgrímnir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/hrimgrimnir.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 28,
+      "max": 28
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Niflheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Niflheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "6a2b65d3abb148ab",
+      "name": "Montante Gélida",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Hrímgrímnir. Inimigo nomeado de Niflheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!197c0ce48a737800.6a2b65d3abb148ab"
+    },
+    {
+      "_id": "3e20348854173df1",
+      "name": "Proteção de Hrímgrímnir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!197c0ce48a737800.3e20348854173df1"
+    },
+    {
+      "_id": "6c384d7d93d878f0",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "rímgrímnir, o Jarl Congelado, é um senhor da guerra forjado no próprio coração gélido de Niflheim. Envolto em uma armadura forjada nos abismos mais escuros do submundo, ele lidera as legiões congeladas com uma precisão mecânica e inflexível. Seu coração, um vazio congelado, pulsa com a fúria ancestral de uma alma condenada à geada eterna.\n\nMontante Gélida\n\nGeada Profana\n\nLegião de Gelo\n\nPV Armadura de Gelo Negro\n\nd10+3 (Dominada como uma recompensa)Uma vez por sessão, liberte uma tempestade de granizo que causa d8 de dano em todos os inimigos que você consegue ver.\n\nHrímgrímnir empunha uma enorme espada imbuída de uma geada profana. Obtendo um desastre, o alvo é encarcerado em gelo e precisa Testar Fortitude CD14 para se libertar, ou fica atordoado por d4 rodadas.\n\nHrímgrímnir pode convocar d4 Guerreiros Congelados (d4PV, Machado de gelo d6) a cada rodada. Esses soldados obedecem às ordens dele até que seja derrotado.\n\n−d3\n\nH",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 37 (páginas impressas 72–73).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!197c0ce48a737800.6c384d7d93d878f0"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Hrímgrímnir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/hrimgrimnir.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.33ba184c2dccce52"
+    }
+  },
+  "folder": "48b0cdddf0500c1e",
+  "_key": "!actors!197c0ce48a737800"
+}

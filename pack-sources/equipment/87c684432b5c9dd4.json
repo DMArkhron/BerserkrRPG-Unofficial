@@ -1,0 +1,40 @@
+{
+  "_id": "87c684432b5c9dd4",
+  "name": "Couraça Lamelar",
+  "type": "armor",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/87c684432b5c9dd4.png",
+  "system": {
+    "description": "Categoria 4. Reduz o dano em 1d6. Testes de Agilidade: +4CD. Defesa: +2CD.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 200,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 4,
+    "reduction": "1d6",
+    "agilityPenalty": 4,
+    "source": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "db9d741f805026ce",
+  "_key": "!items!87c684432b5c9dd4"
+}

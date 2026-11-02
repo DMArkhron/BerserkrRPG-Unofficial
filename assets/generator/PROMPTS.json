@@ -1,0 +1,17 @@
+{
+  "tool": "imagegen integrado",
+  "reference_role": "Apenas linguagem artística; não copiar personagens, poses, títulos ou composição do PDF",
+  "shared_prompt": "Retrato quadrado original de cabeça e ombros. Contornos angulares fortes em tinta preta, hachuras manuais, textura áspera de impressão, cores chapadas, sombras azul-petróleo e acentos vibrantes. Silhueta legível, rosto visível, sem texto, logotipo, borda ou marca d’água.",
+  "classes": {
+    "berserkr": "Guerreira de tranças escuras, manto de lobo e machado",
+    "valquiria": "Valquíria de pele escura, tranças prateadas, lança e penas de corvo",
+    "vanir": "Guardiã Vanir idosa, cajado de carvalho, armadura de raízes e musgo",
+    "gelo": "Gigante de gelo azul, cristais na barba e martelo rúnico",
+    "luz": "Elfo da luz andrógino, armadura de sol negro e cristal luminoso",
+    "ferreiro": "Ferreiro anão com barba de cobre, avental e martelo",
+    "espectro": "Espectro feminino encapuzado, correntes e névoa violeta",
+    "chamas": "Construto humanoide de rocha vulcânica, fissuras de brasa e placas forjadas",
+    "almas": "Pastor de almas com rosto vivo e lanterna ciano",
+    "reinos": "Feiticeira Arrasa-Reinos de cabelo curto vermelho, coroa rachada e fragmentos rúnicos"
+  }
+}

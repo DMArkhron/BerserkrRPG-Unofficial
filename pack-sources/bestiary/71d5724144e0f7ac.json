@@ -1,0 +1,95 @@
+{
+  "_id": "71d5724144e0f7ac",
+  "name": "Trolloide",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/trolloide.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 10,
+      "max": 10
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Midgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 12 (páginas impressas 22–23).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "9677f5c9a1ee9980",
+      "name": "Ferramentas Roubadas",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Trolloide. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 12 (páginas impressas 22–23).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!71d5724144e0f7ac.9677f5c9a1ee9980"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Trolloide",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/trolloide.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.11eb057bcb3b567e"
+    }
+  },
+  "folder": "7b1d080bfa84ce3c",
+  "_key": "!actors!71d5724144e0f7ac"
+}

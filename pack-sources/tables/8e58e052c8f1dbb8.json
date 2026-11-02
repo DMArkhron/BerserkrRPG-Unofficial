@@ -1,0 +1,93 @@
+{
+  "_id": "8e58e052c8f1dbb8",
+  "name": "Habilidades — Guardião Vanir",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "780f22d116bcb339",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.049da40e54e26f19]{Fúria da Natureza — Guardião Vanir}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8e58e052c8f1dbb8.780f22d116bcb339"
+    },
+    {
+      "_id": "c798aaeafb23b1f5",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.4046ce66297e41e5]{Escudo da Natureza — Guardião Vanir}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8e58e052c8f1dbb8.c798aaeafb23b1f5"
+    },
+    {
+      "_id": "dfe2e540e245d50d",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.3e4f21fc4211d131]{Águas Restauradoras — Guardião Vanir}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8e58e052c8f1dbb8.dfe2e540e245d50d"
+    },
+    {
+      "_id": "16d97ef82098f790",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.407a7f144be22ab3]{Fera Companheira — Guardião Vanir}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8e58e052c8f1dbb8.16d97ef82098f790"
+    },
+    {
+      "_id": "18f71722deeaf9fd",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.201da4a1d3d73424]{A Benção dos Vanir — Guardião Vanir}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8e58e052c8f1dbb8.18f71722deeaf9fd"
+    },
+    {
+      "_id": "74137daa3ae36282",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.8bd37a8e85c753df]{Renascimento Verdejante — Guardião Vanir}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!8e58e052c8f1dbb8.74137daa3ae36282"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!8e58e052c8f1dbb8"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "5b89d4a2f184efc8",
+  "name": "Valquíria",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "c5cdbc8e044b2de3",
+      "name": "Valquíria",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/valquiria.webp\" alt=\"Valquíria\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Valquíria</h2><p>Guerreira alada de Asgard ligada ao destino dos caídos. Suas armas e sua presença trazem ao campo de batalha o poder dos deuses.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.081beb409f37c790]{Ficha de Valquíria}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!5b89d4a2f184efc8.c5cdbc8e044b2de3"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.081beb409f37c790"
+    }
+  },
+  "_key": "!journal!5b89d4a2f184efc8"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "0b19c0190f4d27cf",
+  "name": "Cota de Malha Resistente",
+  "type": "armor",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0b19c0190f4d27cf.png",
+  "system": {
+    "description": "Armadura inicial do Mestre Ferreiro, categoria 3: redução d4; +2CD em Agilidade e defesa.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 3,
+    "reduction": "1d4",
+    "agilityPenalty": 2,
+    "source": "Berserkr — Livro Básico, PDF p. 52 (páginas impressas 102–103).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "db9d741f805026ce",
+  "_key": "!items!0b19c0190f4d27cf"
+}

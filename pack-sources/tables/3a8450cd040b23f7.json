@@ -1,0 +1,93 @@
+{
+  "_id": "3a8450cd040b23f7",
+  "name": "Habilidades — Mestre Ferreiro",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 52 (páginas impressas 102–103).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "1a3237447cf56982",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.4069a088f3617f80]{Maestria Rúnica — Mestre Ferreiro}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!3a8450cd040b23f7.1a3237447cf56982"
+    },
+    {
+      "_id": "e2f7b7fe0ddfe748",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.0be90dde6793c216]{Reforja Rúnica — Mestre Ferreiro}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!3a8450cd040b23f7.e2f7b7fe0ddfe748"
+    },
+    {
+      "_id": "e4a1654a38a99b52",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.87a711eae28d5ab1]{Runa do Estilhaçamento — Mestre Ferreiro}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!3a8450cd040b23f7.e4a1654a38a99b52"
+    },
+    {
+      "_id": "f5bf6927c719f41b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.5b0213f9b92bde82]{A Resiliência do Ferreiro — Mestre Ferreiro}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!3a8450cd040b23f7.f5bf6927c719f41b"
+    },
+    {
+      "_id": "fb3f95e11b1c0cfa",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.fbae2928812e5508]{A Vontade da Bigorna — Mestre Ferreiro}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!3a8450cd040b23f7.fb3f95e11b1c0cfa"
+    },
+    {
+      "_id": "3b7cd39228f087c9",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.dd965fbd296a8e3e]{Forja Rápida — Mestre Ferreiro}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!3a8450cd040b23f7.3b7cd39228f087c9"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!3a8450cd040b23f7"
+}

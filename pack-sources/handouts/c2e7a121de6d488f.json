@@ -1,0 +1,28 @@
+{
+  "_id": "c2e7a121de6d488f",
+  "name": "Freyja",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "635a57385eafd40a",
+      "name": "Freyja",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/freyja.webp\" alt=\"Freyja\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Freyja</h2><p>Divindade ligada à magia e à batalha. Sua beleza e seu poder revelam a face encantadora e perigosa dos deuses Vanir.</p><p><strong>Reino:</strong> Vanaheim</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.36d1d17162cd8bcf]{Ficha de Freyja}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!c2e7a121de6d488f.635a57385eafd40a"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.36d1d17162cd8bcf"
+    }
+  },
+  "_key": "!journal!c2e7a121de6d488f"
+}

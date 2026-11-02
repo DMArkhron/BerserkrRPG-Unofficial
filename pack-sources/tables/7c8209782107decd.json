@@ -1,0 +1,171 @@
+{
+  "_id": "7c8209782107decd",
+  "name": "Segundo item inicial",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "2e611a10ace50572",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.f5ff5ef982360095]{Barbante com Nós do Destino}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.2e611a10ace50572"
+    },
+    {
+      "_id": "bfd55d34e4ee404c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.c804f377ab150102]{Brasas Fumegantes da Lareira}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.bfd55d34e4ee404c"
+    },
+    {
+      "_id": "16612eab7bceed6c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.78a6f4f64f2972fb]{Lampião Entalhado em Madeira}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.16612eab7bceed6c"
+    },
+    {
+      "_id": "7b522bc21488f4e6",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.5607a01896b598ea]{Talismã de Presa de Lobo}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.7b522bc21488f4e6"
+    },
+    {
+      "_id": "5dbe39a5e62ef5fd",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.3cb63b12ac2a8f34]{Pedra Rúnica Aleatória}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.5dbe39a5e62ef5fd"
+    },
+    {
+      "_id": "a6d6ca0fba0c79cc",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.b084f73e1b61c452]{Machado de Lenhador}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.a6d6ca0fba0c79cc"
+    },
+    {
+      "_id": "de5e0faf9c24db01",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.7ecc10f364478b10]{Cataplasma de Ervas Medicinais}",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.de5e0faf9c24db01"
+    },
+    {
+      "_id": "d620f5617b2c771a",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.d37579540b69eea4]{Anzol de Ferro}",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.d620f5617b2c771a"
+    },
+    {
+      "_id": "d6a8a2ec802c6c52",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.4e02508aa5d2f9ab]{Cipó de Trepadeira Espinhosa}",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.d6a8a2ec802c6c52"
+    },
+    {
+      "_id": "74ca96286ae47bec",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.cd66b99b061f1bf2]{Fragmento de Pedra do Trovão}",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.74ca96286ae47bec"
+    },
+    {
+      "_id": "6862a52185b8dea3",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.042c06ca0c187f3e]{Espinhos Envenenados}",
+      "range": [
+        11,
+        11
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.6862a52185b8dea3"
+    },
+    {
+      "_id": "29836c8af44b1d7c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.9119e39bc6f8ce3d]{Crânio de Corvo}",
+      "range": [
+        12,
+        12
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!7c8209782107decd.29836c8af44b1d7c"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!7c8209782107decd"
+}

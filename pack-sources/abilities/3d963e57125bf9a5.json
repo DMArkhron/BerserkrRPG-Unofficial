@@ -1,0 +1,40 @@
+{
+  "_id": "3d963e57125bf9a5",
+  "name": "O Chamado do Valhalla — Valquíria",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/3d963e57125bf9a5.png",
+  "system": {
+    "description": "Uma vez por dia, grito de guerra: aliados que ouvirem recebem +2 em ataques por d6 rodadas.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 48 (páginas impressas 94–95).",
+    "realm": "Asgard",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "a03ae9c58980b0dd",
+  "_key": "!items!3d963e57125bf9a5"
+}

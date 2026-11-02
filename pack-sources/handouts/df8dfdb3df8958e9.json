@@ -1,0 +1,28 @@
+{
+  "_id": "df8dfdb3df8958e9",
+  "name": "Espectro de Gelo",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "c11aa90a1bbf1e18",
+      "name": "Espectro de Gelo",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/espectro-de-gelo.webp\" alt=\"Espectro de Gelo\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Espectro de Gelo</h2><p>Alma de Niflheim dominada pelo frio eterno. Sua presença aproxima os vivos da quietude gelada do reino.</p><p><strong>Reino:</strong> Niflheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.103c84d8c86c3568]{Ficha de Espectro de Gelo}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!df8dfdb3df8958e9.c11aa90a1bbf1e18"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.103c84d8c86c3568"
+    }
+  },
+  "_key": "!journal!df8dfdb3df8958e9"
+}

@@ -1,0 +1,171 @@
+{
+  "_id": "2fe75a378f2a24c9",
+  "name": "Primeiro item inicial",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "9fa1ba73025c455e",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.c25d493d4b9e12c7]{Pele Seca de Serpente}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.9fa1ba73025c455e"
+    },
+    {
+      "_id": "3fd3364a6793cb18",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.e0674f24ba5cd450]{Pedaço de Ferro do Pântano}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.3fd3364a6793cb18"
+    },
+    {
+      "_id": "f23fadb35f424d84",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.b9be3cc5236b68cc]{Dados de Madeira Esculpidos}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.f23fadb35f424d84"
+    },
+    {
+      "_id": "74eb0792797336c8",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.9d06cfdfd1543cea]{Espelho de Bronze Desgastado}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.74eb0792797336c8"
+    },
+    {
+      "_id": "c2963f6bf111f42d",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.57a325cfad564cb0]{Colar de Garra de Corvo}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.c2963f6bf111f42d"
+    },
+    {
+      "_id": "497ddbe9028af1bb",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.3aed6473f83bb583]{Algibeira de Couro Desgastada}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.497ddbe9028af1bb"
+    },
+    {
+      "_id": "edc655c7dc1ae409",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.cc21e9ab22c4c877]{Feixe de Talos de Milefólio}",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.edc655c7dc1ae409"
+    },
+    {
+      "_id": "e1ceac518d39a551",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.7922a7da9bc6ffbf]{Cajado Rúnico de Madeira}",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.e1ceac518d39a551"
+    },
+    {
+      "_id": "d76bf37d3fadc73a",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.11ade93013f2e879]{Jarro de Camarinhas em Conserva}",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.d76bf37d3fadc73a"
+    },
+    {
+      "_id": "00c586a054cf7715",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.ac4629f4225a52b8]{Fragmento de Cerâmica Antiga}",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.00c586a054cf7715"
+    },
+    {
+      "_id": "d991f724b18f76ec",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.505b80e0e279b4b8]{Anel de Bronze Desgastado}",
+      "range": [
+        11,
+        11
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.d991f724b18f76ec"
+    },
+    {
+      "_id": "fff4eda72f3e3a5b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.55e29a7513a0a3e2]{Pena Manchada de Sangue}",
+      "range": [
+        12,
+        12
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!2fe75a378f2a24c9.fff4eda72f3e3a5b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!2fe75a378f2a24c9"
+}

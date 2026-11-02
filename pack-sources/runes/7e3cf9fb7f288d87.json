@@ -1,0 +1,39 @@
+{
+  "_id": "7e3cf9fb7f288d87",
+  "name": "Wunjo",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/7e3cf9fb7f288d87.png",
+  "system": {
+    "description": "ᚹ — Wunjo\n\nFeitiço\nRestaure d4PV de si mesmo ou de um aliado próximo, curando todas as condições.\n\nInscrição em arma ou armadura\nEntoe uma canção alegre que cura d4PV de todos os aliados próximos e concede +1 no próximo Teste deles.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Restaure d4PV de si mesmo ou de um aliado próximo, curando todas as condições.",
+    "inscription": "Entoe uma canção alegre que cura d4PV de todos os aliados próximos e concede +1 no próximo Teste deles.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!7e3cf9fb7f288d87"
+}

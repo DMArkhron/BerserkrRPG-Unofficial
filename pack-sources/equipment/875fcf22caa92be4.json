@@ -1,0 +1,40 @@
+{
+  "_id": "875fcf22caa92be4",
+  "name": "Escudo de Serpente Marinha",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/875fcf22caa92be4.png",
+  "system": {
+    "description": "Após bater com o escudo, −2CD se a ação seguinte for Aparar.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d4",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "7363f73ef00bc8e1",
+  "_key": "!items!875fcf22caa92be4"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "174026504ba2bc54",
+  "name": "Ardente",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "e1891aeb8c6aa207",
+      "name": "Ardente",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/ardente.webp\" alt=\"Ardente\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Ardente</h2><p>Horror das cavernas profundas de Svartalfheim. Desaparece e reaparece entre névoas e gases sulfurosos, transformando o medo em uma presença viva.</p><p><strong>Reino:</strong> Svartalfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.b98791e75b2a6026]{Ficha de Ardente}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!174026504ba2bc54.e1891aeb8c6aa207"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.b98791e75b2a6026"
+    }
+  },
+  "_key": "!journal!174026504ba2bc54"
+}

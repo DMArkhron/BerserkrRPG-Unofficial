@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Bergresi",
+    "pack": "bestiary",
+    "id": "14f971016de4f620",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/bergresi.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/bergresi.webp",
+    "description": "Espírito elemental dos picos de Jötunheim. Move-se entre as pedras e faz a terra estremecer com deslizamentos e terremotos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.a814d654ba2b3328"
+  },
+  {
+    "name": "Valquíria",
+    "pack": "bestiary",
+    "id": "081beb409f37c790",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/valquiria.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/valquiria.webp",
+    "description": "Guerreira alada de Asgard ligada ao destino dos caídos. Suas armas e sua presença trazem ao campo de batalha o poder dos deuses.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.5b89d4a2f184efc8"
+  },
+  {
+    "name": "Landvaettir",
+    "pack": "bestiary",
+    "id": "6ef8732e67552950",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/landvaettir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/landvaettir.webp",
+    "description": "Espírito da terra cuja forma acompanha a paisagem: rocha, bosque ou água. Defende seu território com a própria força do terreno.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.724f775b27a95d1d"
+  },
+  {
+    "name": "Náir",
+    "pack": "bestiary",
+    "id": "0eee434e5a27d14b",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/nair.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/nair.webp",
+    "description": "Lorde cadavérico de Helheim, uma amálgama de carne decomposta e ossos. Sua presença espalha decadência e submete os mortos à sua vontade.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.00015d4e985f0323"
+  },
+  {
+    "name": "Protetor de Idunn",
+    "pack": "bestiary",
+    "id": "aa95a8dc66f3e0d1",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/protetor-de-idunn.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/protetor-de-idunn.webp",
+    "description": "Guardião do pomar de Idunn, com corpo e aparência ligados às árvores que protege. Defende a vitalidade do bosque contra os intrusos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.ed71401a1e35fbc3"
+  },
+  {
+    "name": "Gullveig",
+    "pack": "bestiary",
+    "id": "4d2a6c90c94e63dd",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/gullveig.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/gullveig.webp",
+    "description": "Bruxa de Vanaheim associada a maldições e à corrupção das forças naturais. Sua magia transforma a paisagem em uma ameaça.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.c24450bfea9bba0a"
+  },
+  {
+    "name": "Váli",
+    "pack": "bestiary",
+    "id": "67436f2210e22de4",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/vali.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/vali.webp",
+    "description": "Vingador de Asgard, movido por uma justiça brutal e inflexível. Enfrenta aqueles que desafiam os deuses com uma fúria fria e calculista.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.b99eaa733a8af2b9"
+  },
+  {
+    "name": "Skirnir",
+    "pack": "bestiary",
+    "id": "8dcf6be7d32724e3",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/skirnir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/skirnir.webp",
+    "description": "Antigo mensageiro de Freyr, agora corrompido por forças sombrias. Sua revolta ameaça Vanaheim e se manifesta na violência dos ventos e rios.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.e2ad40c63a9f6c86"
+  },
+  {
+    "name": "Wargr",
+    "pack": "bestiary",
+    "id": "0c4b2a3144402ea0",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/wargr.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/wargr.webp",
+    "description": "Predador de Midgard que caça em matilha. Seus uivos anunciam a aproximação de uma emboscada coordenada e implacável.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.2d810814a933794f"
+  },
+  {
+    "name": "Thrym",
+    "pack": "bestiary",
+    "id": "63d14524b4afc5bd",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/thrym.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/thrym.webp",
+    "description": "Rei dos Gigantes de Gelo de Jötunheim. Domina o inverno e reúne seguidores para impor sua vontade sob o frio do Ragnarök.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.407d8315d8a8ab98"
+  },
+  {
+    "name": "Nithing",
+    "pack": "bestiary",
+    "id": "d21dc59153ca0992",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/nithing.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/nithing.webp",
+    "description": "Espírito de Midgard marcado por juramentos quebrados. Sua presença traz a ameaça de uma vingança que não terminou com a morte.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.7f91b6c6fe2b8393"
+  },
+  {
+    "name": "Verme da Areia",
+    "pack": "bestiary",
+    "id": "b6595aae470732a9",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/verme-da-areia.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/verme-da-areia.webp",
+    "description": "Monstro colossal que escava as dunas de Alfheim. Sente as vibrações da areia e emerge de surpresa para engolir suas presas.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.05cc2fcca21eb68e"
+  },
+  {
+    "name": "Guardião Espiritual",
+    "pack": "bestiary",
+    "id": "da2bd98b1852dc31",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/guardiao-espiritual.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/guardiao-espiritual.webp",
+    "description": "Sentinela espectral nascida da vontade de Móðguðr. Patrulha as fronteiras de Helheim para manter os mortos presos ao seu destino.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.59a3a33a71a8e594"
+  },
+  {
+    "name": "Colecionador de Ossos",
+    "pack": "bestiary",
+    "id": "c7bb580176d7936e",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/colecionador-de-ossos.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/colecionador-de-ossos.webp",
+    "description": "Figura esquelética que reúne os restos dos mortos de Helheim. Reanima ossos em servos grotescos e drena a força dos vivos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.cb9bc8e8246a6067"
+  },
+  {
+    "name": "Guardião Vanir",
+    "pack": "bestiary",
+    "id": "62b2e3cbeefa84e6",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/guardiao-vanir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/guardiao-vanir.webp",
+    "description": "Protetor de Vanaheim ligado à floresta. Usa os poderes das folhas, cipós e da terra para afastar quem ameaça seu domínio.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.637dcdfdf402d26c"
+  },
+  {
+    "name": "Geirrod",
+    "pack": "bestiary",
+    "id": "9e212c051e7488d1",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/geirrod.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/geirrod.webp",
+    "description": "Gigante astuto de Jötunheim que faz do terreno sua arma. Armadilhas e emboscadas são sua forma preferida de enfrentar os inimigos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.00c99f5eee55e6c1"
+  },
+  {
+    "name": "Trolloide",
+    "pack": "bestiary",
+    "id": "71d5724144e0f7ac",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/trolloide.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/trolloide.webp",
+    "description": "Saqueador dos ermos de Midgard que perturba povoados e rouba suprimentos. Usa a força, ferramentas e armadilhas para defender seus esconderijos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.11eb057bcb3b567e"
+  },
+  {
+    "name": "Ymir",
+    "pack": "bestiary",
+    "id": "8c93f82bc00504c5",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/ymir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/ymir.webp",
+    "description": "Gigante primordial adormecido sob o gelo de Niflheim. Seu poder ancestral persiste, e os sinais de seu despertar anunciam uma ameaça aos reinos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.7cd9b0747b14f08b"
+  },
+  {
+    "name": "Eldrimnir",
+    "pack": "bestiary",
+    "id": "29932ebf3be39bbb",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/eldrimnir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/eldrimnir.webp",
+    "description": "Colosso de Muspelheim ligado à lava e aos tremores da terra. Sua passagem transforma o campo de batalha em rocha derretida e ruína.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.c0ec4dc9debb86eb"
+  },
+  {
+    "name": "Besouro Infernal",
+    "pack": "bestiary",
+    "id": "8d8f36c03dc7fa64",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/besouro-infernal.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/besouro-infernal.webp",
+    "description": "Inseto das terras ardentes de Muspelheim, protegido por uma carapaça resistente ao calor. Emerge do solo para atacar com ácido abrasador.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.98d0cac188536086"
+  },
+  {
+    "name": "Guardião do Bosque",
+    "pack": "bestiary",
+    "id": "4ef4f9fa20728120",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/guardiao-do-bosque.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/guardiao-do-bosque.webp",
+    "description": "Defensor ancestral das florestas de Vanaheim. Faz raízes e árvores se voltarem contra aqueles que perturbam seu domínio.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.cccf1c12660e47b2"
+  },
+  {
+    "name": "Draugr",
+    "pack": "bestiary",
+    "id": "88f8da3d59c3fb99",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/draugr.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/draugr.webp",
+    "description": "Espírito de um guerreiro caído, preso à fúria de sua última batalha. Vaga por Midgard com uma sede de violência que jamais se sacia.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.80503f4ed946eb6d"
+  },
+  {
+    "name": "Golem de Pedra",
+    "pack": "bestiary",
+    "id": "e26a01d86d616404",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/golem-de-pedra.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/golem-de-pedra.webp",
+    "description": "Construto rochoso das profundezas de Svartalfheim. Sua aparência pode se confundir com a paisagem antes de sua força esmagadora despertar.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.f3cf1220f85ecc83"
+  },
+  {
+    "name": "Cão de Lava",
+    "pack": "bestiary",
+    "id": "eaf10eae5194d1ad",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/cao-de-lava.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/cao-de-lava.webp",
+    "description": "Fera territorial formada por metal fundido e pedra vulcânica. Guarda as forjas de Muspelheim com presas e chamas capazes de derreter o aço.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.d031fbf90a91d240"
+  },
+  {
+    "name": "Escorpião do Deserto",
+    "pack": "bestiary",
+    "id": "6e92a275e4d2eab5",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/escorpiao-do-deserto.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/escorpiao-do-deserto.webp",
+    "description": "Predador das areias de Alfheim, protegido por placas de quitina. Suas pinças e seu ferrão tornam a travessia das dunas ainda mais perigosa.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.d6c1518a23adec45"
+  },
+  {
+    "name": "Ælfric",
+    "pack": "bestiary",
+    "id": "e150a6f382a7c140",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/aelfric.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/aelfric.webp",
+    "description": "Governante da Corte Luminosa de Alfheim. Preserva a magia antiga e os costumes ancestrais com uma determinação que não aceita concessões.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.2d6cf54aa2402f10"
+  },
+  {
+    "name": "Vakten",
+    "pack": "bestiary",
+    "id": "2a8c07c8e42e021a",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/vakten.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/vakten.webp",
+    "description": "Guardião da Bifrost cuja forma cintilante reflete as cores da ponte celestial. Empunha um berrante ancestral e um machado de poder cósmico.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.29ca421e7346497b"
+  },
+  {
+    "name": "Dragonete de Gelo",
+    "pack": "bestiary",
+    "id": "19e861c1193b3d2d",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/dragonete-de-gelo.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/dragonete-de-gelo.webp",
+    "description": "Criatura semelhante a um dragão que habita os picos de Jötunheim. Seu sopro gélido lança estilhaços afiados e congela o ar.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.c2ddfaac98caf268"
+  },
+  {
+    "name": "Aranha Cristalina",
+    "pack": "bestiary",
+    "id": "3194f24b447d05e5",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/aranha-cristalina.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/aranha-cristalina.webp",
+    "description": "Predadora das cavernas de Svartalfheim com tórax de cristal. Suas teias quase invisíveis protegem ninhos entre os minerais das profundezas.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.fd814fa71135207a"
+  },
+  {
+    "name": "Sentinela de Móðguðr",
+    "pack": "bestiary",
+    "id": "d1481a0e4dc57f1b",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/sentinela-de-modgudr.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/sentinela-de-modgudr.webp",
+    "description": "Guarda das fronteiras de Helheim. Sua presença vigia as passagens do reino dos mortos e ameaça quem tenta atravessá-las.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.3f6a53f6f54c3702"
+  },
+  {
+    "name": "Dökkálfar",
+    "pack": "bestiary",
+    "id": "072c877c7cb19ddb",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/dokkalfar.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/dokkalfar.webp",
+    "description": "Elfo sombrio das profundezas de Svartalfheim. Move-se entre cavernas e cristais, ocultando seus planos por meio de magia e engano.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.5ed2913fccfed920"
+  },
+  {
+    "name": "Construto Cinéreo",
+    "pack": "bestiary",
+    "id": "2fca6bee108efe63",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/construto-cinereo.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/construto-cinereo.webp",
+    "description": "Ser artificial de Muspelheim que se ergue das cinzas. Seu corpo recomposto transforma os restos da destruição em uma nova ameaça.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.141692a243ce07ab"
+  },
+  {
+    "name": "Espectro de Gelo",
+    "pack": "bestiary",
+    "id": "103c84d8c86c3568",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/espectro-de-gelo.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/espectro-de-gelo.webp",
+    "description": "Alma de Niflheim dominada pelo frio eterno. Sua presença aproxima os vivos da quietude gelada do reino.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.df8dfdb3df8958e9"
+  },
+  {
+    "name": "Hrímgrímnir",
+    "pack": "bestiary",
+    "id": "197c0ce48a737800",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/hrimgrimnir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/hrimgrimnir.webp",
+    "description": "Jarl Congelado de Niflheim. Reúne espectros e aparições gélidas sob uma autoridade tão implacável quanto o inverno.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.33ba184c2dccce52"
+  },
+  {
+    "name": "Einherjar",
+    "pack": "bestiary",
+    "id": "2f5358a219c02d1c",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/einherjar.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/einherjar.webp",
+    "description": "Espírito de um guerreiro corajoso de Asgard. Conserva suas armas e sua determinação como uma sentinela além da vida mortal.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.204fd2b10557f031"
+  },
+  {
+    "name": "Logi",
+    "pack": "bestiary",
+    "id": "d94090ebb102a2e7",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/logi.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/logi.webp",
+    "description": "Chama senciente de Muspelheim, a expressão da fúria indomável do fogo. Tudo o que toca corre o risco de ser consumido.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.306a03e743dba046"
+  },
+  {
+    "name": "Serpente Fluvial",
+    "pack": "bestiary",
+    "id": "113ec210a3484680",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/serpente-fluvial.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/serpente-fluvial.webp",
+    "description": "Predadora dos rios congelados de Niflheim. Suas escamas lembram gelo afiado e suas presas levam o frio da morte à vítima.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.503fa73030e367ab"
+  },
+  {
+    "name": "Miragem Emboscadora",
+    "pack": "bestiary",
+    "id": "631e3dce943b50d8",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/miragem-emboscadora.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/miragem-emboscadora.webp",
+    "description": "Criatura nascida da magia distorcida de Alfheim. Parece um viajante ou um refúgio seguro até revelar sua forma de areia e luz.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.0c746c70e66b5bcb"
+  },
+  {
+    "name": "Saqueador Tocado pelo Sol",
+    "pack": "bestiary",
+    "id": "0cadba417d23dd22",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/saqueador-tocado-pelo-sol.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/saqueador-tocado-pelo-sol.webp",
+    "description": "Habitante desesperado das terras arruinadas de Alfheim. Embosca viajantes para roubar alimento, suprimentos e qualquer chance de sobreviver.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.30f318adf839bb71"
+  },
+  {
+    "name": "Andarilho da Névoa",
+    "pack": "bestiary",
+    "id": "1b6f251e5b336072",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/andarilho-da-nevoa.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/andarilho-da-nevoa.webp",
+    "description": "Ser mutável das névoas de Niflheim. Cerca os viajantes com formas incertas, apagando a distinção entre o caminho e a ameaça.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.4ef0db2872bd29fb"
+  },
+  {
+    "name": "Espírito Flamejante",
+    "pack": "bestiary",
+    "id": "962132b94347ec02",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/espirito-flamejante.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/espirito-flamejante.webp",
+    "description": "Pequena entidade nascida das chamas de Muspelheim. Salta de forma imprevisível e incendeia tudo o que toca.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.80e3241d33255d1e"
+  },
+  {
+    "name": "Gigante Lutador de Glima",
+    "pack": "bestiary",
+    "id": "53fc111f0956442b",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/gigante-lutador-de-glima.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/gigante-lutador-de-glima.webp",
+    "description": "Gigante de Jötunheim que transforma o combate em uma luta corporal brutal. Usa a força colossal para agarrar, esmagar e derrubar seus oponentes.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.7795fec29020e8db"
+  },
+  {
+    "name": "Fafnir",
+    "pack": "bestiary",
+    "id": "16951039c8aa7544",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/fafnir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/fafnir.webp",
+    "description": "Dragão de Svartalfheim consumido pela ganância. Guarda um tesouro que amplifica a cobiça de quem se aproxima.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.752f46cbcbdbf104"
+  },
+  {
+    "name": "Dvalin",
+    "pack": "bestiary",
+    "id": "b35618674f096872",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/dvalin.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/dvalin.webp",
+    "description": "Antigo mestre artesão que forjou Brísingamen para Freyja. Uma maldição deformou seu corpo e sua mente, tornando-o um gênio caído de Svartalfheim.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.dee12e7bf35d6598"
+  },
+  {
+    "name": "Luz Cadavérica",
+    "pack": "bestiary",
+    "id": "50c5c186ccb3ab46",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/luz-cadaverica.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/luz-cadaverica.webp",
+    "description": "Espírito malévolo de Helheim que imita a luz de um fogo-fátuo. Atrai os incautos com uma falsa promessa de segurança antes de revelar suas chamas espectrais.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.4d3569224b331637"
+  },
+  {
+    "name": "Ninfa do Rio",
+    "pack": "bestiary",
+    "id": "c60ddfd59d99f55a",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/ninfa-do-rio.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/ninfa-do-rio.webp",
+    "description": "Espírito aquático de Vanaheim com uma voz encantadora. Suas canções atraem os viajantes para as águas, onde a beleza pode esconder perigo.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.e3a33e974f24208a"
+  },
+  {
+    "name": "Bjorn, o Espectro do Gelo",
+    "pack": "bestiary",
+    "id": "37807e8deba7a170",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/bjorn-o-espectro-do-gelo.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/bjorn-o-espectro-do-gelo.webp",
+    "description": "Antigo guardião de Midgard transformado pelo Fimbulwinter. O herói desapareceu sob uma fúria predatória que agora espreita além da luz das fogueiras.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.1bb4ed7232e7ac94"
+  },
+  {
+    "name": "Ardente",
+    "pack": "bestiary",
+    "id": "b98791e75b2a6026",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/ardente.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/ardente.webp",
+    "description": "Horror das cavernas profundas de Svartalfheim. Desaparece e reaparece entre névoas e gases sulfurosos, transformando o medo em uma presença viva.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.174026504ba2bc54"
+  },
+  {
+    "name": "Eirwyn",
+    "pack": "bestiary",
+    "id": "5efecc17afa5c29f",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/eirwyn.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/eirwyn.webp",
+    "description": "Última guardiã dos portais de Alfheim. Julga aqueles que desejam atravessá-los e protege o reino contra os horrores vindos de além.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.65c2232a35f2636d"
+  },
+  {
+    "name": "Mara",
+    "pack": "bestiary",
+    "id": "a1bada9b5aef0eb3",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/mara.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/mara.webp",
+    "description": "Entidade de pesadelo que invade o sono dos vivos. Alimenta-se do medo e enfraquece suas vítimas ao transformar sonhos em terror.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.73100fc14c8ec0d0"
+  },
+  {
+    "name": "Hrist",
+    "pack": "bestiary",
+    "id": "7bcc28a0883239c5",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/hrist.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/hrist.webp",
+    "description": "Valquíria caída cuja missão foi consumida por uma sede de guerra. Suas asas já não guiam os mortos: ela caça os vivos com uma lâmina impiedosa.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.d5815b600f97139f"
+  },
+  {
+    "name": "Garmr",
+    "pack": "bestiary",
+    "id": "46eff59a08204c09",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/garmr.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/garmr.webp",
+    "description": "Cão espectral que ronda as fronteiras de Helheim. Seu uivo anuncia a morte e sua fome transforma a fuga em uma tarefa desesperada.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.14ee68eed1d3609b"
+  },
+  {
+    "name": "Etin de Geada",
+    "pack": "bestiary",
+    "id": "d9453e649256f77f",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/etin-de-geada.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/etin-de-geada.webp",
+    "description": "Gigante menor de Jötunheim capaz de comandar o gelo. Invoca nevascas e cria armas gélidas ao redor de seu corpo imponente.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.9a30ba60460a5425"
+  },
+  {
+    "name": "Aparição Gélida",
+    "pack": "bestiary",
+    "id": "d7e60db386543415",
+    "src": "systems/berserkr-rpg/assets/tokens/criaturas/aparicao-gelida.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/criaturas/aparicao-gelida.webp",
+    "description": "Entidade de Niflheim que surge do frio e desliza pela névoa. Sua aproximação traz uma ameaça silenciosa e sobrenatural.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.902f8a3fd63df375"
+  },
+  {
+    "name": "Lobo Companheiro",
+    "pack": "companions",
+    "id": "e9a8c1fa446fdc14",
+    "src": "systems/berserkr-rpg/assets/tokens/companheiros/lobo-companheiro.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/companheiros/lobo-companheiro.webp",
+    "description": "Aliado animal ligado ao Guardião Vanir. Acompanha seu protetor e usa os instintos de caça para auxiliá-lo nos perigos dos reinos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.997785044e039f51"
+  },
+  {
+    "name": "Falcão Companheiro",
+    "pack": "companions",
+    "id": "7db51bd447654443",
+    "src": "systems/berserkr-rpg/assets/tokens/companheiros/falcao-companheiro.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/companheiros/falcao-companheiro.webp",
+    "description": "Ave aliada do Guardião Vanir. Seu voo e sua visão oferecem uma presença vigilante acima do grupo.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.47d2ec1e0fee7905"
+  },
+  {
+    "name": "Urso Companheiro",
+    "pack": "companions",
+    "id": "e66051e6a3972545",
+    "src": "systems/berserkr-rpg/assets/tokens/companheiros/urso-companheiro.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/companheiros/urso-companheiro.webp",
+    "description": "Aliado robusto do Guardião Vanir. Sua força e suas garras acrescentam à companhia o poder de uma fera da floresta.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.d4f68706c93a6e5b"
+  },
+  {
+    "name": "Seguidor Anão",
+    "pack": "companions",
+    "id": "1fa695fa8e10620b",
+    "src": "systems/berserkr-rpg/assets/tokens/companheiros/seguidor-anao.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/companheiros/seguidor-anao.webp",
+    "description": "Lacaio anão associado a Dvalin. Atua ao lado do mestre ferreiro nas profundezas de Svartalfheim.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.eb7b3a06b26a3610"
+  },
+  {
+    "name": "Guerreiro de Gelo",
+    "pack": "companions",
+    "id": "7e589aa6907310ea",
+    "src": "systems/berserkr-rpg/assets/tokens/companheiros/guerreiro-de-gelo.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/companheiros/guerreiro-de-gelo.webp",
+    "description": "Combatente gélido convocado por Thrym. Obedece ao Rei do Gelo e leva a força do inverno ao campo de batalha.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.3163d585159eb876"
+  },
+  {
+    "name": "Surtr",
+    "pack": "gods",
+    "id": "953a23b6276c9635",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/surtr.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/surtr.webp",
+    "description": "Gigante de fogo de Muspelheim, revestido de lava e chamas. Empunha uma espada ardente e traz consigo o incêndio da batalha final.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.54e429ab37d5c9ff"
+  },
+  {
+    "name": "Freyja",
+    "pack": "gods",
+    "id": "36d1d17162cd8bcf",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/freyja.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/freyja.webp",
+    "description": "Divindade ligada à magia e à batalha. Sua beleza e seu poder revelam a face encantadora e perigosa dos deuses Vanir.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.c2e7a121de6d488f"
+  },
+  {
+    "name": "Thor",
+    "pack": "gods",
+    "id": "59135ba9fb550d8e",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/thor.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/thor.webp",
+    "description": "Deus do trovão e guerreiro de força devastadora. Seus golpes e relâmpagos representam uma das maiores ameaças no confronto com os deuses.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.73591fa599e1ceda"
+  },
+  {
+    "name": "Frigg",
+    "pack": "gods",
+    "id": "81daf0945e5bfb9e",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/frigg.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/frigg.webp",
+    "description": "Deusa ligada ao destino e à proteção. Seus fios e presságios evocam aquilo que os mortais ainda não conseguem enxergar.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.bdf3e646a356434e"
+  },
+  {
+    "name": "Heimdall",
+    "pack": "gods",
+    "id": "e0d2a006d446fe75",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/heimdall.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/heimdall.webp",
+    "description": "Guardião da Bifrost, vigilante das passagens entre os reinos. Permanece atento às ameaças que anunciam a batalha final.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.053e20857d43c449"
+  },
+  {
+    "name": "Loki",
+    "pack": "gods",
+    "id": "f40cff58b2712b4d",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/loki.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/loki.webp",
+    "description": "Astuto agente de engano e ruptura. Sua presença entre os conflitos dos deuses aproxima os reinos do caos do Ragnarök.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.a2603a54eb9db5d1"
+  },
+  {
+    "name": "Odin",
+    "pack": "gods",
+    "id": "782872d4f5ee40e5",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/odin.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/odin.webp",
+    "description": "Pai de Todos, associado à sabedoria, às runas e ao destino dos guerreiros. Sua presença pesa sobre os reinos à medida que o Ragnarök se aproxima.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.7ddcbf508b994f04"
+  },
+  {
+    "name": "Nidhogg",
+    "pack": "gods",
+    "id": "a17bee4a1cd61404",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/nidhogg.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/nidhogg.webp",
+    "description": "Dragão que corrói as raízes de Yggdrasil. Sua fome e sua presença sob a árvore ameaçam os fundamentos que sustentam os reinos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.b92fa06a9862b48b"
+  },
+  {
+    "name": "Jörmungandr",
+    "pack": "gods",
+    "id": "e399b4b65262b592",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/jormungandr.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/jormungandr.webp",
+    "description": "Serpente do Mundo, colossal ameaça que emerge das águas. Seu corpo e seu veneno fazem do oceano um campo de destruição.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.a86ef867c4416f35"
+  },
+  {
+    "name": "Tyr",
+    "pack": "gods",
+    "id": "118286e192744f78",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/tyr.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/tyr.webp",
+    "description": "Deus guerreiro associado à coragem e ao sacrifício. Sua determinação permanece mesmo diante do preço exigido pelos conflitos divinos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.a61879aa18fec433"
+  },
+  {
+    "name": "Hel",
+    "pack": "gods",
+    "id": "f4ca135d17425509",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/hel.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/hel.webp",
+    "description": "Senhora de Helheim e dos mortos. Governa um domínio de frio, decadência e almas que não encontraram o caminho do Valhalla.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.cc14451b3f40c461"
+  },
+  {
+    "name": "Vidar",
+    "pack": "gods",
+    "id": "246d6c4350c47697",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/vidar.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/vidar.webp",
+    "description": "Divindade de força silenciosa ligada à vingança. Sua determinação anuncia o acerto de contas que acompanha o Ragnarök.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.e6fa0c879005b34a"
+  },
+  {
+    "name": "Fenrir",
+    "pack": "gods",
+    "id": "c05c5fc032d3b489",
+    "src": "systems/berserkr-rpg/assets/tokens/divindades/fenrir.webp",
+    "portrait": "systems/berserkr-rpg/assets/portraits/divindades/fenrir.webp",
+    "description": "Lobo colossal preso por correntes que não podem conter seu destino para sempre. Seu despertar ameaça os deuses e os reinos.",
+    "handout": "Compendium.berserkr-rpg.handouts.JournalEntry.a6c776c5b657b65d"
+  }
+]

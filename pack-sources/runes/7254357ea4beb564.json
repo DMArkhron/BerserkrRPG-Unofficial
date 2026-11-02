@@ -1,0 +1,39 @@
+{
+  "_id": "7254357ea4beb564",
+  "name": "Fehu",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/7254357ea4beb564.png",
+  "system": {
+    "description": "ᚠ — Fehu\n\nFeitiço\nPelas próximas d4 horas, sua capacidade de discernir objetos valiosos, tanto escondidos quanto à vista de todos, é amplificada. Receba +2 em todos os Testes envolvendo Bugigangas ou objetos de valor.\n\nInscrição em arma ou armadura\nEvoque uma chuva de riquezas. No seu próximo ataque bem-sucedido, d100‡ Bugigangas ou objetos valiosos caem do céu sobre o seu alvo (d4 de dano para cada 10‡ Bugigangas).",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Pelas próximas d4 horas, sua capacidade de discernir objetos valiosos, tanto escondidos quanto à vista de todos, é amplificada. Receba +2 em todos os Testes envolvendo Bugigangas ou objetos de valor.",
+    "inscription": "Evoque uma chuva de riquezas. No seu próximo ataque bem-sucedido, d100‡ Bugigangas ou objetos valiosos caem do céu sobre o seu alvo (d4 de dano para cada 10‡ Bugigangas).",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!7254357ea4beb564"
+}

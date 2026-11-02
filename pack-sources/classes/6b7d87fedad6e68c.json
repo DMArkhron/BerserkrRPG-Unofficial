@@ -1,0 +1,48 @@
+{
+  "_id": "6b7d87fedad6e68c",
+  "name": "Mestre Ferreiro",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-ferreiro.png",
+  "system": {
+    "description": "Classe de Svartalfheim.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: A Vontade do Ferreiro. Discernir o valor e o artesão original de praticamente qualquer arma ou armadura.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 52 (páginas impressas 102–103).",
+    "realm": "Svartalfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 3,
+      "forca": 4,
+      "astucia": 2,
+      "agilidade": 1,
+      "esperteza": 5
+    },
+    "hpFormula": "@attributes.fortitude + 1d10",
+    "destinyFormula": "1d2",
+    "startingEquipment": "Ferramentas de Ferreiro; Cota de Malha Resistente (categoria 3); Martelo de Ferreiro (d6); 3 Runas apenas para inscrição; d4 comida; d4 água; 4d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.00c7fd7511719b97",
+      "Compendium.berserkr-rpg.abilities.4069a088f3617f80",
+      "Compendium.berserkr-rpg.abilities.0be90dde6793c216",
+      "Compendium.berserkr-rpg.abilities.87a711eae28d5ab1",
+      "Compendium.berserkr-rpg.abilities.5b0213f9b92bde82",
+      "Compendium.berserkr-rpg.abilities.fbae2928812e5508",
+      "Compendium.berserkr-rpg.abilities.dd965fbd296a8e3e"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "4e841762e58c130f",
+  "_key": "!items!6b7d87fedad6e68c"
+}

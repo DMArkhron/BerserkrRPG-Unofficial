@@ -1,0 +1,93 @@
+{
+  "_id": "6c6408b67a15334b",
+  "name": "Habilidades — Gigante de Gelo",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 50 (páginas impressas 98–99).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "fa35aa9dffc4d061",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.e675a88e8388ec4d]{Força do Titã — Gigante de Gelo}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6c6408b67a15334b.fa35aa9dffc4d061"
+    },
+    {
+      "_id": "4be293b504f8781b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.a9d35365672e10dd]{Égide Gélida — Gigante de Gelo}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6c6408b67a15334b.4be293b504f8781b"
+    },
+    {
+      "_id": "fc72880ed66e7085",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.a286cc5f07077e59]{Abraço Gélido — Gigante de Gelo}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6c6408b67a15334b.fc72880ed66e7085"
+    },
+    {
+      "_id": "4255596dc8048b4b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.062807f893703ef6]{A Fúria do Inverno — Gigante de Gelo}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6c6408b67a15334b.4255596dc8048b4b"
+    },
+    {
+      "_id": "b4a976a53dc673a0",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.6db1f16af155decc]{Fortalecimento Glacial — Gigante de Gelo}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6c6408b67a15334b.b4a976a53dc673a0"
+    },
+    {
+      "_id": "ae15cd99a830c23f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.2ac0b45918a88961]{O Renascimento de Ymir — Gigante de Gelo}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6c6408b67a15334b.ae15cd99a830c23f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!6c6408b67a15334b"
+}

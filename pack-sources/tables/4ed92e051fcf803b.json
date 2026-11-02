@@ -1,0 +1,93 @@
+{
+  "_id": "4ed92e051fcf803b",
+  "name": "Habilidades — Valquíria",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 48 (páginas impressas 94–95).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "333dc5e3f1e703da",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.b377338947785fde]{Olhos dos Caídos — Valquíria}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4ed92e051fcf803b.333dc5e3f1e703da"
+    },
+    {
+      "_id": "56b8a19baade637e",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.44d59b4d9ee359a9]{Asas da Tempestade — Valquíria}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4ed92e051fcf803b.56b8a19baade637e"
+    },
+    {
+      "_id": "97915ec2a67851f7",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.af959182b0967733]{A Voz Daquela que Escolhe — Valquíria}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4ed92e051fcf803b.97915ec2a67851f7"
+    },
+    {
+      "_id": "0debe9987a5d1200",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.049cad5ba00f7f3f]{Lança dos Dignos — Valquíria}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4ed92e051fcf803b.0debe9987a5d1200"
+    },
+    {
+      "_id": "90ab8ccd22546021",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.9dd5742970553e22]{Apoio dos Corvos — Valquíria}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4ed92e051fcf803b.90ab8ccd22546021"
+    },
+    {
+      "_id": "2bc297e9242a741c",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.3d963e57125bf9a5]{O Chamado do Valhalla — Valquíria}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!4ed92e051fcf803b.2bc297e9242a741c"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!4ed92e051fcf803b"
+}

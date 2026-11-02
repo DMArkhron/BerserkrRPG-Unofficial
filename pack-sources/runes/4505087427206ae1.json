@@ -1,0 +1,39 @@
+{
+  "_id": "4505087427206ae1",
+  "name": "Thurisaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/4505087427206ae1.png",
+  "system": {
+    "description": "ᚦ — Thurisaz\n\nFeitiço\nEvoque uma força destrutiva, causando d8 de dano nos inimigos que você puder ver.\n\nInscrição em arma ou armadura\nAumente o tamanho da sua arma para proporções gigantescas por d4 rodadas, causando o dobro de dano. Após este efeito se encerrar, você fica fatigado.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Evoque uma força destrutiva, causando d8 de dano nos inimigos que você puder ver.",
+    "inscription": "Aumente o tamanho da sua arma para proporções gigantescas por d4 rodadas, causando o dobro de dano. Após este efeito se encerrar, você fica fatigado.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4505087427206ae1"
+}

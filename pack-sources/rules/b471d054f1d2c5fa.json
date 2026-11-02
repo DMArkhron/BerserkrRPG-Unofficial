@@ -1,0 +1,22 @@
+{
+  "_id": "b471d054f1d2c5fa",
+  "name": "Runas — uso e inscrição",
+  "pages": [
+    {
+      "_id": "39873299bb17d398",
+      "name": "Runas — uso e inscrição",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h2>Runas — uso e inscrição</h2><p>Conjurar exige Esperteza CD12. Falha gasta uso e causa perda de 1PV; desastre sai de controle e envolve Benesse e Ira.</p><p>Após descanso longo, role d4 + Astúcia para os usos diários.</p><p>Inscrever exige descanso curto, consome a Runa e impede seu uso como feitiço; a inscrição não pode ser desfeita pela regra geral. Consulte as exceções do Mestre Ferreiro.</p><p>Cada Item de Runa traz os dois modos em campos separados. Efeitos, gastos e consequências são resolvidos pela mesa.</p><p><em>Berserkr — Livro Básico, PDF p. 72 (páginas impressas 142–143).</em></p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!b471d054f1d2c5fa.39873299bb17d398"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!b471d054f1d2c5fa",
+  "categories": []
+}

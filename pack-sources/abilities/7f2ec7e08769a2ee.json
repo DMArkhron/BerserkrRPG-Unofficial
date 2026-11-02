@@ -1,0 +1,40 @@
+{
+  "_id": "7f2ec7e08769a2ee",
+  "name": "Conversar com um Condenado — Pastor de Almas",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/7f2ec7e08769a2ee.png",
+  "system": {
+    "description": "Pode conversar por até um minuto com alguém que acabou de morrer.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 55 (páginas impressas 108–109).",
+    "realm": "Helheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "e2bfb7a789095b6b",
+  "_key": "!items!7f2ec7e08769a2ee"
+}

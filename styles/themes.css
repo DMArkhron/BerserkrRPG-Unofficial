@@ -1,0 +1,19 @@
+.berserkr [data-class-theme]{--b-ink:var(--theme-ink);--b-gold:var(--theme-accent);--b-panel:var(--theme-panel);--b-red:var(--theme-accent);color:var(--theme-ink);background:var(--theme-bg)}
+.berserkr .art-sheet[data-class-theme]{background:radial-gradient(ellipse at 95% 0,color-mix(in srgb,var(--theme-accent) 12%,transparent),transparent 60%),var(--theme-bg)}
+.berserkr [data-class-theme] fieldset{background:linear-gradient(145deg,var(--theme-panel),var(--theme-bg));border-color:color-mix(in srgb,var(--theme-accent) 35%,var(--theme-bg))}
+.berserkr [data-class-theme] legend{color:var(--theme-ink);background:var(--theme-bg);border-left-color:var(--theme-accent)}
+.berserkr [data-class-theme] input,.berserkr [data-class-theme] textarea,.berserkr [data-class-theme] select{color:var(--theme-ink);background:color-mix(in srgb,var(--theme-bg) 85%,#000);border-color:color-mix(in srgb,var(--theme-accent) 30%,var(--theme-bg))}
+.berserkr [data-class-theme] label,.berserkr [data-class-theme] .brand{color:color-mix(in srgb,var(--theme-ink) 80%,var(--theme-accent))}
+.berserkr [data-class-theme] button{background:var(--theme-panel);color:var(--theme-ink);border-color:color-mix(in srgb,var(--theme-accent) 40%,var(--theme-bg))}
+.berserkr [data-class-theme] button:hover{border-color:var(--theme-accent);background:color-mix(in srgb,var(--theme-panel) 80%,var(--theme-accent))}
+.berserkr [data-class-theme] button:disabled{opacity:.4;cursor:not-allowed}
+.berserkr [data-class-theme] .resource-card{background:var(--theme-panel);border-color:color-mix(in srgb,var(--theme-accent) 30%,var(--theme-bg))}
+.berserkr [data-class-theme] .resource-card:before{background:var(--theme-accent)}
+.berserkr [data-class-theme] .attribute-card,.berserkr [data-class-theme] .sheet-tabs{background:color-mix(in srgb,var(--theme-bg) 85%,#000);border-color:color-mix(in srgb,var(--theme-accent) 30%,var(--theme-bg))}
+.berserkr [data-class-theme] .sheet-tabs button{background:transparent;color:color-mix(in srgb,var(--theme-ink) 70%,var(--theme-bg));border-color:transparent}
+.berserkr [data-class-theme] .sheet-tabs button.selected{background:var(--theme-panel);border-color:var(--theme-accent);color:var(--theme-ink);box-shadow:inset 0 -3px 0 var(--theme-accent)}
+.berserkr [data-class-theme] .sheet-tabs button.selected small{background:var(--theme-accent);color:var(--theme-bg)}
+.berserkr [data-class-theme] .power-card,.berserkr [data-class-theme] .inventory-grid>.item-row,.berserkr [data-class-theme] .inventory-summary{background:linear-gradient(145deg,var(--theme-panel),var(--theme-bg));border-color:color-mix(in srgb,var(--theme-accent) 35%,var(--theme-bg))}
+.berserkr [data-class-theme] .hero .portrait-frame{border-color:var(--theme-accent)}
+.berserkr [data-class-theme] .hero input.character-name,.berserkr [data-class-theme] .attribute-card input,.berserkr [data-class-theme] .resource-card input{background:transparent;color:var(--theme-ink)}
+.berserkr [data-class-theme] .hero:after{background:var(--theme-accent);height:3px}

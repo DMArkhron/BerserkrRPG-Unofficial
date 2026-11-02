@@ -1,0 +1,40 @@
+{
+  "_id": "227cb5113e97b7b8",
+  "name": "Forma Radiante — Elfo da Luz",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/227cb5113e97b7b8.png",
+  "system": {
+    "description": "Uma vez por sessão, por d3 rodadas, +4 de defesa e atravessa sólidos. Atravessar inimigo causa d4 de dano que ignora armadura e permite vislumbrar memórias.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 51 (páginas impressas 100–101).",
+    "realm": "Alfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "510378d8e217f6e0",
+  "_key": "!items!227cb5113e97b7b8"
+}

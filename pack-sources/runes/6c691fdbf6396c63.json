@@ -1,0 +1,39 @@
+{
+  "_id": "6c691fdbf6396c63",
+  "name": "Pertho",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/6c691fdbf6396c63.png",
+  "system": {
+    "description": "ᛈ — Pertho\n\nFeitiço\nRerrole um Teste em que falhar dentro da próxima hora.\n\nInscrição em arma ou armadura\nAtive para mudar o destino a seu favor. Depois de acertar um inimigo, role d6: 1–3 Adicione esse número ao dano causado. 4–6 Subtraia esse valor do dano sofrido no próximo ataque direcionado a você.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Rerrole um Teste em que falhar dentro da próxima hora.",
+    "inscription": "Ative para mudar o destino a seu favor. Depois de acertar um inimigo, role d6: 1–3 Adicione esse número ao dano causado. 4–6 Subtraia esse valor do dano sofrido no próximo ataque direcionado a você.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6c691fdbf6396c63"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "8a7d4b0fc7dc6a17",
+  "name": "Machado de Batalha",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/8a7d4b0fc7dc6a17.png",
+  "system": {
+    "description": "Arma básica. Dano 1d10; preço 150‡.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 150,
+    "equipped": false,
+    "damage": "1d10",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "7363f73ef00bc8e1",
+  "_key": "!items!8a7d4b0fc7dc6a17"
+}

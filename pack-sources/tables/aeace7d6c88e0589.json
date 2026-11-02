@@ -1,0 +1,93 @@
+{
+  "_id": "aeace7d6c88e0589",
+  "name": "Habilidades — Espectro",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 53 (páginas impressas 104–105).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "93ade74ada4e7dc9",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.8aa67d3f17b06fcf]{Aparição Nebulosa — Espectro}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!aeace7d6c88e0589.93ade74ada4e7dc9"
+    },
+    {
+      "_id": "b62b6a10a26f66b4",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.ecea927b9bd1b8cf]{Lamento dos Perdidos — Espectro}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!aeace7d6c88e0589.b62b6a10a26f66b4"
+    },
+    {
+      "_id": "dadcb3d294b405fb",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.c6b74ae9a80cc3bc]{Passo Fantasmagórico — Espectro}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!aeace7d6c88e0589.dadcb3d294b405fb"
+    },
+    {
+      "_id": "fd966f2cce71dbb8",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.99e1bb70bc9b8c40]{Arma Vinculada — Espectro}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!aeace7d6c88e0589.fd966f2cce71dbb8"
+    },
+    {
+      "_id": "1d6f8a39a78cd9c2",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.3dfcb1bbfd4ae0ae]{A Marca dos Mortos — Espectro}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!aeace7d6c88e0589.1d6f8a39a78cd9c2"
+    },
+    {
+      "_id": "6ec4877ae12d2070",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.359717fd5e8e74af]{Comunhão com os Perdidos — Espectro}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!aeace7d6c88e0589.6ec4877ae12d2070"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!aeace7d6c88e0589"
+}

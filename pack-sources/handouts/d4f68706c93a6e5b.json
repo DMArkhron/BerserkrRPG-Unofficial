@@ -1,0 +1,28 @@
+{
+  "_id": "d4f68706c93a6e5b",
+  "name": "Urso Companheiro",
+  "folder": "71a09416cc60335c",
+  "pages": [
+    {
+      "_id": "96abab60ce508e39",
+      "name": "Urso Companheiro",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/companheiros/urso-companheiro.webp\" alt=\"Urso Companheiro\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Urso Companheiro</h2><p>Aliado robusto do Guardião Vanir. Sua força e suas garras acrescentam à companhia o poder de uma fera da floresta.</p><p><strong>Reino:</strong> Companheiros e lacaios</p><p>@UUID[Compendium.berserkr-rpg.companions.Actor.e66051e6a3972545]{Ficha de Urso Companheiro}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!d4f68706c93a6e5b.96abab60ce508e39"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.companions.Actor.e66051e6a3972545"
+    }
+  },
+  "_key": "!journal!d4f68706c93a6e5b"
+}

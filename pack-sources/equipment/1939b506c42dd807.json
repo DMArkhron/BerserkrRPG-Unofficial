@@ -1,0 +1,40 @@
+{
+  "_id": "1939b506c42dd807",
+  "name": "Martelo de Ferreiro",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/1939b506c42dd807.png",
+  "system": {
+    "description": "Arma inicial da classe. Dano 1d6. Também pode ser usada como ferramenta.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 52 (páginas impressas 102–103).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "7363f73ef00bc8e1",
+  "_key": "!items!1939b506c42dd807"
+}

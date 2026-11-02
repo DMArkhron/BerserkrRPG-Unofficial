@@ -1,0 +1,48 @@
+{
+  "_id": "1618538c99ec84e6",
+  "name": "Guardião Vanir",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-vanir.png",
+  "system": {
+    "description": "Classe de Vanaheim.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: O Saber da Natureza. Ao curar qualquer quantidade de PV, cure 1PV adicional.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 49 (páginas impressas 96–97).",
+    "realm": "Vanaheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 3,
+      "forca": 2,
+      "astucia": 5,
+      "agilidade": 1,
+      "esperteza": 4
+    },
+    "hpFormula": "@attributes.fortitude + 1d8",
+    "destinyFormula": "1d3",
+    "startingEquipment": "Túnica de folhas e cipós; Cajado Druídico (d6); ervas medicinais (d6 usos, cada uso cura d4PV); d4 comida; d4 água; d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.63605b40569b3ad5",
+      "Compendium.berserkr-rpg.abilities.049da40e54e26f19",
+      "Compendium.berserkr-rpg.abilities.4046ce66297e41e5",
+      "Compendium.berserkr-rpg.abilities.3e4f21fc4211d131",
+      "Compendium.berserkr-rpg.abilities.407a7f144be22ab3",
+      "Compendium.berserkr-rpg.abilities.201da4a1d3d73424",
+      "Compendium.berserkr-rpg.abilities.8bd37a8e85c753df"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "b567f2d4b7c49776",
+  "_key": "!items!1618538c99ec84e6"
+}

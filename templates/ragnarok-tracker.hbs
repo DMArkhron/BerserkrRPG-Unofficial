@@ -1,0 +1,41 @@
+<main class="rk">
+  <header class="rk-heading">
+    <div><span class="rk-kicker">O destino dos Nove Reinos</span><h1>Ragnarök <small>{{progress}}<i>/</i>30</small></h1></div>
+    <span class="rk-phase"><i class="fa-solid fa-hourglass-half"></i> {{phaseLabel}}</span>
+  </header>
+
+  <section class="rk-card rk-campaign" aria-label="Medidor da campanha">
+    <div class="rk-card-title"><div><h2>Presságios e escolhas</h2><p>O medidor avança até o clímax e retorna ao centro.</p></div><span class="rk-side">Último avanço: <b>{{lastSideLabel}}</b></span></div>
+    <div class="rk-meter" role="img" aria-label="{{progress}} de 30 passos">
+      <div class="rk-axis"><span>Centro</span><span>Clímax · passo 15</span><span>Centro</span></div>
+      <div class="rk-segments">{{#each segments}}<i class="rk-segment {{className}}" title="{{title}} · {{number}}"></i>{{/each}}</div>
+      <div class="rk-markers"><span><i class="rk-dot odin"></i> Odin</span><span><i class="rk-dot loki"></i> Loki</span></div>
+    </div>
+    <div class="rk-actions"><button type="button" data-action="odin" class="rk-odin"><i class="fa-solid fa-sun"></i> Avanço de Odin</button><button type="button" data-action="loki" class="rk-loki"><i class="fa-solid fa-snowflake"></i> Avanço de Loki</button><button type="button" data-action="undo" class="rk-undo" {{#unless canUndo}}disabled{{/unless}}><i class="fa-solid fa-rotate-left"></i> Desfazer</button></div>
+    <div class="rk-subline">{{progress}} passos registrados <span>•</span> {{fallenGods.length}} deuses caídos <span>•</span> Odin e Loki avançam separadamente</div>
+  </section>
+
+  <section class="rk-card rk-battle">
+    <div class="rk-card-title"><div><h2>Batalha final</h2><p>Marque os círculos de 15 segmentos durante o confronto.</p></div><span class="rk-phase-tag">{{#if isFinalBattle}}Em andamento{{else}}Preparação{{/if}}</span></div>
+    <div class="rk-battle-grid {{#if isFinalBattle}}active{{/if}}">
+      <div class="rk-circle-card odin-card"><div class="rk-circle-head"><b>Odin</b><strong>{{battle.odin}}<small>/15</small></strong></div><div class="rk-segments rk-round">{{#each odinCircle}}<i class="rk-segment {{className}}" title="Odin · {{number}}"></i>{{/each}}</div><div class="rk-actions"><button type="button" data-action="battleOdinDown" aria-label="Diminuir círculo de Odin" {{#unless canOdinReduce}}disabled{{/unless}}>−</button><button type="button" data-action="battleOdinUp" class="rk-odin">Odin +1</button></div></div>
+      <div class="rk-circle-card loki-card"><div class="rk-circle-head"><b>Loki</b><strong>{{battle.loki}}<small>/15</small></strong></div><div class="rk-segments rk-round">{{#each lokiCircle}}<i class="rk-segment {{className}}" title="Loki · {{number}}"></i>{{/each}}</div><div class="rk-actions"><button type="button" data-action="battleLokiDown" aria-label="Diminuir círculo de Loki" {{#unless canLokiReduce}}disabled{{/unless}}>−</button><button type="button" data-action="battleLokiUp" class="rk-loki">Loki +1</button></div></div>
+    </div>
+  </section>
+
+  <div class="rk-columns">
+    <section class="rk-card">
+      <div class="rk-card-title"><div><h2>Deuses caídos</h2><p>Registre quem já tombou.</p></div><span class="rk-count">{{fallenGods.length}}/{{gods.length}}</span></div>
+      <div class="rk-gods">{{#each gods}}<button type="button" data-action="toggleGod" data-god="{{name}}" class="rk-god {{#if fallen}}fallen{{/if}}" aria-pressed="{{fallen}}"><i class="{{#if fallen}}fa-solid fa-skull{{else}}fa-regular fa-circle{{/if}}"></i>{{name}}</button>{{/each}}</div>
+    </section>
+    <section class="rk-card rk-log-card">
+      <div class="rk-card-title"><div><h2>Testes e decisões</h2><p>Guarde resultados importantes da saga.</p></div></div>
+      <label class="rk-input-label" for="rk-outcome">Resultado de teste</label><div class="rk-entry"><input id="rk-outcome" data-outcome-input type="text" placeholder="Ex.: teste de destino — sucesso"><button type="button" data-action="addOutcome">Registrar</button></div>
+      {{#if recentOutcomes.length}}<ul class="rk-log">{{#each recentOutcomes}}<li><b>Teste</b><span>{{text}}</span></li>{{/each}}</ul>{{/if}}
+      <label class="rk-input-label" for="rk-note">Decisão ou nota do mestre</label><div class="rk-entry"><input id="rk-note" data-note-input type="text" placeholder="Anote uma escolha e sua consequência"><button type="button" data-action="addNote">Salvar</button></div>
+      {{#if recentNotes.length}}<ul class="rk-log">{{#each recentNotes}}<li><b>Decisão</b><span>{{text}}</span></li>{{/each}}</ul>{{/if}}
+    </section>
+  </div>
+
+  {{#if recentHistory.length}}<details class="rk-history"><summary>Histórico recente <span>{{recentHistory.length}} registros</span></summary><ol>{{#each recentHistory}}<li>{{label}}</li>{{/each}}</ol></details>{{/if}}
+</main>

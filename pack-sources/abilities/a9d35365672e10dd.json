@@ -1,0 +1,40 @@
+{
+  "_id": "a9d35365672e10dd",
+  "name": "Égide Gélida — Gigante de Gelo",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/a9d35365672e10dd.png",
+  "system": {
+    "description": "Uma vez por sessão, por d4 rodadas, reduza todo dano recebido pela metade; inimigos que atacarem corpo a corpo sofrem 1 de dano gélido.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 50 (páginas impressas 98–99).",
+    "realm": "Jötunheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "ca1f037bea3ba223",
+  "_key": "!items!a9d35365672e10dd"
+}

@@ -1,0 +1,305 @@
+{
+  "_id": "f40cff58b2712b4d",
+  "name": "Loki",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/loki.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 70,
+      "max": 70
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Ragnarök",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+    "defenseBonus": 4
+  },
+  "items": [
+    {
+      "_id": "3f9518557edece25",
+      "name": "Lævateinn",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Loki. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f40cff58b2712b4d.3f9518557edece25"
+    },
+    {
+      "_id": "068057c5fd7bce82",
+      "name": "Mordida de Serpente",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Loki. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f40cff58b2712b4d.068057c5fd7bce82"
+    },
+    {
+      "_id": "e74cf9800896d17e",
+      "name": "Ataque de Lobo",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Loki. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f40cff58b2712b4d.e74cf9800896d17e"
+    },
+    {
+      "_id": "c96f95da20f001b6",
+      "name": "Garras Ilusórias",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Loki. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f40cff58b2712b4d.c96f95da20f001b6"
+    },
+    {
+      "_id": "07606c782e847309",
+      "name": "Proteção de Loki",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f40cff58b2712b4d.07606c782e847309"
+    },
+    {
+      "_id": "5c7ef4c554c5d44f",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Elmo cornífero de Loki\n\nLævateinn Ataques Metamórficos\n\nIlusão da Trapaceira\n\nTruque do Destino\n\nA Fúria de Loki\n\nDespedaçar Realidade\n\nManipular Realidade\n\nCaos Metamórfico\n\n+4CD em todas as defesas do PJ\n\nLoki arremessa uma adaga que se multiplica em três fragmentos caóticos no ar, cada um atingindo um alvo diferente (role três ataques contra personagens diferentes). Loki cria múltiplas garras ilusórias, em quantidade igual ao número de PJs, atacando todos os inimigos. Todos os personagens precisam Testar Agilidade CD12 para não sofrerem d6 de dano.\n\nQuando os pontos de vida de Loki caírem abaixo de 20, seu corpo começa a se fragmentar, e ela fica fora de controle.\n\nO campo de batalha começa a se desintegrar sob a influência caótica de Loki.\n\nA cada rodada, o ambiente muda drasticamente, com áreas em chamas, congelando ou se deformando de maneiras impossíveis. Os personagens precisam Testar Agilidade CD14 a cada rodada para evitar sofrer d6 de dano causado pela movimentação do terreno.\n\n× Loki começará a usar duas formas simultaneamente (por exemplo, Lobo + Serpente ou Serpente + Corvo). Isso concede dois ataques e duas habilidades especiais a cada rodada.\n\nLoki consegue criar três ilusões de si mesma, confundindo os personagens. As ilusões se movem e atacam junto com ela, dificultando discernir quem é a verdadeira Loki.\n\nTeste Esperteza CD14 para identificar a versão correta. Com um sucesso, o personagem pode atacar a verdadeira Loki. Se falhar, o personagem ataca uma ilusão, que desaparece imediatamente.\n\nAs ilusões têm 0PV e não causam dano.\n\nLoki pode reverter o resultado de qualquer rolagem de dados. Consegue transformar um sucesso em fracasso ou um acerto crítico em desastre. Ela pode usar isso em um momento crucial, quando os jogadores acharem que desferiram o golpe final ou quando estiverem prestes a derrotá-la.\n\nLoki altera o campo de batalha, modificando o terreno, fazendo partes do reino desabarem ou conjurando efeitos ambientais perigosos (como fogo, gelo ou névoa venenosa).\n\nTeste Agilidade CD14 para evitar dano ambiental, ou sofra d6 de dano.\n\nAlém disso, Loki pode aprisionar um único personagem em um fantasma — uma prisão mental ilusória. O personagem precisa Testar Esperteza CD16 para se libertar. Até que consiga, ficará atordoado.\n\nLoki pode mudar de forma a cada rodada, adquirindo diferentes habilidades de acordo com a forma escolhida:\n\n×Forma de Serpente. Recebe +2 de Armadura, e sua mordida causa d8+3 de dano venenoso. Personagens feridos por esse ataque precisam Testar Fortitude CD12 para não sofrerem d6 de dano venenoso no início da próxima rodada.\n\n×Forma de Lobo. A mordida dela causa d10 de dano. Se acertar um alvo, ela poderá fazer um segundo ataque imediato com as Garras Ilusórias, causando d6 de dano.\n\n×Forma de Corvo. Loki se transforma em um corvo e alça voo. Ela não pode ser alvo de ataques corpo a corpo.\n\n70 −d2\n\nd10+3 corpo a corpo/distância Mordida de Serpente d8+3 dano venenoso Ataque de Lobo d10 Garras Ilusórias d6\n\nAtiva-se com PV<20 uma vez por combate\n\numa vez por combate\n\numa vez por combate\n\numa Vez por Rodada",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f40cff58b2712b4d.5c7ef4c554c5d44f"
+    },
+    {
+      "_id": "e1196899c0f215f0",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Loki Caos e Imprevisibilidade. Alterne entre formas frequentemente e use ilusões para manter o grupo confuso. Loki deve manipular o campo de batalha como se fosse uma extensão da sua própria vontade, forçando os personagens a se adaptarem o tempo todo.\n\nJogos Mentais. Utilize ilusões e fantasmas para desorientar e isolar os personagens, criando tensão e desconfiança entre os membros grupo.\n\nFase Final. Quando Loki entrar na Fúria de Loki, aumente o caos ainda mais. As formas duais da divindade e o terreno mutável precisam fazê-la parecer uma força de pura entropia. Espólios e Recompensas Lævateinn. Forjada nas chamas do submundo por Loki, Lævateinn é uma lâmina de imenso poder caótico (Lendários, 210).\n\nA Máscara das Mentiras. Uma máscara amaldiçoada que, uma vez por dia, concede ao usuário sucesso automático em um Teste de Astúcia. No entanto, ele é obrigado a mentir até que a máscara seja removida.\n\nO Presságio do Trapaceiro. Uma relíquia de uso único que convoca Fenrir (se estiver vivo) para lutar ao lado do personagem por d4 rodadas.\n\nA luta contra Loki precisa ser um caos, forçando os jogadores a pensar rápido e a se adaptar a cenários que estão sempre mudando. De ilusões à metamorfose até a manipulação da realidade, as habilidades de Loki personificam sua natureza caótica e travessa, tornando o encontro tão imprevisível quanto ela mesma.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 104 (páginas impressas 206–207).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f40cff58b2712b4d.e1196899c0f215f0"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Loki",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/loki.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.a2603a54eb9db5d1"
+    }
+  },
+  "folder": "e8a028b36ffc0d8c",
+  "_key": "!actors!f40cff58b2712b4d"
+}

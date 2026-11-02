@@ -1,0 +1,39 @@
+{
+  "_id": "3b75241343506bd4",
+  "name": "Mannaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/3b75241343506bd4.png",
+  "system": {
+    "description": "ᛗ — Mannaz\n\nFeitiço\nPermita que os membros do grupo compartilhem bônus de características, atributos e equipamento por d4 rodadas.\n\nInscrição em arma ou armadura\nCompartilhe um bônus uma vez por dia. Você pode transferir um dos seus bônus ativos (por exemplo, a partir de equipamentos ou atributos) a um aliado durante o próximo Teste dele.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Permita que os membros do grupo compartilhem bônus de características, atributos e equipamento por d4 rodadas.",
+    "inscription": "Compartilhe um bônus uma vez por dia. Você pode transferir um dos seus bônus ativos (por exemplo, a partir de equipamentos ou atributos) a um aliado durante o próximo Teste dele.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!3b75241343506bd4"
+}

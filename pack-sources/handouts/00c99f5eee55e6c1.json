@@ -1,0 +1,28 @@
+{
+  "_id": "00c99f5eee55e6c1",
+  "name": "Geirrod",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "915b91433217d9ef",
+      "name": "Geirrod",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/geirrod.webp\" alt=\"Geirrod\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Geirrod</h2><p>Gigante astuto de Jötunheim que faz do terreno sua arma. Armadilhas e emboscadas são sua forma preferida de enfrentar os inimigos.</p><p><strong>Reino:</strong> Jötunheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.9e212c051e7488d1]{Ficha de Geirrod}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!00c99f5eee55e6c1.915b91433217d9ef"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.9e212c051e7488d1"
+    }
+  },
+  "_key": "!journal!00c99f5eee55e6c1"
+}

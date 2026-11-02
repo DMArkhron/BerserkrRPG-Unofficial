@@ -1,0 +1,200 @@
+{
+  "_id": "16951039c8aa7544",
+  "name": "Fafnir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/fafnir.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 37,
+      "max": 37
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Svartalfheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Svartalfheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "db63a8e45ed682f0",
+      "name": "Sopro de Fogo — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Fafnir. Inimigo nomeado de Svartalfheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!16951039c8aa7544.db63a8e45ed682f0"
+    },
+    {
+      "_id": "d58b4ffeab4c8c6e",
+      "name": "Garras",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Fafnir. Inimigo nomeado de Svartalfheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!16951039c8aa7544.d58b4ffeab4c8c6e"
+    },
+    {
+      "_id": "cd815fc6d285bfed",
+      "name": "Proteção de Fafnir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!16951039c8aa7544.cd815fc6d285bfed"
+    },
+    {
+      "_id": "1e5151788cbd8d63",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "um anão consumido pela ganância, Fafnir se transformou em um dragão. Sua sede por Bugigangas fez com que virasse algo monstruoso. Nas profundezas de Svartalfheim, ele guarda seu tesouro com uma fome que apagou todos os vestígios de seu antigo eu. Suas escamas são uma fortaleza, seu hálito, venenoso. Seu covil é uma armadilha mortal — amaldiçoado e repleto de fossos e dos ossos daqueles que pensaram que poderiam tomar suas riquezas. Não há vestígios do anão que ele foi, apenas uma fera movida por uma necessidade insaciável de proteger seu ouro.\n\nAntes\n\nPV\n\nEscamas de Dragão\n\nSopro de Fogo\n\nGarras\n\n–d2\n\nd10+3 d6\n\nARMaDURa INCaNDESCENTE DE FafNiR Armadura de categoria 4 que não impõe aumento de CD em Testes de Agilidade e na Defesa, mas não pode ser encantada.\n\nHálito Sulfúrico O ataque de sopro de Fafnir derrete d100‡ Bugigangas instantaneamente. Além disso, qualquer pessoa atingida pela rajada precisa Testar Fortitude CD14 para sua armadura não degradar em 2 categorias.\n\nFEBRE DE TESOUROS A presença de Fafnir amplifica a ganância nos outros. Cada personagem precisa Testar Esperteza CD12 a cada rodada que passar dentro do covil do dragão. Falhar significa ficar obcecado pelo tesouro de Fafnir, sofrendo -1 em ataques contra o dragão, pois a pessoa não consegue tirar os olhos do tesouro.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 33 (páginas impressas 64–65).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!16951039c8aa7544.1e5151788cbd8d63"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Fafnir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/fafnir.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.752f46cbcbdbf104"
+    }
+  },
+  "folder": "482a35982dbaf29e",
+  "_key": "!actors!16951039c8aa7544"
+}

@@ -1,0 +1,235 @@
+{
+  "_id": "f4ca135d17425509",
+  "name": "Hel",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/hel.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 70,
+      "max": 70
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Helheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 102 (páginas impressas 202–203).",
+    "defenseBonus": 4
+  },
+  "items": [
+    {
+      "_id": "a49d23d1c129ae0f",
+      "name": "Toque Arrepiante",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Hel. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 102 (páginas impressas 202–203).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f4ca135d17425509.a49d23d1c129ae0f"
+    },
+    {
+      "_id": "fea02fd67e32f485",
+      "name": "Raio da Alma — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Hel. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+4",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 102 (páginas impressas 202–203).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f4ca135d17425509.fea02fd67e32f485"
+    },
+    {
+      "_id": "4d1284644b650df2",
+      "name": "Proteção de Hel",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 102 (páginas impressas 202–203).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f4ca135d17425509.4d1284644b650df2"
+    },
+    {
+      "_id": "bebc9dcc97fd9213",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Meio-Morta\n\nToque Arrepiante\n\nRessuscitar os Mortos O Abraço da Morte\n\nAura de Desespero\n\nRaio da Alma\n\n+4CD em todas as defesas do PJ\n\nCom um ataque bem-sucedido, o alvo deve Testar Fortitude CD14 para não perder 2 de Fortitude pelo restante do encontro.\n\nHel pode invocar as almas dos mortos para lutarem em seu nome, reforçando suas fileiras com guerreiros espectrais.\n\nHel convoca d4+1 Sentinelas de Móðguðr para lutar por ela. Enquanto os mortosvivos estiverem ativos, aplique +2CD aos ataques feitos contra Hel.\n\nUm toque que congela a alma.\n\nHel visa um único inimigo. O alvo precisa Testar Fortitude CD16 para não ficar atordoado por d4 rodadas, incapaz de agir enquanto o abraço gélido da morte o envolve.\n\nSe o alvo for bem-sucedido, sofrerá d8 de dano gélido, mas não ficará atordoado.\n\nHel exala uma aura de desesperança e pavor, drenando a vontade dos que se opõem a ela.\n\nTodos os inimigos que ela conseguir ver precisam Testar Esperteza CD14 para não sofrer desvantagem ao atacá-la por d6 rodadas, pois serão dominados pelo desespero.\n\nA energia necromântica suga a força vital da vítima, curando Hel pela mesma quantidade.\n\n70 −d2\n\nd8+3\n\numa vez por combate uma vez por combate\n\numa vez por combate\n\nd10+4 distância\n\nSoberana de Helheim\n\nA Colheita\n\nQuando Hel estiver gravemente ferida, ela extrai poder do seu domínio sobre o submundo, ficando mais perigosa conforme se apropria do poder dos mortos.\n\nHel invoca os mortos para ceifar as almas de seus inimigos, causando danos devastadores a todos que se opõem a ela. Ela só pode fazer isso uma vez.\n\nHel libera uma onda de energia necrótica pelo campo de batalha. Todos os inimigos precisam Testar Fortitude CD16 para não sofrerem 3d10 de dano. Se o Teste falhar, uma Runa aleatória será removida de uma arma ou armadura do personagem.\n\nAtiva-se com PV<20\n\n× Quando os pontos de vida de Hel caírem abaixo de 20, ela ataca duas vezes por rodada.\n\n× Ela também causa +2 a todos os Testes de defesa.\n\n× Ela regenera d6PV por rodada pelas próximas 3 rodadas (até um máximo de 20PV) pois extrai poder das almas de Helheim.\n\n× A Vingança da Morte. Durante esse período, todos os ataques de Hel causam d6 de dano adicional, conforme a conexão dela com o submundo se fortalece.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 102 (páginas impressas 202–203).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f4ca135d17425509.bebc9dcc97fd9213"
+    },
+    {
+      "_id": "f5656eb7ac77ba46",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Hel Mestra dos Mortos. Use Erguer os Mortos logo no começo, para reforçar as defesas de Hel e deixar os personagens em desvantagem. Suas habilidades devem manter o grupo em alerta, forçando-os a dividir sua atenção.\n\nControle o Campo de Batalha. Combine Aura de Desespero com ataques como Raio da Alma para minar a força e o moral do grupo. Hel se destaca ao desgastar seus inimigos lentamente, mantendo o controle do confronto.\n\nResistência Final. Quando Soberana de Helheim for ativada, Hel se torna uma ameaça terrível. Use a regeneração e os ataques aprimorados dela para levar os personagens a um combate desesperado pela sobrevivência.\n\nFoice de Hel. Uma lâmina curva e necrótica que causa d8+3 de dano gélido. Todo dano causado com esta arma cura o usuário pela mesma quantidade.\n\nManto de Hel. Um manto tecido a partir da própria essência da morte. Ele concede +2 de armadura. Uma vez por dia, o usuário pode ficar intangível por d4 rodadas, permitindo se mover através de objetos e inimigos. Ele também recebe vantagem em todas as defesas enquanto o efeito durar.\n\nA Benção de Hel. Uso único. Ativar esta benção permite ao usuário causar o dobro do dano contra todos os seguidores de Loki, por um combate.\n\nA presença de Hel no campo de batalha precisa personificar a inevitabilidade da morte — implacável, exaustiva e sempre no controle. Suas habilidades de enfraquecer o grupo, reabastecer as próprias forças e se regenerar em sua fase final criam uma batalha árdua para os jogadores, forçando-os a planejar cuidadosamente e atacar com determinação.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 102 (páginas impressas 202–203).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!f4ca135d17425509.f5656eb7ac77ba46"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Hel",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/hel.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.cc14451b3f40c461"
+    }
+  },
+  "folder": "7387d5232fd0ff79",
+  "_key": "!actors!f4ca135d17425509"
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "dbc088e13c6fd904",
+  "name": "Berkano",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/dbc088e13c6fd904.png",
+  "system": {
+    "description": "ᛒ — Berkano\n\nFeitiço\nRestaure d6PV imediatamente.\n\nInscrição em arma ou armadura\nCrie uma aura de cura. No início da próxima rodada, você e todos os seus aliados curam d4PV.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Restaure d6PV imediatamente.",
+    "inscription": "Crie uma aura de cura. No início da próxima rodada, você e todos os seus aliados curam d4PV.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!dbc088e13c6fd904"
+}

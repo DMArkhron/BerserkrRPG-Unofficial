@@ -1,0 +1,235 @@
+{
+  "_id": "953a23b6276c9635",
+  "name": "Surtr",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/surtr.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 75,
+      "max": 75
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Muspelheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 100 (páginas impressas 198–199).",
+    "defenseBonus": 4
+  },
+  "items": [
+    {
+      "_id": "d3acd47c1357db2b",
+      "name": "Abate Flamejante",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Surtr. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 100 (páginas impressas 198–199).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!953a23b6276c9635.d3acd47c1357db2b"
+    },
+    {
+      "_id": "9d80a7f37306def0",
+      "name": "Olhar Escaldante — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Surtr. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 100 (páginas impressas 198–199).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!953a23b6276c9635.9d80a7f37306def0"
+    },
+    {
+      "_id": "201dcf232dae863b",
+      "name": "Proteção de Surtr",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 100 (páginas impressas 198–199).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!953a23b6276c9635.201dcf232dae863b"
+    },
+    {
+      "_id": "30082bb1f1e4c536",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Armadura de lava de Surtr\n\nAbate Flamejante\n\nTempestade de Fogo Erupção de Lava\n\nChama Inextinguível\n\nOlhar Escaldante\n\n+4CD em todas as defesas do PJ\n\nSurtr desfere um golpe para baixo, com chamas saindo de sua lâmina.\n\nSurtr pode invocar uma tempestade de fogo que faz chover chamas pelo campo de batalha, incendiando tudo à vista. Todos os inimigos que ele conseguir ver precisam Testar Fortitude CD14 para não sofrer 2d8 de dano ígneo.\n\nO campo de batalha fica coberto de chamas pelas próximas d4 rodadas, fazendo com que qualquer movimento pela área cause d6 de dano ígneo aos personagens e reduza o movimento deles.\n\nSurtr convoca o poder de Muspelheim, fazendo com que a lava irrompa de baixo do campo de batalha, criando poças de rocha derretida.\n\nSurtr ataca uma parte do campo de batalha, provocando a erupção de lava e a formação de poças. Todos os inimigos que estiverem na área precisam Testar Agilidade CD14 para evitar a erupção. Quem falhar sofre 3d6 de dano ígneo e cai prostrado.\n\nAs poças de lava permanecem durante o restante do combate, forçando os personagens a Testarem Agilidade CD12 para evitar pisar nelas e sofrer d6 de dano ígneo.\n\nO corpo de Surtr está coberto por chamas inextinguíveis, tornando quase impossível aproximar-se dele sem se queimar.\n\nTodo inimigo que atacar Surtr em combate corpo a corpo sofrerá d2 de dano ígneo automaticamente, devido ao calor que irradia do corpo dele.\n\nSurtr é imune a todo dano baseado em fogo e sofre metade do dano de quaisquer ataques mágicos que não sejam relacionados à água ou ao frio.\n\nOs olhos de Surtr ardem com as chamas de Muspelheim. Ele consegue concentrar o olhar em um único alvo, causando d10 de dano ígneo. Teste Astúcia CD14 para não ser cegado por d3 rodadas.\n\n75 −d3\n\nd12+6\n\numa vez por combate uma vez por combate\n\npassiva\n\nd10+3 distância Fúria Nascida do Fogo\n\nA Chama do Ragnarök\n\nQuando Surtr ficar gravemente ferido, ele entrará em um estado de fúria ardente, utilizando as chamas eternas de Muspelheim para alimentar seu ataque final.\n\nSurtr incendeia todo o campo de batalha com uma labareda cataclísmica. Ele só pode fazer isso uma vez.\n\nSurtr crava sua espada no chão, fazendo chamas se alastrarem pelo campo de batalha. Todos os inimigos precisarão Testar Fortitude CD16 para não sofrer 2d8 de dano ígneo e serem incendiados (d6 de dano ígneo por rodada).\n\nAtiva-se com PV<25\n\n× Quando os pontos de vida de Surtr caírem abaixo de 25, ele atacará duas vezes por rodada.\n\n× Ele também impõe +2 em todos os Testes de defesa dos PJs.\n\n× Além disso, Surtr causará d6 de dano ígneo adicional em todos os ataques dele.\n\n× Surtr também regenera d6PV por rodada ao longo de d4 rodadas (até um máximo de 25PV), conforme as chamas de Muspelheim restauram suas forças.\n\n× Durante essa fase, a habilidade Chama Inextinguível causará dano dobrado a qualquer um que venha a atacá-lo em combate corpo a corpo.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 100 (páginas impressas 198–199).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!953a23b6276c9635.30082bb1f1e4c536"
+    },
+    {
+      "_id": "04bad95a57623ca1",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "U$ando Surtr Controle o Campo de Batalha. Use Tempestade de Fogo e Erupção de Lava logo no começo, para dispersar e enfraquecer o grupo, forçando movimentos táticos.\n\nPuna o Combate Corpo a Corpo. Utilize Chama Inextinguível para deter combatentes corpo a corpo, enquanto desfere golpes devastadores com Abate Flamejante.\n\nChama Final. Em Fúria Nascida do Fogo, o foco está em ataques implacáveis, forçando os personagens a encerrarem o combate rápido para não correrem o risco de serem dominados pelas chamas de Surtr.\n\nE$polio$ e Recompen$a$s Espada de Surtr. Esta enorme espada flamejante causa d12+6 de dano mais d6 de dano ígneo a cada golpe. Uma vez por dia, o portador pode usá-la para convocar uma Tempestade de Fogo, causando 2d8 de dano ígneo em todos os inimigos que conseguir ver.\n\nArmadura de Lava. A armadura de Surtr pode ser transformada em uma armadura de placas que concede +3 de armadura e imunidade a dano ígneo. Além disso, quem atacar o usuário em combate corpo a corpo sofre d6 de dano ígneo.\n\nEssência de Surtr. = Um frasco da essência de Surtr pode ser consumido para conceder resistência a dano ígneo (sofrendo apenas metade do dano) e +2 em Testes de Força por um combate por dia. No entanto, após o combate, o usuário sofre d6 de dano ígneo devido à energia ardente que percorre seu corpo.\n\nSurtr precisa ser como uma conflagração viva. Seus ataques e habilidades sobrecarregam os personagens com fogo e destruição, forçando-os a se adaptarem constantemente. Sua fase final personifica a fúria ardente de Muspelheim, transformando a luta em uma corrida desesperada contra o tempo.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 100 (páginas impressas 198–199).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!953a23b6276c9635.04bad95a57623ca1"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Surtr",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/surtr.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.54e429ab37d5c9ff"
+    }
+  },
+  "folder": "0c4d93ee52032471",
+  "_key": "!actors!953a23b6276c9635"
+}

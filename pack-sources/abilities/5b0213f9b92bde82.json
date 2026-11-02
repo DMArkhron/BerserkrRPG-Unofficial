@@ -1,0 +1,40 @@
+{
+  "_id": "5b0213f9b92bde82",
+  "name": "A Resiliência do Ferreiro — Mestre Ferreiro",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/5b0213f9b92bde82.png",
+  "system": {
+    "description": "+2 em Testes de Fortitude. Uma vez por sessão, anule um desastre na defesa e reduza o dano a 0.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 52 (páginas impressas 102–103).",
+    "realm": "Svartalfheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "6a3e69993eb0c223",
+  "_key": "!items!5b0213f9b92bde82"
+}

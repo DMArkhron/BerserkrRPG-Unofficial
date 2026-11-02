@@ -1,0 +1,40 @@
+{
+  "_id": "0fa07dda45c58d3a",
+  "name": "Casaco de Pele Grossa",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/0fa07dda45c58d3a.png",
+  "system": {
+    "description": "Vestimenta inicial do Gigante de Gelo.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 50 (páginas impressas 98–99).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!0fa07dda45c58d3a"
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "0bd57aa3a87dc891",
+  "name": "Brísingamen",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/0bd57aa3a87dc891.png",
+  "system": {
+    "description": "é o famoso colar usado pela deusa Freyja.\n\nÉ um símbolo de beleza e poder, e tem a capacidade de influenciar os corações dos mortais e dos deuses. Ele concede ao portador não apenas uma beleza incomparável, mas também o poder de controlar as emoções e invocar proteção divina. No entanto, o colar é conhecido por ser cobiçado por muitos, e possuí-lo pode atrair atenção indesejada.\n\nAura Divina\n\nA Benção de Freyja\n\nArrebatar Corações\n\nQuem usar o Brísingamen é envolvido por uma aura divina de graça e beleza. Todas as criaturas terão dificuldade em ferir o portador. A Defesa é feita com vantagem.\n\nBrísingamen concede proteção divina ao portador e seus aliados. O portador e todos os aliados dele recebem +2 de defesa por d6 rodadas, conforme Brísingamen resplandece com luz divina, protegendo-os de todo mal.\n\nBrísingamen permite que o portador manipule as emoções de quem está perto, manipulando até mesmo a vontade dos deuses por um tempo. O usuário pode escolher um alvo e Testar Esperteza CD14; se for bem-sucedido, a criatura fica encantada por d4 rodadas e não pode atacá-lo nem feri-lo.\n\nSe falhar, a criatura fica enfurecida, concentrando seus ataques nele.\n\npassiva\n\numa vez por dia\n\numa vez por dia\n\nOs quatro anões que forjaram Brísingamen vêm exigir pagamento, alegando que Freyja nunca os compensou integralmente. Eles exigem algo de igual ou maior valor para não tomarem o colar à força.\n\nA própria Freyja percebe que o colar sumiu e envia uma poderosa Valquíria para recuperá-lo. A Valquíria oferece uma escolha ao portador: devolver o colar pacificamente ou preparar-se para um duelo mortal.\n\nA habilidade cada vez maior do usuário em manipular corações chama a atenção de uma divindade invejosa que o amaldiçoa. Pelos próximos d6 dias, são os outros que têm mais lábia contra você, causando desvantagem em Testes sociais.\n\nO portador do colar atrai a atenção de um poderoso governante mortal que se apaixona por ele devido à aura do Brísingamen. Os inimigos do governante, no entanto, começam a caçar o portador, acreditando que ele representa uma ameaça.\n\nFreyja oferece abençoar ainda mais o portador, concedendo uma habilidade adicional para o Brísingamen — mas somente se ele completar uma missão sagrada em nome dela.\n\nOs Aesir começam a observar atentamente o portador, desconfiados de como ele adquiriu o Brísingamen. Thor ou Tyr podem intervir se acreditarem que o objeto foi roubado.\n\nGanchos de Missao d6 1",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 106 (páginas impressas 210–211).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!0bd57aa3a87dc891"
+}

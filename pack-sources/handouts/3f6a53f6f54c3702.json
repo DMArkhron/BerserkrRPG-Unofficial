@@ -1,0 +1,28 @@
+{
+  "_id": "3f6a53f6f54c3702",
+  "name": "Sentinela de Móðguðr",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "6faf34c24451152f",
+      "name": "Sentinela de Móðguðr",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/sentinela-de-modgudr.webp\" alt=\"Sentinela de Móðguðr\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Sentinela de Móðguðr</h2><p>Guarda das fronteiras de Helheim. Sua presença vigia as passagens do reino dos mortos e ameaça quem tenta atravessá-las.</p><p><strong>Reino:</strong> Helheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.d1481a0e4dc57f1b]{Ficha de Sentinela de Móðguðr}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!3f6a53f6f54c3702.6faf34c24451152f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.d1481a0e4dc57f1b"
+    }
+  },
+  "_key": "!journal!3f6a53f6f54c3702"
+}

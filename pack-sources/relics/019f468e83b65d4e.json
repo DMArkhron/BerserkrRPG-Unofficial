@@ -1,0 +1,39 @@
+{
+  "_id": "019f468e83b65d4e",
+  "name": "Andvaranaut",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/019f468e83b65d4e.png",
+  "system": {
+    "description": "A n d v a - ranaut é um anel amaldiçoado que pertenceu ao anão Andvari, que o imbuiu com o poder de trazer grande riqueza para o portador — ao custo da ruína final. Embora o anel conceda riquezas inimagináveis, sua maldição garante que nenhuma fortuna dure muito, pois semeia a ganância e a destruição. Quem usar o anel poderá desfrutar de prosperidade temporária, mas precisa estar atento para a inevitável queda.\n\nRiqueza de Andvari\n\nMissão d6\n\n3 4\n\n5 6\n\nGanchos\n\nO Toque da Ganância A Maldição da Ruína Quem usar o Andvaranaut atrairá riqueza aonde quer que vá. Uma vez por dia, o usuário pode rolar d100 para determinar a quantidade de Bugigangas que vai encontrar, roubar ou adquirir de alguma outra forma.\n\nNo entanto, após três utilizações, é necessário Testar Esperteza CD14. Se falhar, as Bugigangas encontradas estarão amaldiçoadas, causando má sorte (desvantagem em todos os Testes pelos próximos d4 dias).\n\nSempre que o usuário usar Riqueza de Andvari, ele recebe +1 em Fortitude mas sofre −1 de Esperteza permanentemente, já que sua mente fica obcecada por adquirir mais riquezas. Se a Esperteza cair abaixo de −2, o portador é levado à loucura, ficando obcecado por Bugigangas acima de tudo.\n\nDepois de 7 dias usando o anel, o mestre deve rolar d6 secretamente. Obtendo 1, a maldição é acionada e o portador sofre uma calamidade — perdendo metade da sua riqueza e tendo seus pertences roubados ou destruídos por inimigos atraídos pelo anel amaldiçoado.\n\nA maldição só pode ser quebrada destruindo Andvaranaut nas chamas de Muspelheim ou devolvendo-a aos Anões que o forjaram, e isso vai exigir uma grande aventura.\n\npassiva passiva passiva\n\nO dono original, Andvari, envia um espírito vingativo para recuperar seu anel. O espírito persegue o portador, causando contratempos e desastres até que o objeto seja devolvido.\n\nUma enorme desgraça atinge o portador — talvez seu ouro desapareça ou um inimigo poderoso saqueie suas riquezas. Ele precisará encontrar uma forma de reverter essa calamidade, talvez consultando um velho divinador.\n\nA ganância cada vez maior do portador chama a atenção de Loki, que lhe oferece um acordo: riquezas inimagináveis em troca de um favor durante o Ragnarök. Recusar pode atrair sua ira.\n\nOutra figura poderosa — talvez um rei ou um príncipe mercante — ouviu falar do poder de Andvaranaut e envia assassinos para roubá-lo. Quem usar o anel é caçado por inimigos implacáveis que não hesitarão em se valer de qualquer meio para se apoderar do artefato.\n\nOdin tomou conhecimento da presença do anel e enviou um emissário para testar o usuário. Se ele falhar, Odin poderá considerá-lo indigno de deter esse poder, amaldiçoando ainda mais o seu destino.\n\nU m místico oferece ao portador a chance de quebrar a maldição de Andvaranaut, mas apenas se ele sacrificar algo de grande valor pessoal — um aliado, um item mágico ou sua própria riqueza.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 107 (páginas impressas 212–213).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!019f468e83b65d4e"
+}

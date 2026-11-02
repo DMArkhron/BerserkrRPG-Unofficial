@@ -1,0 +1,28 @@
+{
+  "_id": "14ee68eed1d3609b",
+  "name": "Garmr",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "331d96a0097f15f9",
+      "name": "Garmr",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/garmr.webp\" alt=\"Garmr\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Garmr</h2><p>Cão espectral que ronda as fronteiras de Helheim. Seu uivo anuncia a morte e sua fome transforma a fuga em uma tarefa desesperada.</p><p><strong>Reino:</strong> Helheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.46eff59a08204c09]{Ficha de Garmr}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!14ee68eed1d3609b.331d96a0097f15f9"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.46eff59a08204c09"
+    }
+  },
+  "_key": "!journal!14ee68eed1d3609b"
+}

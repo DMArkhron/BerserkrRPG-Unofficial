@@ -1,0 +1,28 @@
+{
+  "_id": "902f8a3fd63df375",
+  "name": "Aparição Gélida",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "9d349f53eddfb08f",
+      "name": "Aparição Gélida",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/aparicao-gelida.webp\" alt=\"Aparição Gélida\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Aparição Gélida</h2><p>Entidade de Niflheim que surge do frio e desliza pela névoa. Sua aproximação traz uma ameaça silenciosa e sobrenatural.</p><p><strong>Reino:</strong> Niflheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.d7e60db386543415]{Ficha de Aparição Gélida}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!902f8a3fd63df375.9d349f53eddfb08f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.d7e60db386543415"
+    }
+  },
+  "_key": "!journal!902f8a3fd63df375"
+}

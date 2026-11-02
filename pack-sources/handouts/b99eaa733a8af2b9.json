@@ -1,0 +1,28 @@
+{
+  "_id": "b99eaa733a8af2b9",
+  "name": "Váli",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "1cd5d3762866e1fc",
+      "name": "Váli",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/vali.webp\" alt=\"Váli\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Váli</h2><p>Vingador de Asgard, movido por uma justiça brutal e inflexível. Enfrenta aqueles que desafiam os deuses com uma fúria fria e calculista.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.67436f2210e22de4]{Ficha de Váli}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!b99eaa733a8af2b9.1cd5d3762866e1fc"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.67436f2210e22de4"
+    }
+  },
+  "_key": "!journal!b99eaa733a8af2b9"
+}

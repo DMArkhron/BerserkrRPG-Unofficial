@@ -1,0 +1,153 @@
+/* Isolated ApplicationV2 layout: card contents determine their height. */
+.berserkr.generator .window-content{display:flex;flex-direction:column;flex:1;min-height:0;overflow:hidden;padding:0;background:#111a20}
+.berserkr.generator .wizard-body{box-sizing:border-box;display:flex;flex-direction:column;flex:1;height:100%;min-height:0;min-width:0;gap:16px;padding:22px;overflow:hidden;background:var(--theme-bg);color:var(--theme-ink);font-family:Arial,sans-serif;font-size:13px;line-height:1.5;container-type:inline-size}
+.berserkr.generator .wizard-body *{box-sizing:border-box;min-width:0}
+.berserkr.generator .wizard-body p{margin:0 0 10px;line-height:1.6;overflow-wrap:anywhere}
+.berserkr.generator .wizard-body button{position:static;display:inline-flex;flex:0 0 auto;align-items:center;justify-content:center;width:auto;height:auto;min-height:38px;max-height:none;margin:0;padding:9px 13px;border:1px solid #ffffff30;border-radius:6px;white-space:normal;text-wrap:wrap;overflow-wrap:anywhere;line-height:1.45;font:inherit;background:var(--theme-panel);color:var(--theme-ink);box-shadow:none}
+.berserkr.generator .wizard-body button:hover{border-color:var(--theme-accent)}
+.berserkr.generator .wizard-body button:focus-visible{outline:2px solid var(--theme-accent);outline-offset:3px}
+.berserkr.generator .wizard-body button:disabled{opacity:.45;cursor:not-allowed}
+.berserkr.generator .wizard-header{display:flex;align-items:center;gap:16px;flex:none;padding-bottom:4px}
+.berserkr.generator .wizard-header>img{position:static;display:block;width:54px;height:54px;flex:none;border:0;object-fit:contain}
+.berserkr.generator .wizard-header h2{font-family:Georgia,serif;font-size:27px;line-height:1.2;border:0;margin:4px 0;color:var(--theme-ink);text-shadow:none}
+.berserkr.generator .wizard-header .brand{font-size:9px;letter-spacing:1.6px;margin:0;color:var(--theme-accent)}
+.berserkr.generator .wizard-header .wizard-subtitle{font-size:12px;color:#b9c7cb;margin:4px 0 0}
+.berserkr.generator .wizard-track{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));flex:none;gap:8px;list-style:none;margin:0;padding:0}
+.berserkr.generator .wizard-track li{display:flex;align-items:center;gap:8px;padding:10px 8px;font-size:10px;line-height:1.4;border-bottom:2px solid #ffffff25;color:#b9c7cb;background:#00000018}
+.berserkr.generator .wizard-track b{display:grid;place-items:center;width:23px;height:23px;flex:none;border-radius:50%;border:1px solid #ffffff30;font-size:11px}
+.berserkr.generator .wizard-track .current{color:var(--theme-ink);border-color:var(--theme-accent);background:var(--theme-panel)}
+.berserkr.generator .wizard-track .current b,.berserkr.generator .wizard-track .done b{background:var(--theme-accent);color:var(--theme-bg);border-color:var(--theme-accent)}
+.berserkr.generator .wizard-content{display:block;flex:1 1 0;min-height:0;overflow-y:auto;overflow-x:hidden;padding:0 10px 8px 0;scrollbar-width:thin;scrollbar-color:var(--theme-accent) transparent}
+.berserkr.generator .wizard-content>*{margin-bottom:16px}
+.berserkr.generator .wizard-panel{display:block;padding:18px;border:1px solid #ffffff25;border-radius:8px;background:var(--theme-panel);margin-bottom:16px;overflow:visible}
+.berserkr.generator .wizard-panel h3{position:static;font:700 15px/1.4 Arial,sans-serif;margin:0 0 14px;padding:0;border:0;color:var(--theme-ink);letter-spacing:.3px;text-transform:none}
+.berserkr.generator .class-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;align-items:stretch}
+.berserkr.generator .wizard-body .class-choice{display:flex;flex-direction:column;gap:8px;justify-content:flex-start;text-align:center;padding:14px 8px;min-height:132px;width:100%;background:#00000020}
+.berserkr.generator .class-choice>img{display:block;position:static;width:44px;height:44px;flex:none;object-fit:contain;border:0}
+.berserkr.generator .class-choice strong{font-size:11px;line-height:1.4;display:block}
+.berserkr.generator .class-choice small{display:block;font-size:10px;line-height:1.4;color:#bdcbd0;white-space:normal}
+.berserkr.generator .wizard-body .choice.selected{border-color:var(--theme-accent);background:color-mix(in srgb,var(--theme-panel) 85%,var(--theme-accent));outline:2px solid var(--theme-accent);outline-offset:-2px;box-shadow:none;color:var(--theme-ink)}
+.berserkr.generator .class-intro{border-left:3px solid var(--theme-accent)}
+.berserkr.generator .class-intro .theme-motif{font-size:11px;color:var(--theme-accent)}
+.berserkr.generator .class-intro button{margin-bottom:12px}
+.berserkr.generator .skill-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:16px;align-items:start}
+.berserkr.generator .wizard-body .skill-choice{display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:9px;text-align:left;padding:16px;width:100%;background:#00000020}
+.berserkr.generator .skill-choice strong{display:block;font-size:13px;line-height:1.4}
+.berserkr.generator .skill-choice small{display:block;font-size:12px;line-height:1.65;color:#d1dbdc;white-space:pre-wrap}
+.berserkr.generator .wizard-panel>button+button{margin-left:8px}
+.berserkr.generator .attribute-row{display:grid;grid-template-columns:1fr 1fr 1.5fr 1fr auto;align-items:center;gap:12px;padding:14px 0;margin:0;border-bottom:1px solid #ffffff20;flex-wrap:initial;font-size:12px}
+.berserkr.generator .resource-row{display:grid;grid-template-columns:1.2fr 2fr .5fr;align-items:center;gap:12px;padding:14px 0;border-bottom:1px solid #ffffff20}
+.berserkr.generator .resource-row b{text-align:right;color:var(--theme-accent);font-size:20px}
+.berserkr.generator .wizard-body label{display:flex;flex-direction:column;gap:8px;margin:0 0 18px;font-size:12px;font-weight:bold;line-height:1.5}
+.berserkr.generator .wizard-body input,.berserkr.generator .wizard-body select,.berserkr.generator .wizard-body textarea{position:static;display:block;width:100%;height:auto;min-height:42px;margin:0;padding:10px 12px;font:400 13px/1.5 Arial,sans-serif;border:1px solid #ffffff35;border-radius:5px;background:#00000035;color:var(--theme-ink)}
+.berserkr.generator .wizard-body select option{background:var(--theme-bg);color:var(--theme-ink)}
+.berserkr.generator .wizard-body textarea{min-height:150px;resize:vertical}
+.berserkr.generator .review-equipment{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
+.berserkr.generator .wizard-body .hint{font-size:11px;line-height:1.6;color:#b9c7cb}
+.berserkr.generator .generator-controls{display:flex;flex:none;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:10px;padding-top:15px;border-top:1px solid #ffffff25}
+.berserkr.generator .wizard-save-note{margin-right:auto;font-size:10px;color:#b9c7cb}
+.berserkr.generator .generator-controls button{font-weight:bold;min-height:42px;padding:11px 18px}
+.berserkr.generator .generator-controls button[data-action=next],.berserkr.generator .generator-controls button[data-action=finish]{background:var(--theme-accent);color:var(--theme-bg);border-color:var(--theme-accent)}
+@container(max-width:700px){.berserkr.generator .class-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.berserkr.generator .attribute-row{grid-template-columns:1fr 1fr}.berserkr.generator .wizard-track li{flex-direction:column;text-align:center;padding:8px 3px}.berserkr.generator .skill-grid{grid-template-columns:1fr}.berserkr.generator .wizard-save-note{display:none}}
+@container(max-width:440px){.berserkr.generator .class-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.berserkr.generator .wizard-header h2{font-size:22px}.berserkr.generator .wizard-track li{font-size:9px}.berserkr.generator .resource-row{grid-template-columns:1fr 1fr}}
+/* Berserkr book art direction: raster illustrations, ink and bold accents. */
+.berserkr.generator .wizard-body{padding:18px;gap:13px;background:linear-gradient(#061b24f2,#07131af5),url('../assets/art/hero.png') center/cover;--theme-panel:#0c2834;--theme-ink:#f1ead9}
+.berserkr.generator .wizard-header{min-height:116px;padding:18px 22px;border:1px solid #305360;border-bottom:3px solid #d83f60;background:linear-gradient(90deg,#06192340,#06192320),url('../assets/generator/header.png') center/cover}
+.berserkr.generator .wizard-header>div{max-width:72%}
+.berserkr.generator .wizard-header h2{font-family:Impact,'Arial Narrow',sans-serif;letter-spacing:1px;text-transform:uppercase;font-size:30px;color:#f4e9cf}
+.berserkr.generator .wizard-header .brand{color:#e95b77;letter-spacing:2px;font-size:9px}
+.berserkr.generator .wizard-header .wizard-subtitle{color:#c0d1d3}
+.berserkr.generator .wizard-class-emblem{display:none!important}
+.berserkr.generator .wizard-track li{background:#061923;border-color:#31515b;font-size:10px}
+.berserkr.generator .wizard-track .current{background:#173d49;border-color:#ec4c70;color:#fff1dd}
+.berserkr.generator .wizard-track .current b{background:#d93e60;color:#fff0df;border-color:#ec4c70;border-radius:2px}
+.berserkr.generator .wizard-panel{background:#0b2530ef;border-radius:2px;border-color:#315461;padding:16px}
+.berserkr.generator .wizard-panel h3{font-family:Impact,'Arial Narrow',sans-serif;font-size:19px;letter-spacing:1px;text-transform:uppercase;color:#f1dbb3;padding-left:11px;border-left:4px solid #dc4364}
+.berserkr.generator .wizard-body .class-choice{padding:0 0 12px;gap:7px;min-height:0;border-radius:2px;background:#061c27;border:1px solid #365463;overflow:hidden}
+.berserkr.generator .class-art-frame{display:block;width:100%;height:106px;position:relative;overflow:hidden;margin-bottom:4px;background:#081b23;border-bottom:1px solid #385766}
+.berserkr.generator .class-art-frame .class-art{position:absolute;display:block;width:230%;max-width:none;height:auto;left:var(--art-x);top:var(--art-y);border:0;margin:0}
+.berserkr.generator .class-choice strong{padding:0 5px;font-size:11px;color:#f1e6cd}
+.berserkr.generator .class-choice small{font-size:9px;letter-spacing:.4px}
+.berserkr.generator .wizard-body .class-choice.selected{outline:2px solid #e95375;background:#263743;border-color:#e95375}
+.berserkr.generator .class-intro{display:grid;grid-template-columns:170px minmax(0,1fr);gap:18px;border-left:3px solid var(--theme-accent)}
+.berserkr.generator .class-intro-art{display:block;width:170px;height:220px;object-fit:cover;object-position:center;border:1px solid #446774}
+.berserkr.generator .class-intro-copy p{font-size:12px}
+.berserkr.generator .class-intro-copy>p:last-child{margin-bottom:0}
+.berserkr.generator .wizard-body .skill-choice{border-radius:2px;border-color:#315461;background:#071d29;border-left:3px solid #315461}
+.berserkr.generator .wizard-body .skill-choice.selected{background:#183747;border-left-color:var(--theme-accent)}
+.berserkr.generator .skill-choice strong{color:#f2dcad}
+.berserkr.generator .wizard-panel>button{font-size:11px}
+.berserkr.generator .wizard-saga{display:flex;gap:16px;align-items:center;padding:0 14px 0 0;border:1px solid #315461;background:#0c2632;min-height:86px}
+.berserkr.generator .wizard-saga>img:first-child{display:block;width:125px;height:86px;object-fit:cover;border:0;flex:none}
+.berserkr.generator .wizard-saga>div{display:flex;flex-direction:column;gap:4px;flex:1}
+.berserkr.generator .wizard-saga span{font-size:9px;letter-spacing:2px;color:#ef617b}
+.berserkr.generator .wizard-saga strong{font-family:Impact,'Arial Narrow',sans-serif;font-size:23px;letter-spacing:1px;text-transform:uppercase;color:#f1dbb3}
+.berserkr.generator .wizard-saga small{font-size:11px;color:#bfd0d0}
+.berserkr.generator .wizard-saga .saga-emblem{width:40px;height:40px;object-fit:contain;border:0}
+.berserkr.generator .attribute-row>strong{background:url('../assets/art/divider.png') bottom/100% 3px no-repeat;padding-bottom:8px;color:#f1dbb3}
+.berserkr.generator .generator-controls{border-image:url('../assets/art/divider.png') 10 stretch;border-top-width:3px}
+.berserkr.generator .generator-controls button[data-action=next],.berserkr.generator .generator-controls button[data-action=finish]{background:#ca3b58;color:#fff0df;border-color:#ed6380;border-radius:2px;letter-spacing:.3px}
+.berserkr.generator .wizard-body input,.berserkr.generator .wizard-body select,.berserkr.generator .wizard-body textarea{border-radius:2px;background:#061923;border-color:#3b6571}
+@container(max-width:700px){.berserkr.generator .class-intro{grid-template-columns:110px minmax(0,1fr)}.berserkr.generator .class-intro-art{width:110px;height:170px}.berserkr.generator .wizard-header{padding:16px;min-height:110px}.berserkr.generator .wizard-header>div{max-width:85%}}
+@container(max-width:440px){.berserkr.generator .class-intro{grid-template-columns:1fr}.berserkr.generator .class-intro-art{width:100%;height:130px}.berserkr.generator .wizard-saga>img:first-child{width:80px}.berserkr.generator .wizard-saga .saga-emblem{display:none}.berserkr.generator .wizard-header h2{font-size:24px}}
+
+/* Original square portraits replace the book page crops. */
+.berserkr.generator .class-art-frame .class-art{position:static;width:100%;height:100%;max-width:100%;object-fit:cover;object-position:center 30%}
+.berserkr.generator .class-intro-art{object-position:center 30%}
+.berserkr.generator .wizard-saga>img:first-child{object-position:center 30%}
+
+/* Printed ink art direction shared with the original class portraits. */
+.berserkr.generator .wizard-body{padding:18px;gap:14px;background:#08232b url('../assets/generator/ink-texture.png') center/cover;--theme-panel:#132d34;--theme-ink:#f3e8d0;color:#f3e8d0}
+.berserkr.generator .wizard-header{position:relative;isolation:isolate;overflow:hidden;min-height:128px;padding:20px 24px;border:3px solid #020e13;border-bottom:5px solid var(--theme-accent);background:#030f15;box-shadow:4px 4px 0 #01090e}
+.berserkr.generator .wizard-header-art{position:absolute;right:0;top:0;width:45%;height:100%;max-width:none;object-fit:cover;object-position:center 30%;border:0;z-index:-2}
+.berserkr.generator .wizard-header::before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(90deg,#030f15 48%,#030f15e6 55%,#030f1500 75%)}
+.berserkr.generator .wizard-header>div{max-width:64%}
+.berserkr.generator .wizard-header h2{font-family:Impact,'Arial Narrow',sans-serif;font-size:31px;line-height:1.15;letter-spacing:1.2px;color:#f6e8c6;text-shadow:2px 2px #000;overflow-wrap:anywhere}
+.berserkr.generator .wizard-header .brand{font-weight:800;color:#eb5672;letter-spacing:2px}
+.berserkr.generator .wizard-header .wizard-subtitle{font-size:11px;color:#c8d9d5}
+.berserkr.generator .wizard-track{gap:7px}
+.berserkr.generator .wizard-track li{padding:10px 7px;background:#04171eea;border:1px solid #31505a;border-bottom:3px solid #030e13;color:#ced6cd;box-shadow:2px 2px 0 #010a10}
+.berserkr.generator .wizard-track b{border-radius:0;transform:rotate(-3deg);background:#102d35;border:1px solid #5b777c;color:#f0e4c5}
+.berserkr.generator .wizard-track .current{background:var(--theme-accent);color:#07171d;border-color:#031117;font-weight:bold}
+.berserkr.generator .wizard-track .current b{background:#07171d;border-color:#07171d;color:#f3e4c4}
+.berserkr.generator .wizard-track .done{border-bottom-color:var(--theme-accent)}
+.berserkr.generator .wizard-content{padding-right:12px;scrollbar-color:var(--theme-accent) #061923}
+.berserkr.generator .wizard-content>.hint{border-left:3px solid #ce4563;padding-left:10px;color:#d1d6c7}
+.berserkr.generator .wizard-panel{position:relative;background:linear-gradient(#102b33ed,#0b2128f7),url('../assets/generator/ink-texture.png') center/cover;border:2px solid #020d13;border-radius:0;box-shadow:4px 4px 0 #030d13;padding:18px;margin-bottom:20px}
+.berserkr.generator .wizard-panel h3{display:block;padding:8px 13px;margin:-2px 0 18px;font:700 20px/1.3 Impact,'Arial Narrow',sans-serif;letter-spacing:1px;color:#071920;background:#eadab6;border:0;border-left:5px solid #d13e5d;clip-path:polygon(0 3%,97% 0,100% 85%,3% 100%);text-shadow:none}
+.berserkr.generator .wizard-body .class-choice{position:relative;gap:8px;background:#071a23;border:2px solid #020a0e;border-radius:0;box-shadow:3px 3px 0 #02090d;padding-bottom:12px}
+.berserkr.generator .class-art-frame{height:112px;border-bottom:3px solid #020b10;margin-bottom:3px}
+.berserkr.generator .class-choice strong{font-family:Impact,'Arial Narrow',sans-serif;font-weight:700;font-size:13px;letter-spacing:.5px;color:#f4e5c4}
+.berserkr.generator .class-choice small{color:#bdcfc8}
+.berserkr.generator .wizard-body .class-choice.selected{outline:3px solid var(--theme-accent);outline-offset:-3px;background:#14333b;border-color:var(--theme-accent)}
+.berserkr.generator .wizard-body .class-choice.selected strong{color:var(--theme-accent)}
+.berserkr.generator .class-intro{background:#102a32;border-left:4px solid var(--theme-accent);gap:18px}
+.berserkr.generator .class-intro-art{border:3px solid #020b10;box-shadow:4px 4px 0 #031016}
+.berserkr.generator .wizard-body button{border-radius:0;border:2px solid #010c12;background:#1b3942;color:#f0e2c2;box-shadow:2px 2px 0 #010c12;font-weight:600}
+.berserkr.generator .wizard-body button:hover{background:#254e59;border-color:var(--theme-accent)}
+.berserkr.generator .wizard-body .skill-choice{background:#eadfca;border:2px solid #030e13;border-left:5px solid #bb344f;color:#13262d;padding:17px;gap:10px;box-shadow:3px 3px 0 #020c11}
+.berserkr.generator .skill-choice strong{color:#12232c;font-family:Impact,'Arial Narrow',sans-serif;font-size:17px;letter-spacing:.5px;line-height:1.35}
+.berserkr.generator .skill-choice small{color:#22323a;font-size:12px;line-height:1.7}
+.berserkr.generator .wizard-body .skill-choice.selected{background:#f5e7c8;color:#13262d;border-color:var(--theme-accent);outline:2px solid var(--theme-accent);border-left-color:var(--theme-accent)}
+.berserkr.generator .attribute-row,.berserkr.generator .resource-row{background:#eadfca;color:#12242d;padding:14px 12px;margin:0 0 9px;border:2px solid #020e13;box-shadow:2px 2px 0 #020e13}
+.berserkr.generator .attribute-row>strong{background:none;padding:0;color:#12242d;font-family:Impact,'Arial Narrow',sans-serif;font-size:16px;letter-spacing:.5px}
+.berserkr.generator .resource-row strong{font-family:Impact,'Arial Narrow',sans-serif;font-size:16px;letter-spacing:.5px}
+.berserkr.generator .resource-row b{color:#9b2944;font-family:Impact,'Arial Narrow',sans-serif;font-size:24px}
+.berserkr.generator .wizard-body input,.berserkr.generator .wizard-body select,.berserkr.generator .wizard-body textarea{border:2px solid #010e14;border-radius:0;background:#eadfca;color:#12242d;box-shadow:3px 3px 0 #010e14;min-height:44px}
+.berserkr.generator .wizard-body select option{background:#eadfca;color:#12242d}
+.berserkr.generator .wizard-body label{font-size:12px;color:#f0dfbf;letter-spacing:.3px;gap:9px}
+.berserkr.generator .wizard-saga{border:3px solid #020d13;background:#071b23;box-shadow:3px 3px 0 #010b10;min-height:96px}
+.berserkr.generator .wizard-saga>img:first-child{height:96px;border-right:3px solid #010c12}
+.berserkr.generator .wizard-saga .saga-emblem{display:none}
+.berserkr.generator .wizard-saga strong{color:var(--theme-accent)}
+.berserkr.generator .generator-controls{border-image:none;border-top:3px solid #030f16;padding-top:14px}
+.berserkr.generator .generator-controls button{min-height:44px;padding:10px 18px;font-size:13px;letter-spacing:.5px}
+.berserkr.generator .generator-controls button[data-action=next],.berserkr.generator .generator-controls button[data-action=finish]{background:var(--theme-accent);color:#04141b;border:2px solid #020b11;box-shadow:3px 3px 0 #010910;border-radius:0}
+.berserkr.generator .wizard-save-note{color:#d1d8ca}
+@container(max-width:700px){.berserkr.generator .wizard-header>div{max-width:78%}.berserkr.generator .wizard-header h2{font-size:27px}.berserkr.generator .wizard-header{padding:17px;min-height:120px}.berserkr.generator .wizard-track li{padding:8px 3px}.berserkr.generator .class-intro{grid-template-columns:110px minmax(0,1fr)}}
+@container(max-width:440px){.berserkr.generator .wizard-header>div{max-width:100%}.berserkr.generator .wizard-header-art{opacity:.4;width:65%}.berserkr.generator .wizard-header::before{background:linear-gradient(90deg,#030f15,#030f1580)}.berserkr.generator .wizard-header h2{font-size:24px}.berserkr.generator .class-intro{grid-template-columns:1fr}.berserkr.generator .wizard-panel{padding:14px}}
+/* Keep portrait positioning independent of generic header image sizing. */
+.berserkr.generator .wizard-header>img.wizard-header-art{position:absolute;right:0;top:0;width:45%;height:100%;max-width:none;object-fit:cover;object-position:center 30%;z-index:-2}
+.berserkr.generator .wizard-body{background:linear-gradient(#061b2499,#061b24b8),url('../assets/generator/ink-texture.png') center/cover}
+.berserkr.generator .generator-controls{background:#071923ee;padding:14px 12px 10px;border:2px solid #010b11}
+@container(max-width:440px){.berserkr.generator .wizard-header>img.wizard-header-art{width:65%;opacity:.4}}

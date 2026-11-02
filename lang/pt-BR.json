@@ -1,0 +1,16 @@
+{
+  "TYPES": {
+    "Actor": {
+      "character": "Personagem",
+      "creature": "Criatura"
+    },
+    "Item": {
+      "weapon": "Arma",
+      "armor": "Armadura",
+      "rune": "Runa",
+      "ability": "Habilidade",
+      "equipment": "Equipamento",
+      "class": "Classe"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "de638536d9d1a03f",
+  "name": "Valquíria",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-valquiria.png",
+  "system": {
+    "description": "Classe de Asgard.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Voo. Pode voar. Ao final de cada rodada, role d6; com 1, precisa pousar por d4 rodadas.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 48 (páginas impressas 94–95).",
+    "realm": "Asgard",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 5,
+      "forca": 4,
+      "astucia": 1,
+      "agilidade": 3,
+      "esperteza": 2
+    },
+    "hpFormula": "@attributes.fortitude + 1d8",
+    "destinyFormula": "1d3",
+    "startingEquipment": "Armadura Divina (categoria 4); Lança da Valquíria (d10); Espada da Valquíria (d8); d4 comida; d4 água; 3d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.ae3b4b2b041e8a10",
+      "Compendium.berserkr-rpg.abilities.b377338947785fde",
+      "Compendium.berserkr-rpg.abilities.44d59b4d9ee359a9",
+      "Compendium.berserkr-rpg.abilities.af959182b0967733",
+      "Compendium.berserkr-rpg.abilities.049cad5ba00f7f3f",
+      "Compendium.berserkr-rpg.abilities.9dd5742970553e22",
+      "Compendium.berserkr-rpg.abilities.3d963e57125bf9a5"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "f0f6091f30c968d3",
+  "_key": "!items!de638536d9d1a03f"
+}

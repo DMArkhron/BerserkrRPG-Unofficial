@@ -1,0 +1,39 @@
+{
+  "_id": "d0bfa07c23ad1b0a",
+  "name": "Ingwaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/d0bfa07c23ad1b0a.png",
+  "system": {
+    "description": "ᛝ — Ingwaz\n\nFeitiço\nFaça qualquer criatura que você consegue ver ficar grávida.\n\nInscrição em arma ou armadura\nAdicione +4 de bônus no seu próximo Teste que não seja de combate.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Faça qualquer criatura que você consegue ver ficar grávida.",
+    "inscription": "Adicione +4 de bônus no seu próximo Teste que não seja de combate.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!d0bfa07c23ad1b0a"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "083b786b26b3cd62",
+  "name": "A Barganha de Hel — Pastor de Almas",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/083b786b26b3cd62.png",
+  "system": {
+    "description": "Uma vez na vida, quando um aliado morrer, Fortitude CD14: ressuscite-o ao custo de apagar todas as histórias da Saga salvo uma. Não funciona se Hel estiver morta.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 55 (páginas impressas 108–109).",
+    "realm": "Helheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "e2bfb7a789095b6b",
+  "_key": "!items!083b786b26b3cd62"
+}

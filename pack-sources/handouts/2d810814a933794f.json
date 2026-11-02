@@ -1,0 +1,28 @@
+{
+  "_id": "2d810814a933794f",
+  "name": "Wargr",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "72acad62eecb3ae2",
+      "name": "Wargr",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/wargr.webp\" alt=\"Wargr\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Wargr</h2><p>Predador de Midgard que caça em matilha. Seus uivos anunciam a aproximação de uma emboscada coordenada e implacável.</p><p><strong>Reino:</strong> Midgard</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.0c4b2a3144402ea0]{Ficha de Wargr}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!2d810814a933794f.72acad62eecb3ae2"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.0c4b2a3144402ea0"
+    }
+  },
+  "_key": "!journal!2d810814a933794f"
+}

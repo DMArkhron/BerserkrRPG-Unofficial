@@ -1,0 +1,39 @@
+{
+  "_id": "6f1bb54882e79e6c",
+  "name": "Eihwaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/6f1bb54882e79e6c.png",
+  "system": {
+    "description": "ᛇ — Eihwaz\n\nFeitiço\nReduza em −2 todo o dano recebido por você ou por um aliado por d4 rodadas.\n\nInscrição em arma ou armadura\nFique imóvel por d4 rodadas, reduzindo todo o dano sofrido pela metade. Você não pode se mover durante esse período, mas ainda pode agir.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Reduza em −2 todo o dano recebido por você ou por um aliado por d4 rodadas.",
+    "inscription": "Fique imóvel por d4 rodadas, reduzindo todo o dano sofrido pela metade. Você não pode se mover durante esse período, mas ainda pode agir.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6f1bb54882e79e6c"
+}

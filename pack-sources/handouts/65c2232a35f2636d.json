@@ -1,0 +1,28 @@
+{
+  "_id": "65c2232a35f2636d",
+  "name": "Eirwyn",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "00259b13c1e0223f",
+      "name": "Eirwyn",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/eirwyn.webp\" alt=\"Eirwyn\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Eirwyn</h2><p>Última guardiã dos portais de Alfheim. Julga aqueles que desejam atravessá-los e protege o reino contra os horrores vindos de além.</p><p><strong>Reino:</strong> Alfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.5efecc17afa5c29f]{Ficha de Eirwyn}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!65c2232a35f2636d.00259b13c1e0223f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.5efecc17afa5c29f"
+    }
+  },
+  "_key": "!journal!65c2232a35f2636d"
+}

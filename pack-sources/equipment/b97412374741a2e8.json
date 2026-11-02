@@ -1,0 +1,40 @@
+{
+  "_id": "b97412374741a2e8",
+  "name": "Manto de Pele",
+  "type": "armor",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/b97412374741a2e8.png",
+  "system": {
+    "description": "Categoria 2. Reduz o dano em 1d2.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 20,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 2,
+    "reduction": "1d2",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "db9d741f805026ce",
+  "_key": "!items!b97412374741a2e8"
+}

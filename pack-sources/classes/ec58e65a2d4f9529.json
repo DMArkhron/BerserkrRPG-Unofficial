@@ -1,0 +1,48 @@
+{
+  "_id": "ec58e65a2d4f9529",
+  "name": "Pastor de Almas",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-almas.png",
+  "system": {
+    "description": "Classe de Helheim.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Conversar com um Condenado. Pode conversar por até um minuto com alguém que acabou de morrer.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 55 (páginas impressas 108–109).",
+    "realm": "Helheim",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 4,
+      "forca": 3,
+      "astucia": 2,
+      "agilidade": 5,
+      "esperteza": 1
+    },
+    "hpFormula": "@attributes.fortitude + 1d8",
+    "destinyFormula": "1d3",
+    "startingEquipment": "Manto das Almas Esquecidas (invisibilidade nas sombras uma vez por dia, d4 rodadas); Cajado da Morte (d8); d4 comida; d4 água; d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.7f2ec7e08769a2ee",
+      "Compendium.berserkr-rpg.abilities.5bd024cb1d8f3385",
+      "Compendium.berserkr-rpg.abilities.06b4defff5db7676",
+      "Compendium.berserkr-rpg.abilities.54e18dc75c686e00",
+      "Compendium.berserkr-rpg.abilities.61de817a0efbdba8",
+      "Compendium.berserkr-rpg.abilities.bc87a8cef86eff4c",
+      "Compendium.berserkr-rpg.abilities.083b786b26b3cd62"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "6e38669bf9a3ee8b",
+  "_key": "!items!ec58e65a2d4f9529"
+}

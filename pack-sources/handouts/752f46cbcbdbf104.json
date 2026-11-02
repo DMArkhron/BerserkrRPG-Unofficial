@@ -1,0 +1,28 @@
+{
+  "_id": "752f46cbcbdbf104",
+  "name": "Fafnir",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "5508abdc392b8a4d",
+      "name": "Fafnir",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/fafnir.webp\" alt=\"Fafnir\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Fafnir</h2><p>Dragão de Svartalfheim consumido pela ganância. Guarda um tesouro que amplifica a cobiça de quem se aproxima.</p><p><strong>Reino:</strong> Svartalfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.16951039c8aa7544]{Ficha de Fafnir}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!752f46cbcbdbf104.5508abdc392b8a4d"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.16951039c8aa7544"
+    }
+  },
+  "_key": "!journal!752f46cbcbdbf104"
+}

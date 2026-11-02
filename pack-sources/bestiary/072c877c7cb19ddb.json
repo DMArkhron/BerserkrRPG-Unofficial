@@ -1,0 +1,130 @@
+{
+  "_id": "072c877c7cb19ddb",
+  "name": "Dökkálfar",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/dokkalfar.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 5,
+      "max": 5
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Svartalfheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 32 (páginas impressas 62–63).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "4dcaa38a9b888e76",
+      "name": "Explosão de Sombras — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Dökkálfar. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 32 (páginas impressas 62–63).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!072c877c7cb19ddb.4dcaa38a9b888e76"
+    },
+    {
+      "_id": "e71a3fd5aa6bbb8f",
+      "name": "Labirinto Mental",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Alvo testa Esperteza CD12 ou sofre −1 em todos os Testes por distorção da percepção.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 32 (páginas impressas 62–63).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!072c877c7cb19ddb.e71a3fd5aa6bbb8f"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Dökkálfar",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/dokkalfar.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.5ed2913fccfed920"
+    }
+  },
+  "folder": "482a35982dbaf29e",
+  "_key": "!actors!072c877c7cb19ddb"
+}

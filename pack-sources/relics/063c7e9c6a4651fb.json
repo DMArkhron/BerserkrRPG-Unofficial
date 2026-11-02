@@ -1,0 +1,39 @@
+{
+  "_id": "063c7e9c6a4651fb",
+  "name": "Espada Enferrujada",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/063c7e9c6a4651fb.png",
+  "system": {
+    "description": "d10 de dano, ignora armadura. Ao atacar, Fortitude CD12 ou sofre d4 de dano.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d10",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!063c7e9c6a4651fb"
+}

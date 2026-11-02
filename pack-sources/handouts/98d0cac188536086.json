@@ -1,0 +1,28 @@
+{
+  "_id": "98d0cac188536086",
+  "name": "Besouro Infernal",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "c7b48686529b0b82",
+      "name": "Besouro Infernal",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/besouro-infernal.webp\" alt=\"Besouro Infernal\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Besouro Infernal</h2><p>Inseto das terras ardentes de Muspelheim, protegido por uma carapaça resistente ao calor. Emerge do solo para atacar com ácido abrasador.</p><p><strong>Reino:</strong> Muspelheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.8d8f36c03dc7fa64]{Ficha de Besouro Infernal}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!98d0cac188536086.c7b48686529b0b82"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.8d8f36c03dc7fa64"
+    }
+  },
+  "_key": "!journal!98d0cac188536086"
+}

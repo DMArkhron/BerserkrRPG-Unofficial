@@ -1,0 +1,39 @@
+{
+  "_id": "5f2fc3f4906fa8a5",
+  "name": "Anel de Osso",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/5f2fc3f4906fa8a5.png",
+  "system": {
+    "description": "Cada amanhecer drena 1PV até ser removido. Esperteza CD16 para remover.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!5f2fc3f4906fa8a5"
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "910fb77c5878ee7d",
+  "name": "Berserkr",
+  "type": "class",
+  "img": "systems/berserkr-rpg/assets/icons-ink/class-berserkr.png",
+  "system": {
+    "description": "Classe de Midgard.\n\nOs bônus abaixo são somados às rolagens de 3d6 na criação. Converta o total usando a tabela de atributos; não some estes valores diretamente aos Testes.\n\nCaracterística do reino: Fúria dos Homens. Ao desferir o golpe final em um inimigo, recupere 1PV.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 47 (páginas impressas 92–93).",
+    "realm": "Midgard",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 4,
+      "forca": 5,
+      "astucia": 2,
+      "agilidade": 3,
+      "esperteza": 1
+    },
+    "hpFormula": "@attributes.fortitude + 1d10",
+    "destinyFormula": "1d2",
+    "startingEquipment": "Machado de Guerra Pesado (d8); d4 comida; d4 água; 2d6×10‡.",
+    "featureRefs": [
+      "Compendium.berserkr-rpg.abilities.cf1984288e8e6db6",
+      "Compendium.berserkr-rpg.abilities.d492b97a1a649f81",
+      "Compendium.berserkr-rpg.abilities.dcce98133ac87a8e",
+      "Compendium.berserkr-rpg.abilities.26f68e143ad4eff1",
+      "Compendium.berserkr-rpg.abilities.1b874e3476d99941",
+      "Compendium.berserkr-rpg.abilities.5becf3a1ef8953a5",
+      "Compendium.berserkr-rpg.abilities.23ab58d8151e9bd4"
+    ]
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "a968129b82d48238",
+  "_key": "!items!910fb77c5878ee7d"
+}

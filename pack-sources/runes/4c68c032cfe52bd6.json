@@ -1,0 +1,39 @@
+{
+  "_id": "4c68c032cfe52bd6",
+  "name": "Ansuz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/4c68c032cfe52bd6.png",
+  "system": {
+    "description": "ᚫ — Ansuz\n\nFeitiço\nInvoque a sabedoria das Nornas para obter uma resposta verdadeira para uma pergunta ou problema.\n\nInscrição em arma ou armadura\nObrigue um inimigo a seguir uma ordem simples.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Invoque a sabedoria das Nornas para obter uma resposta verdadeira para uma pergunta ou problema.",
+    "inscription": "Obrigue um inimigo a seguir uma ordem simples.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4c68c032cfe52bd6"
+}

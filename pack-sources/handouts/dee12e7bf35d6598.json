@@ -1,0 +1,28 @@
+{
+  "_id": "dee12e7bf35d6598",
+  "name": "Dvalin",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "3a585d2e451839f8",
+      "name": "Dvalin",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/dvalin.webp\" alt=\"Dvalin\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Dvalin</h2><p>Antigo mestre artesão que forjou Brísingamen para Freyja. Uma maldição deformou seu corpo e sua mente, tornando-o um gênio caído de Svartalfheim.</p><p><strong>Reino:</strong> Svartalfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.b35618674f096872]{Ficha de Dvalin}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!dee12e7bf35d6598.3a585d2e451839f8"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.b35618674f096872"
+    }
+  },
+  "_key": "!journal!dee12e7bf35d6598"
+}

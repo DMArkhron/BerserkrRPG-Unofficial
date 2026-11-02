@@ -1,0 +1,39 @@
+{
+  "_id": "a6d02f045d8b5a5b",
+  "name": "Dagaz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/a6d02f045d8b5a5b.png",
+  "system": {
+    "description": "ᛞ — Dagaz\n\nFeitiço\nA criatura-alvo não conseguirá dormir por d4 dias.\n\nInscrição em arma ou armadura\nDesperte o potencial de uma arma. Na próxima rodada, a arma causa 2d6 de dano adicional.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "A criatura-alvo não conseguirá dormir por d4 dias.",
+    "inscription": "Desperte o potencial de uma arma. Na próxima rodada, a arma causa 2d6 de dano adicional.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!a6d02f045d8b5a5b"
+}

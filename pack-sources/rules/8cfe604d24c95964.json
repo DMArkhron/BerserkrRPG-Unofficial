@@ -1,0 +1,22 @@
+{
+  "_id": "8cfe604d24c95964",
+  "name": "Armaduras, carga e reparos",
+  "pages": [
+    {
+      "_id": "d0eb81e7c22d4dea",
+      "name": "Armaduras, carga e reparos",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h2>Armaduras, carga e reparos</h2><p>Categoria 1: sem armadura. Categoria 2: redução d2. Categoria 3: redução d4, Agilidade +2CD, defesa +2CD. Categoria 4: redução d6, Agilidade +4CD, defesa +2CD.</p><p>Capacidade normal: Força + 8 itens. Acima dela, Força e Agilidade +2CD. Não pode carregar mais que o dobro.</p><p>Reparo 1→2: 100‡ e 1 dia. Reparo 2→3: 200‡ e 2 dias. Não pode reparar acima da categoria original; ferreiro pode aprimorar.</p><p><em>Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).</em></p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!8cfe604d24c95964.d0eb81e7c22d4dea"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!8cfe604d24c95964",
+  "categories": []
+}

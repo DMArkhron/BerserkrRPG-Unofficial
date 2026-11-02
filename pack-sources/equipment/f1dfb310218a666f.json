@@ -1,0 +1,40 @@
+{
+  "_id": "f1dfb310218a666f",
+  "name": "Couraça de Couro Rebitado",
+  "type": "armor",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/f1dfb310218a666f.png",
+  "system": {
+    "description": "Categoria 3. Reduz o dano em 1d4. Testes de Agilidade: +2CD. Defesa: +2CD.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 100,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 3,
+    "reduction": "1d4",
+    "agilityPenalty": 2,
+    "source": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "db9d741f805026ce",
+  "_key": "!items!f1dfb310218a666f"
+}

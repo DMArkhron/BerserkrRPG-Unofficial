@@ -1,0 +1,165 @@
+{
+  "_id": "9e212c051e7488d1",
+  "name": "Geirrod",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/geirrod.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 22,
+      "max": 22
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Jötunheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Jötunheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "6d2506550cf156ee",
+      "name": "Armadilha de Urso — distância",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Geirrod. Inimigo nomeado de Jötunheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d4",
+        "attribute": "astucia",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!9e212c051e7488d1.6d2506550cf156ee"
+    },
+    {
+      "_id": "9a9fde849ec24d5c",
+      "name": "Proteção de Geirrod",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d2",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!9e212c051e7488d1.9a9fde849ec24d5c"
+    },
+    {
+      "_id": "61c9ec89148e8a06",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "O gigante das O gigante das sombras e das sombras e das trapaças. Alto e trapaças. Alto e cinzento como as cinzento como as\n\npedras entre as pedras entre as quais se esconde, quais se esconde,\n\nele aguarda, sem ele aguarda, sem ser visto, sempre ser visto, sempre pronto para atacar. pronto para atacar. Geirrod não luta com Geirrod não luta com\n\nos punhos — ele luta os punhos — ele luta com astúcia, usando com astúcia, usando\n\narmadilhas tão armadilhas tão engenhosas que até engenhosas que até mesmo Thor precisa mesmo Thor precisa\n\npensar duas vezes. pensar duas vezes.\n\nPV\n\nCOVIL DE ARMADILHAS\n\nSOMBRA NAS ROCHAS\n\nARMADILHA DE URSO\n\nARMADILHA-MESTRA DE GERRIOD\n\nMANTO DO JÖTUNN\n\nO domínio de Geirrod está repleto de armadilhas engenhosas que se camuflam na paisagem natural. Enquanto o grupo explora o covil, eles precisam Testar Agilidade CD14 para evitar acionar armadilhas escondidas. Falhar no Teste faz com que sofram d4 de dano conforme rochas caem, buracos se abrem ou pontas perfurantes ocultas surgem.\n\nEsta armadilha de uso único é quase impossível de ser detectada pelos Jötnar; se o alvo for pego por ela, sofre d12+3 de dano e não pode se mover durante a próxima rodada.\n\nGeirrod domina a arte da emboscada. Uma vez por encontro, ele pode desaparecer nas formações rochosas, não podendo ser alvo de nada por uma rodada. Ao reaparecer, o próximo ataque dele com a armadilha de urso recebe +2CD na defesa, pegando seus oponentes desprevenidos.\n\nd4 distância\n\n–d2\n\nAs próprias montanhas As próprias montanhas\n\nparecem curvar-se parecem curvar-se à sua vontade, cada à sua vontade, cada rocha e fenda é uma rocha e fenda é uma\n\narma em suas mãos. arma em suas mãos. Ao enfrentar Geirrod, Ao enfrentar Geirrod,\n\nvocê não estará você não estará apenas enfrentando apenas enfrentando um gigante — e sim a um gigante — e sim a\n\nprópria terra. própria terra.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 25 (páginas impressas 48–49).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!9e212c051e7488d1.61c9ec89148e8a06"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Geirrod",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/geirrod.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.00c99f5eee55e6c1"
+    }
+  },
+  "folder": "eca273978e2ab80a",
+  "_key": "!actors!9e212c051e7488d1"
+}

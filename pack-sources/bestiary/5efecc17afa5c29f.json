@@ -1,0 +1,165 @@
+{
+  "_id": "5efecc17afa5c29f",
+  "name": "Eirwyn",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/eirwyn.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 24,
+      "max": 24
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Alfheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Alfheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "2b8d71d2f5c1232b",
+      "name": "Martelo de Guerra da Guardiã",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Eirwyn. Inimigo nomeado de Alfheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!5efecc17afa5c29f.2b8d71d2f5c1232b"
+    },
+    {
+      "_id": "6023c8cffc43ed20",
+      "name": "Proteção de Eirwyn",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!5efecc17afa5c29f.6023c8cffc43ed20"
+    },
+    {
+      "_id": "871e92cf301f5aa0",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Eirwyn — fria como a geada que penetra até os ossos, pura como a neve intocada no topo de uma montanha. Ela não só guarda os portais; ela é o portal — a última linha de defesa entre Alfheim e quaisquer horrores que espreitam além.\n\nQuando um inimigo atingir Eirwyn, ela automaticamente contraataca com um golpe retaliatório, causando d6 de dano ao atacante. Essa habilidade pode ser ativada uma vez por rodada.\n\nDiga um nome e um reino uma única vez. A pessoa escolhida não poderá entrar nesse reino por d6 dias.\n\nEirwyn pode criar uma barreira mágica que impede qualquer inimigo de entrar em Alfheim sem a sua permissão. Os inimigos precisam Testar Força CD16 para ultrapassar a barreira, ou serão repelidos à força, sofrendo d4 de dano.\n\nEirwyn já viu de tudo — todos os desafios, todos os potenciais invasores —, mas isso não muda nada para ela.\n\nPV\n\nMartelo de Guerra da Guardiã\n\nArmadura Pesada de Alfheim\n\nA Retribuição da Guardiã\n\nA Fechadura da Guardiã\n\nLimiar Inflexível\n\nd10+3\n\n–d3",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 29 (páginas impressas 56–57).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!5efecc17afa5c29f.871e92cf301f5aa0"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Eirwyn",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/eirwyn.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.65c2232a35f2636d"
+    }
+  },
+  "folder": "8514cb292f74651b",
+  "_key": "!actors!5efecc17afa5c29f"
+}

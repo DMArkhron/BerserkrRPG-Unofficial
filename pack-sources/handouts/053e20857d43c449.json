@@ -1,0 +1,28 @@
+{
+  "_id": "053e20857d43c449",
+  "name": "Heimdall",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "9235bd836919444b",
+      "name": "Heimdall",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/heimdall.webp\" alt=\"Heimdall\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Heimdall</h2><p>Guardião da Bifrost, vigilante das passagens entre os reinos. Permanece atento às ameaças que anunciam a batalha final.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.e0d2a006d446fe75]{Ficha de Heimdall}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!053e20857d43c449.9235bd836919444b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.e0d2a006d446fe75"
+    }
+  },
+  "_key": "!journal!053e20857d43c449"
+}

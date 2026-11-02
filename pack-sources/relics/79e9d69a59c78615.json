@@ -1,0 +1,39 @@
+{
+  "_id": "79e9d69a59c78615",
+  "name": "Mjölnir",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/79e9d69a59c78615.png",
+  "system": {
+    "description": "O Mjölnir é o lendário martelo de Thor, o deus do trovão, conhecido por sua força implacável e sua capacidade de evocar o poder das tempestades. Forjado pelos anões Brokkr e Eitri, dizem que essa é uma das armas mais poderosas que existem, capaz de romper qualquer defesa e retornar à mão do seu mestre.\n\n1 Thor percebeu que alguém está empunhando sua arma sagrada. Ele confronta o portador, exigindo uma prova de força e honra para reafirmar seu valor.\n\n2 Os Jötnar descobriram que o Mjölnir caiu nas mãos de um mortal e enviaram um grupo de gigantes de gelo para recuperar a arma, determinados a vingar suas inúmeras derrotas pelo martelo de Thor.\n\n3 Os anões Brokkr e Sindri exigem a devolução do Mjölnir, acreditando que ninguém é digno de empunhar sua criação, exceto Thor. Eles enviam um emissário, e lançam um desafio: derrotá-los em uma competição de forja ou enfrentar sua ira.\n\n4 O uso descontrolado do Mjölnir atrai a atenção de Odin, que adverte o portador de que tal poder acarreta grande responsabilidade. Se o usuário continuar a abusar das habilidades da arma, poderá enfrentar consequências severas.\n\n5 Outro poderoso guerreiro busca reivindicar o Mjölnir para si, acreditando ser o verdadeiro herdeiro do poder de Thor. Ele não vai parar por nada até derrotar o portador atual e tomar o martelo para si.\n\n6 Thor envia uma Valquíria para oferecer sua benção a quem usar o Mjölnir para completar uma missão sagrada em seu nome. Ao ser bem-sucedido, o portador adquire imunidade a dano elétrico.\n\nSomente pessoas de poder extraordinário podem sonhar em empunhá-lo, e conseguir esse feito torna o portador um alvo tanto dos deuses quanto dos gigantes.\n\nd12+4 corpo a corpo/distância\n\nd6\n\n(retorna sempre à mão do portador)\n\nTROVOADA\n\nGANCHOS DE MISSÃO\n\nO MARTELO DOS DEUSES\n\nARAUTO DA TEMPESTADE\n\nMjölnir convoca a fúria da tempestade para desferir um golpe poderoso e trovejante, cheio de raios. Com um ataque bemsucedido, Mjölnir causa d6 de dano elétrico adicional. Obtendo um acerto crítico, os raios atingem os inimigos próximos, causando d6 de dano elétrico neles também.\n\nA força da tempestade percorre o Mjölnir, criando uma onda de choque devastadora. O portador golpeia o Mjölnir contra o chão, liberando uma onda de choque que faz todos os inimigos próximos caírem prostrados. Eles precisam Testar Fortitude CD14 para não sofrerem 2d8 de dano devido ao impacto e ao estrondo.\n\nO verdadeiro poder do Mjölnir reside em sua capacidade de convocar tempestades ao comando do portador. Uma vez por dia, o portador pode invocar uma tempestade que dura d6 rodadas. Durante esse período, ele recebe +2 em todos os ataques, e raios caem aleatoriamente pelo campo de batalha, causando d8 de dano elétrico em um inimigo por rodada (à escolha do mestre).\n\na cada rodada\n\numa vez por combate\n\numa vez por dia",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d12+4",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 105 (páginas impressas 208–209).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!79e9d69a59c78615"
+}

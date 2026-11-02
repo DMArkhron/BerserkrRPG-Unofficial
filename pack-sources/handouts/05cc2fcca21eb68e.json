@@ -1,0 +1,28 @@
+{
+  "_id": "05cc2fcca21eb68e",
+  "name": "Verme da Areia",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "09715d7811ef3de6",
+      "name": "Verme da Areia",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/verme-da-areia.webp\" alt=\"Verme da Areia\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Verme da Areia</h2><p>Monstro colossal que escava as dunas de Alfheim. Sente as vibrações da areia e emerge de surpresa para engolir suas presas.</p><p><strong>Reino:</strong> Alfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.b6595aae470732a9]{Ficha de Verme da Areia}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!05cc2fcca21eb68e.09715d7811ef3de6"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.b6595aae470732a9"
+    }
+  },
+  "_key": "!journal!05cc2fcca21eb68e"
+}

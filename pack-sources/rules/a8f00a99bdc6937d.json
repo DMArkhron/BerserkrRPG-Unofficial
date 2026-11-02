@@ -1,0 +1,22 @@
+{
+  "_id": "a8f00a99bdc6937d",
+  "name": "Usando os compêndios",
+  "pages": [
+    {
+      "_id": "838d60526f7874a9",
+      "name": "Usando os compêndios",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h2>Usando os compêndios</h2><p>Arraste classes, habilidades, Runas e equipamentos para a ficha. A classe é uma referência com bônus de criação, fórmulas e equipamento; ela não rola atributos nem aplica os bônus finais automaticamente.</p><p>O bestiário já traz PV, proteção, ataques e poderes. Ataques alternativos de armas variadas são opções: use apenas a arma sorteada, conforme a habilidade.</p><p>Ataques, redução de dano, condições e fases de chefes ainda têm resolução manual. O botão Dano rola a fórmula cadastrada; o botão Chat apresenta a descrição.</p><p>Entradas nomeadas e chefes preservam suas regras próprias, inclusive termos inconsistentes do livro, sem inventar uma regra oficial.</p><p><em>Berserkr — Livro Básico, PDF p. 46 (páginas impressas 90–91).</em></p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!a8f00a99bdc6937d.838d60526f7874a9"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!journal!a8f00a99bdc6937d",
+  "categories": []
+}

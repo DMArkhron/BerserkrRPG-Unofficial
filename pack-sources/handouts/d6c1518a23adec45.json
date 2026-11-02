@@ -1,0 +1,28 @@
+{
+  "_id": "d6c1518a23adec45",
+  "name": "Escorpião do Deserto",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "798efa4f1f0933fb",
+      "name": "Escorpião do Deserto",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/escorpiao-do-deserto.webp\" alt=\"Escorpião do Deserto\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Escorpião do Deserto</h2><p>Predador das areias de Alfheim, protegido por placas de quitina. Suas pinças e seu ferrão tornam a travessia das dunas ainda mais perigosa.</p><p><strong>Reino:</strong> Alfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.6e92a275e4d2eab5]{Ficha de Escorpião do Deserto}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!d6c1518a23adec45.798efa4f1f0933fb"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.6e92a275e4d2eab5"
+    }
+  },
+  "_key": "!journal!d6c1518a23adec45"
+}

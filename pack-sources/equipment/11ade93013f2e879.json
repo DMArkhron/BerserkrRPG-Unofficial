@@ -1,0 +1,40 @@
+{
+  "_id": "11ade93013f2e879",
+  "name": "Jarro de Camarinhas em Conserva",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/11ade93013f2e879.png",
+  "system": {
+    "description": "d6 punhados; cada uso restaura d4PV.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 150,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!11ade93013f2e879"
+}

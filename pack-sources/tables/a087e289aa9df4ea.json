@@ -1,0 +1,67 @@
+{
+  "_id": "a087e289aa9df4ea",
+  "name": "Categoria da armadura inicial",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "09360aeea1a35e2b",
+      "type": 0,
+      "text": "Categoria 1: Sem Armadura",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!a087e289aa9df4ea.09360aeea1a35e2b"
+    },
+    {
+      "_id": "0e11b1a23cfa1804",
+      "type": 0,
+      "text": "Categoria 2: Gibão de Couro Gasto, Manto de Pele, Gibão Acolchoado",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!a087e289aa9df4ea.0e11b1a23cfa1804"
+    },
+    {
+      "_id": "1b3d95499c175961",
+      "type": 0,
+      "text": "Categoria 3: Couraça de Couro Rebitado, Loriga de Malha, Armadura de Escamas",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!a087e289aa9df4ea.1b3d95499c175961"
+    },
+    {
+      "_id": "182c7a8e8d7647d4",
+      "type": 0,
+      "text": "Categoria 4: Couraça Lamelar, Loriga de Placas",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!a087e289aa9df4ea.182c7a8e8d7647d4"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!a087e289aa9df4ea"
+}

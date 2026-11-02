@@ -1,0 +1,165 @@
+{
+  "_id": "0eee434e5a27d14b",
+  "name": "Náir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/nair.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 26,
+      "max": 26
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Helheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Helheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "c38588b5740d175d",
+      "name": "Toque Necrótico",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Náir. Inimigo nomeado de Helheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!0eee434e5a27d14b.c38588b5740d175d"
+    },
+    {
+      "_id": "d6e23d45616f3fb7",
+      "name": "Proteção de Náir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!0eee434e5a27d14b.d6e23d45616f3fb7"
+    },
+    {
+      "_id": "64b8bf354d93f26e",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "são abominações imponentes da decadência, nascidas dos mortos inquietos que jamais conseguiram encontrar descanso. Eles não são apenas governantes; são a personificação física do ressentimento, da inveja e da amargura corrosiva que se alastra nos corações dos esquecidos.\n\nPV\n\nAmálgama\n\nde CadávereS\n\nToquE necrótico\n\n–d3\n\nd6+3\n\nAura da Decadência Todos os que estiverem perto do Náir precisam Testar Força CD12 a cada rodada para não perder 2PV, pois o frio e a decomposição drenam sua força. Toda criatura que morrer dentro dessa aura se torna um cadáver reanimado sob o controle do Náir pelo restante do encontro.\n\nToque da Inveja Uma vez por rodada, o Náir pode estender a mão em direção a um inimigo, forçando-o a Testar Esperteza CD14. Falhar resulta em perder um item de valor (arma, Bugiganga ou Runa), que se desintegra em pó.\n\nA Servidão dos Náir Obtenha um Seguidor Cadáver Esquelético (d10PV, pode empunhar armas, faz Testes sem Se for derrotado ele pode ser ressuscitado se você riscar um conto da sua Saga\n\nSeus corpos são uma grotesca colcha de retalhos de carne em decomposição e ossos quebradiços.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 45 (páginas impressas 88–89).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!0eee434e5a27d14b.64b8bf354d93f26e"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Náir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/nair.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.00015d4e985f0323"
+    }
+  },
+  "folder": "e3f642b432d74c86",
+  "_key": "!actors!0eee434e5a27d14b"
+}

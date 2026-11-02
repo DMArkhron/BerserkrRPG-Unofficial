@@ -1,0 +1,39 @@
+{
+  "_id": "683e4c80e0f9f7a7",
+  "name": "Laguz",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/683e4c80e0f9f7a7.png",
+  "system": {
+    "description": "ᛚ — Laguz\n\nFeitiço\nEvoque uma poderosa onda de água, causando d8 de dano a todos que estiverem no caminho, derrubando-os prostrados. Isso também causa o dobro de dano contra inimigos baseados em fogo.\n\nInscrição em arma ou armadura\nUma aura tranquilizante o envolve. Cure-se d4PV a cada rodada por d4 rodadas. Isso também cura todas as condições.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "Evoque uma poderosa onda de água, causando d8 de dano a todos que estiverem no caminho, derrubando-os prostrados. Isso também causa o dobro de dano contra inimigos baseados em fogo.",
+    "inscription": "Uma aura tranquilizante o envolve. Cure-se d4PV a cada rodada por d4 rodadas. Isso também cura todas as condições.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!683e4c80e0f9f7a7"
+}

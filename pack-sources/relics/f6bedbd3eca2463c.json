@@ -1,0 +1,39 @@
+{
+  "_id": "f6bedbd3eca2463c",
+  "name": "Adaga da Traição",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/f6bedbd3eca2463c.png",
+  "system": {
+    "description": "2d6 de dano. Quando causar dano, companheiros testam Esperteza CD14 para não suspeitar de traição.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "2d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 2 (páginas impressas 2–3).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!f6bedbd3eca2463c"
+}

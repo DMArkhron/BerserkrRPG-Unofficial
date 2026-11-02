@@ -1,0 +1,130 @@
+{
+  "_id": "d7e60db386543415",
+  "name": "Aparição Gélida",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/aparicao-gelida.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "",
+    "saga": "",
+    "className": "",
+    "realm": "Niflheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "b5f65faceaad823e",
+      "name": "Toque Congelante",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Aparição Gélida. ",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d7e60db386543415.b5f65faceaad823e"
+    },
+    {
+      "_id": "ca3d66a2e3d811b6",
+      "name": "Incorpóreo",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Ignora ataques físicos salvo armas inscritas com Runas ou fogo.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 36 (páginas impressas 70–71).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!d7e60db386543415.ca3d66a2e3d811b6"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Aparição Gélida",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/aparicao-gelida.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.902f8a3fd63df375"
+    }
+  },
+  "folder": "48b0cdddf0500c1e",
+  "_key": "!actors!d7e60db386543415"
+}

@@ -1,0 +1,275 @@
+{
+  "_id": "5a4a12d3bd43b7f9",
+  "name": "Arma inicial",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "ef83296abccf7e88",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.3543cd728351a23d]{Machado Forjado em Sangue}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.ef83296abccf7e88"
+    },
+    {
+      "_id": "370bd95196640c7e",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.63e1641f9e0d664d]{Lança de Presa Gélida}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.370bd95196640c7e"
+    },
+    {
+      "_id": "5e89e08b879c029b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.91b6506b77b734ff]{Lâmina da Valquíria}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.5e89e08b879c029b"
+    },
+    {
+      "_id": "22517767936afbee",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.55cb94b405f5bfac]{Katar de Garra de Draugr}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.22517767936afbee"
+    },
+    {
+      "_id": "8d4473d229d131ee",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.0ca6a3504005dcc9]{Maça de Crânio de Troll}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.8d4473d229d131ee"
+    },
+    {
+      "_id": "633c0379c9b550a2",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.2ff1c0e30fe394f8]{Chicote de Espinha de Serpente}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.633c0379c9b550a2"
+    },
+    {
+      "_id": "74407cbf285eceb7",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.b59ab453d6d9f15f]{Arco Rúnico}",
+      "range": [
+        7,
+        7
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.74407cbf285eceb7"
+    },
+    {
+      "_id": "759dcf81ecd36e78",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.76f2355beb785c1c]{Marca da Chama-Amarga}",
+      "range": [
+        8,
+        8
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.759dcf81ecd36e78"
+    },
+    {
+      "_id": "9d03f4f8313fe491",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.e010cabe3624b814]{Mangual de Tentáculos de Kraken}",
+      "range": [
+        9,
+        9
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.9d03f4f8313fe491"
+    },
+    {
+      "_id": "c30ecefda1881dab",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.dca89aa713756b94]{Adaga de Osso de Lobo}",
+      "range": [
+        10,
+        10
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.c30ecefda1881dab"
+    },
+    {
+      "_id": "cff30878f5143384",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.1a67ecbd00400e82]{Cutelo do Berserkr}",
+      "range": [
+        11,
+        11
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.cff30878f5143384"
+    },
+    {
+      "_id": "a0d12b7d0105c8ae",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.0d7c384859e29602]{Fêmur de Gigante}",
+      "range": [
+        12,
+        12
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.a0d12b7d0105c8ae"
+    },
+    {
+      "_id": "bbc3ff18fc3af205",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.875fcf22caa92be4]{Escudo de Serpente Marinha}",
+      "range": [
+        13,
+        13
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.bbc3ff18fc3af205"
+    },
+    {
+      "_id": "f389cc740fc5350b",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.f3b0c23ff4a95cbe]{Lança de Osso Dracônico}",
+      "range": [
+        14,
+        14
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.f389cc740fc5350b"
+    },
+    {
+      "_id": "e30aaaecbc3f9df4",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.4d669f5473feb9a1]{Manoplas de Garra de Urso Amaldiçoado}",
+      "range": [
+        15,
+        15
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.e30aaaecbc3f9df4"
+    },
+    {
+      "_id": "99d7223e3ff63805",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.63af6f72c67212ce]{Chicote de Cabelo de Espectro}",
+      "range": [
+        16,
+        16
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.99d7223e3ff63805"
+    },
+    {
+      "_id": "b1e366efe8cfccbd",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.73a6a12049d4b554]{Clava de Dedão de Gigante}",
+      "range": [
+        17,
+        17
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.b1e366efe8cfccbd"
+    },
+    {
+      "_id": "761567c731d69d98",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.f07b82e7864cae75]{Berrante de Guerra Rúnico}",
+      "range": [
+        18,
+        18
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.761567c731d69d98"
+    },
+    {
+      "_id": "9a087264231ec2ae",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.62df1b4bd8a8bc18]{Tambor de Pele Esfolada}",
+      "range": [
+        19,
+        19
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.9a087264231ec2ae"
+    },
+    {
+      "_id": "ffd5522b103b9b0e",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.equipment.1b8eb3375f0d25f1]{Bastão com Ponta de Crânio}",
+      "range": [
+        20,
+        20
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!5a4a12d3bd43b7f9.ffd5522b103b9b0e"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!5a4a12d3bd43b7f9"
+}

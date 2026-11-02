@@ -1,0 +1,28 @@
+{
+  "_id": "c24450bfea9bba0a",
+  "name": "Gullveig",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "8a4ae228c05bc17b",
+      "name": "Gullveig",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/gullveig.webp\" alt=\"Gullveig\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Gullveig</h2><p>Bruxa de Vanaheim associada a maldições e à corrupção das forças naturais. Sua magia transforma a paisagem em uma ameaça.</p><p><strong>Reino:</strong> Vanaheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.4d2a6c90c94e63dd]{Ficha de Gullveig}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!c24450bfea9bba0a.8a4ae228c05bc17b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.4d2a6c90c94e63dd"
+    }
+  },
+  "_key": "!journal!c24450bfea9bba0a"
+}

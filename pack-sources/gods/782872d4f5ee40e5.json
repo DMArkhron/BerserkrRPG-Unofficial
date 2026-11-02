@@ -1,0 +1,235 @@
+{
+  "_id": "782872d4f5ee40e5",
+  "name": "Odin",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/odin.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 75,
+      "max": 75
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 81 (páginas impressas 160–161).",
+    "defenseBonus": 3
+  },
+  "items": [
+    {
+      "_id": "99dffd05d739ee01",
+      "name": "Gungnir",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Odin. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+5",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 81 (páginas impressas 160–161).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!782872d4f5ee40e5.99dffd05d739ee01"
+    },
+    {
+      "_id": "e3d7e893d8087620",
+      "name": "Garras do Corvo",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Odin. Chefe divino. Aplica +3CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 81 (páginas impressas 160–161).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!782872d4f5ee40e5.e3d7e893d8087620"
+    },
+    {
+      "_id": "d2b46df0a1e9366c",
+      "name": "Proteção de Odin",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 81 (páginas impressas 160–161).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!782872d4f5ee40e5.d2b46df0a1e9366c"
+    },
+    {
+      "_id": "d7a81bf10fb72d06",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Armadura do Pai de Todos\n\nGungnir\n\nLança do Destino\n\nA Caçada Selvagem\n\nGarras do Corvo\n\nA Fúria do Pai de Todos\n\nO Campo de Batalha Estremece O Destino é Inexorável\n\nMestre das Runas\n\n+3CD em todas as defesas do PJ (bônus)\n\n(ensanguentado)\n\nOdin é imune a ficar atordoado e prostrado\n\nOdin empunha Gungnir, sua lança — uma arma que raramente erra o alvo. Gungnir perfura armaduras normais. Somente armaduras inscritas podem reduzir seu dano. Ele pode atingir até três inimigos com um único arremesso. Uma vez arremessada, Gungnir sempre retorna, como o destino preso a um fio.\n\nQuando os pontos de vida de Odin caírem abaixo de 20, o Pai de Todos abandona sua compostura divina, libertando a fera que costumava ser — um guerreiro bruto e sanguinolento que só sabe destruir.\n\nQuando Odin entra nesse estado, o campo de batalha começa a desmoronar. O ambiente fica instável e, no início de cada rodada, os personagens precisam Testar Agilidade CD14 para evitar sofrerem d6 de dano causados pelo desabamento de estruturas, fissuras ou até mesmo pelo próprio céu se despedaçando.\n\n× Odin agora pode fazer dois ataques por rodada, usando Gungnir, Garras do Corvo ou ambos.\n\n× Odin é imune a todas as condições, exceto cegueira.\n\nOdin pode imbuir Gungnir com runas do destino, permitindo-lhe atingir todos os inimigos à vista. Cada jogador precisa Testar Agilidade CD16 para evitar ser atingido.\n\nOdin chama Sleipnir, seu cavalo de oito patas, e avança como uma avalanche implacável. Todos os personagens que estiverem em seu caminho precisam Testar Velocidade CD14 para não sofrerem 3d6 de dano, esmagados pelo peso da própria lenda. Quem for atingido cai prostrado, encarando a sombra do Pai de Todos.\n\nOdin ordena que seus corvos, Huginn e Muninn, ataquem um personagem, causando dano e revelando a Odin as fraquezas desse personagem. Esse personagem sofre −2 de defesa nas próximas d4 rodadas.\n\nOdin não apenas dobra o destino — ele o agarra pelo pescoço. Odin pode transformar o sucesso crítico de um jogador em um fracasso ou reverter seu próprio fracasso, transformando-o em um sucesso. Isso pode ser feito uma vez por combate, normalmente em um momento crucial.\n\nOdin comanda as Runas como um poeta domina as palavras, cada uma delas escrita com sangue e poder. Ele conjura uma Runa por rodada:\n\n×Runa de Proteção. Todo o dano que Odin sofrer na próxima rodada será reduzido pela metade. ×Runa de Aprisionamento Runa de Aprisionamento Odin escolhe um alvo e o aprisiona com correntes rúnicas. É preciso Testar Fortitude CD14 para se libertar. Até se libertar, o personagem permanece atordoado. ×Runa da Força Odin aumenta seu dano pelas próximas 3 rodadas, recebendo +3 em todas as rolagens de dano. ×Runa da Visão. Odin consegue ver o futuro. Ele automaticamente evita o próximo ataque bem-sucedido contra ele. ×Runa da Tempestade. Odin invoca uma tempestade que causa d8 de dano em todos os inimigos que ele conseguir ver, forçando-os a Testar Fortitude CD12 para não caírem prostrados. ×Runa dos Mortos Odin ressuscita os espíritos de guerreiros caídos do Valhalla e d4 Einherjar se juntam à luta.\n\n75 −d3\n\nd10+5 corpo a corpo/distância\n\nAtiva-se com PV<20\n\numa vez por combate\n\numa vez por combate\n\nd8+3\n\numa vez por combate\n\numa runa por rodada",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 81 (páginas impressas 160–161).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!782872d4f5ee40e5.d7a81bf10fb72d06"
+    },
+    {
+      "_id": "648961653ce8e66c",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Odin Poder Avassalador. Odin não se contém. Comece com magia rúnica, convoque os Einherjar para fazerem o trabalho sujo, e deixe que Gungnir trespasse os personagens como se eles fossem apenas folhas ao vento.\n\nControle o Campo de Batalha. A Caçada Selvagem, tempestades e desmoronamentos mantêm os personagens em constante movimento. A luta precisa passar a sensação de que os PJs estão enfrentando todo o peso do mundo.\n\nÚltima Fase do Caos. Quando Odin entrar na fúria, as regras se quebram com ele. Ele não será mais um deus no topo da montanha — será a própria montanha, desmoronando e esmagando tudo em seu caminho.\n\nEspólios e Recompensas Gungnir. Uma arma que acerta em cheio, abençoada e amaldiçoada na mesma medida (Lendários, 209).\n\nO Olho de Odin. O olho perdido de Odin, que concede visões do futuro ao portador. Uso Único. O usuário pode escolher um efeito das Benesses Severas de Loki.\n\nRunas do Pai de Todos O personagem que derrotar Odin pode escolher uma Runa divina que concede um bônus permanente (+2 em qualquer atributo à escolha dele). Essa Runa também permite que o personagem conjure uma das Runas de Odin (de suas habilidades rúnicas) uma vez por dia.\n\nLutar contra Odin não é apenas um combate — é sobreviver\n\na uma tempestade, ser mais esperto que um deus e resistir ao peso total do destino. Se ODIN cair, os Nove Reinos não se esquecerão. Independente do que acontecer em seguida, o grupo carregará para sempre o peso desse combate.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 81 (páginas impressas 160–161).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!782872d4f5ee40e5.648961653ce8e66c"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Odin",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/odin.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.7ddcbf508b994f04"
+    }
+  },
+  "folder": "851ef43e69963a82",
+  "_key": "!actors!782872d4f5ee40e5"
+}

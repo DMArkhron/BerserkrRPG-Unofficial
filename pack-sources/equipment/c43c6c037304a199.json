@@ -1,0 +1,40 @@
+{
+  "_id": "c43c6c037304a199",
+  "name": "Sem Armadura",
+  "type": "armor",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c43c6c037304a199.png",
+  "system": {
+    "description": "Categoria 1. Sem proteção. Personagem que começar sem armadura recebe uma Runa aleatória.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 1,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 58 (páginas impressas 114–115).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "db9d741f805026ce",
+  "_key": "!items!c43c6c037304a199"
+}

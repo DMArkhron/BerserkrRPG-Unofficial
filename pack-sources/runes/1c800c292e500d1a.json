@@ -1,0 +1,39 @@
+{
+  "_id": "1c800c292e500d1a",
+  "name": "Raidho",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/1c800c292e500d1a.png",
+  "system": {
+    "description": "ᚱ — Raidho\n\nFeitiço\nSaiba o caminho mais direto para o seu destino ou convoque um portal, sem precisar de um ritual, totem ou Teste.\n\nInscrição em arma ou armadura\nTeletransporte-se para qualquer local que você possa ver, podendo levar um aliado se quiser.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 73 (páginas impressas 144–145).",
+    "realm": "",
+    "spell": "Saiba o caminho mais direto para o seu destino ou convoque um portal, sem precisar de um ritual, totem ou Teste.",
+    "inscription": "Teletransporte-se para qualquer local que você possa ver, podendo levar um aliado se quiser.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!1c800c292e500d1a"
+}

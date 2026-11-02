@@ -1,0 +1,93 @@
+{
+  "_id": "6e8bde44e544204b",
+  "name": "Habilidades — Construto de Chamas",
+  "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+  "description": "Berserkr — Livro Básico, PDF p. 54 (páginas impressas 106–107).",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "5fead33c2af79dc3",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.a66346757ee30a19]{Aura de Imolação — Construto de Chamas}",
+      "range": [
+        1,
+        1
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6e8bde44e544204b.5fead33c2af79dc3"
+    },
+    {
+      "_id": "6fb9c9652045b826",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.650fa964afd9aed5]{Investida de Lava — Construto de Chamas}",
+      "range": [
+        2,
+        2
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6e8bde44e544204b.6fb9c9652045b826"
+    },
+    {
+      "_id": "66ffb0c37b32db06",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.3c99f73915af714a]{Punho Piroclástico — Construto de Chamas}",
+      "range": [
+        3,
+        3
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6e8bde44e544204b.66ffb0c37b32db06"
+    },
+    {
+      "_id": "f79b430f5a516484",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.47d879856a536708]{Chama Viva — Construto de Chamas}",
+      "range": [
+        4,
+        4
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6e8bde44e544204b.f79b430f5a516484"
+    },
+    {
+      "_id": "b9626b2e77dab48f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.8281113cb7dd8167]{Convocar Erupção — Construto de Chamas}",
+      "range": [
+        5,
+        5
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6e8bde44e544204b.b9626b2e77dab48f"
+    },
+    {
+      "_id": "45c9717e0105577f",
+      "type": 0,
+      "text": "@UUID[Compendium.berserkr-rpg.abilities.72fab0db9b7f6977]{Coração das Chamas — Construto de Chamas}",
+      "range": [
+        6,
+        6
+      ],
+      "weight": 1,
+      "drawn": false,
+      "img": "systems/berserkr-rpg/assets/icons-ink/table.png",
+      "_key": "!tables.results!6e8bde44e544204b.45c9717e0105577f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!6e8bde44e544204b"
+}

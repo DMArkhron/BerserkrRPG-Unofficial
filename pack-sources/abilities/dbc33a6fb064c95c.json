@@ -1,0 +1,40 @@
+{
+  "_id": "dbc33a6fb064c95c",
+  "name": "Especialista em Runas — Arrasa-Reinos",
+  "type": "ability",
+  "img": "systems/berserkr-rpg/assets/icons-custom/abilities/dbc33a6fb064c95c.png",
+  "system": {
+    "description": "+2 em Testes de Esperteza para conjurar Runas.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 56 (páginas impressas 110–111).",
+    "realm": "Entre os Reinos",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "91d4ac79a576dae0",
+  "_key": "!items!dbc33a6fb064c95c"
+}

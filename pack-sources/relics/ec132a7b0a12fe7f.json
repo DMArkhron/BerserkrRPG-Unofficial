@@ -1,0 +1,39 @@
+{
+  "_id": "ec132a7b0a12fe7f",
+  "name": "Gungnir",
+  "type": "weapon",
+  "img": "systems/berserkr-rpg/assets/icons-custom/relics/ec132a7b0a12fe7f.png",
+  "system": {
+    "description": "Gungnir é a poderosa lança de Odin, que dizem ter sido forjada pelos filhos de Ivaldi. É o símbolo da autoridade e do poder do Pai de Todos, uma lança que nunca erra o alvo e que foi imbuída com magia rúnica, tornando-a indestrutível e implacável. Empunhar Gungnir é sinal de imenso poder, mas também marca o portador como rival de Odin, o que pode atrair a atenção divina tanto de amigos quanto de inimigos.\n\nO próprio Odin aparece diante do portador, exigindo a devolução de Gungnir. O Pai de Todos apresenta uma escolha. Sirva-o no Ragnarök ou enfrente sua ira divina.\n\nOs anões que forjaram Gungnir descobrem o atual portador e exigem um sacrifício em troca da posse da lança. A recusa pode levar a um encontro perigoso com esses astutos ferreiros.\n\nOutro deus Aesir, Vanir ou Jötunn descobre que o portador detém Gungnir e o desafia para um holmgang pelo controle da arma. O resultado poderá alterar o equilíbrio de poder entre os deuses.\n\nAs runas de Gungnir começam a revelar mais poder, mas apenas se o portador conseguir desbloqueá-las com sacrifícios ou conhecimento de runas. A busca para desvendar as runas ocultas pode levar a grandes recompensas — ou a encontros perigosos.\n\nUm aliado de confiança é consumido pelo ciúme ou pelo medo do poder de Gungnir e trai o portador, buscando roubar a lança para si. A traição ocorre em um momento crítico, e o portador precisa decidir se poupa a vítima ou se busca vingança.\n\nAs Nornas, tecelãs do destino, surgem diante ao portador de Gungnir, oferecendo uma visão de seu futuro. Em troca, exigem um pedaço da alma dele ou uma decisão que mudará sua vida.\n\nd10+5\n\nPrecisão de Odin GANCHOS DE MISSÃO d6 1\n\nRúnico Fortalecimento\n\nO Comando de Odin\n\nGungnir foi encantada para nunca errar o alvo. Gungnir concede +2 em todos os ataques. Com um acerto crítico, a lança automaticamente ignora armadura e causa mais d8 de dano (antes de dobrar).\n\nO poder de Gungnir provém da magia rúnica gravada em sua haste. Ativar as runas permite ao portador desbloquear todo o seu potencial. Uma vez por sessão, o portador pode ativar as runas da Gungnir, fazendo com que ela brilhe com energia divina. Pelas próximas d4 rodadas, o portador recebe +4 em todos os ataques, e Gungnir causa o dobro do dano.\n\nGungnir pode convocar o poder do Pai de Todos para intimidar ou controlar inimigos. Uma vez por dia, o usuário pode canalizar a autoridade de Odin. Teste Esperteza CD14 para compelir os inimigos a fugirem de medo ou a se afastarem por d4 rodadas. O portador pode escolher entre aterrorizar ou forçar a submissão (não funciona com deuses).\n\npassiva\n\numa vez por sessão\n\numa vez por dia\n\ncorpo a corpo/ distância (rerrole um ataque que foi um desastreumavez) 209",
+    "quantity": 1,
+    "slots": 1,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d10+5",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 105 (páginas impressas 208–209).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ec132a7b0a12fe7f"
+}

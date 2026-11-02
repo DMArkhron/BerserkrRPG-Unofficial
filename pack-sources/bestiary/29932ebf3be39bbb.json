@@ -1,0 +1,165 @@
+{
+  "_id": "29932ebf3be39bbb",
+  "name": "Eldrimnir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/criaturas/eldrimnir.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 28,
+      "max": 28
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Inimigo nomeado de Muspelheim. As habilidades e recompensas estão no item próprio da ficha.",
+    "saga": "",
+    "className": "",
+    "realm": "Muspelheim",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+    "defenseBonus": 0
+  },
+  "items": [
+    {
+      "_id": "da05cfc15bc2c094",
+      "name": "Martelo Derretido",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Eldrimnir. Inimigo nomeado de Muspelheim. As habilidades e recompensas estão no item próprio da ficha.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!29932ebf3be39bbb.da05cfc15bc2c094"
+    },
+    {
+      "_id": "30dd118bf6ebf1ae",
+      "name": "Proteção de Eldrimnir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!29932ebf3be39bbb.30dd118bf6ebf1ae"
+    },
+    {
+      "_id": "7eaa3aa4da680692",
+      "name": "Poderes e recompensas",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV\n\nMartelo Derretido\n\nPedra Vulcânica\n\nd10+4\n\n–d3\n\nComandar Lava. Eldrimnir pode convocar um rio de lava, criando uma barreira ou linha de rocha derretida. Quem tentar atravessá-lo sofre d10 de dano, a menos que seja bem-sucedido em um\n\nTeste de Agilidade CD14.\n\nPisada Sísmica Eldrimnir pisa com força no chão, criando uma onda de choque. Todos os inimigos precisam Testar Agilidade CD14 para não caírem prostrados e sofrerem d6 de dano causado pelo impacto.\n\nEntre os gigantes de fogo de Muspelheim, é um deus do caos personificado. Um colosso imponente, sua pele de rocha derretida pulsa com um calor tão intenso que distorce o ar ao seu redor. A destruição não lhe basta; o que importa é a queda da ordem, a pura alegria de ver o mundo ser reduzido ao nada.\n\nELDRIMNIR",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 41 (páginas impressas 80–81).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!29932ebf3be39bbb.7eaa3aa4da680692"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Eldrimnir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/criaturas/eldrimnir.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.c0ec4dc9debb86eb"
+    }
+  },
+  "folder": "030d2cd6f8ec9b3f",
+  "_key": "!actors!29932ebf3be39bbb"
+}

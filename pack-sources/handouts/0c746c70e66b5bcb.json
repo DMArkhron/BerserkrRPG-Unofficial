@@ -1,0 +1,28 @@
+{
+  "_id": "0c746c70e66b5bcb",
+  "name": "Miragem Emboscadora",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "fc1ec7d2c96e04ab",
+      "name": "Miragem Emboscadora",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/miragem-emboscadora.webp\" alt=\"Miragem Emboscadora\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Miragem Emboscadora</h2><p>Criatura nascida da magia distorcida de Alfheim. Parece um viajante ou um refúgio seguro até revelar sua forma de areia e luz.</p><p><strong>Reino:</strong> Alfheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.631e3dce943b50d8]{Ficha de Miragem Emboscadora}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!0c746c70e66b5bcb.fc1ec7d2c96e04ab"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.631e3dce943b50d8"
+    }
+  },
+  "_key": "!journal!0c746c70e66b5bcb"
+}

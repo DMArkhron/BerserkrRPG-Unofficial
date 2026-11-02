@@ -1,0 +1,235 @@
+{
+  "_id": "c05c5fc032d3b489",
+  "name": "Fenrir",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/fenrir.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 80,
+      "max": 80
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Ragnarök",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 96 (páginas impressas 190–191).",
+    "defenseBonus": 4
+  },
+  "items": [
+    {
+      "_id": "c7b19f4cae74c101",
+      "name": "Mordida Selvagem",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Fenrir. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 96 (páginas impressas 190–191).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!c05c5fc032d3b489.c7b19f4cae74c101"
+    },
+    {
+      "_id": "be0908e5ba80929b",
+      "name": "Corte com Garras",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Fenrir. Chefe divino. Aplica +4CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d8+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 96 (páginas impressas 190–191).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!c05c5fc032d3b489.be0908e5ba80929b"
+    },
+    {
+      "_id": "b99102e8a3cecb4d",
+      "name": "Proteção de Fenrir",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 96 (páginas impressas 190–191).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!c05c5fc032d3b489.b99102e8a3cecb4d"
+    },
+    {
+      "_id": "798380e2884f34bd",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV Pelagem grossa\n\nMordida Selvagem\n\nDevorar Bote\n\nCorte com Garras\n\n+4CD em todas as defesas do PJ\n\nObtendo um desastre na defesa, Fenrir causa d6 de dano adicional e a armadura do alvo é degradada, reduzindo a eficácia dela em 1 categoria.\n\nEste infame ataque de Fenrir pode engolir inimigos inteiros, transformando o campo de batalha em uma cena de luta desesperada pela sobrevivência.\n\nFenrir tem como alvo um inimigo. O alvo precisa Testar Agilidade ou Força CD16 (à escolha do jogador) para não ser engolido inteiro.\n\nSe for engolido, o personagem sofre 4d6 de dano por rodada, pois está sendo esmagado e sufocado dentro do estômago de Fenrir.\n\nO alvo então pode tentar escapar atacando por dentro, mas precisa obter um acerto crítico ou causar 18 de dano em apenas uma rodada para conseguir fugir. Os aliados que estão do lado de fora também podem ajudar a causar os 18 pontos de dano necessários, ou então conseguir obter um acerto crítico.\n\nSe o alvo não for libertado em 4 rodadas, ele será morto instantaneamente. Se o personagem for considerado um seguidor de Odin, o limite é de 2 rodadas.\n\nFenrir consegue saltar distâncias enormes, prendendo um inimigo ao chão e dilacerando-o com suas garras. Teste Força CD14 para evitar ser imobilizado.\n\nSe falhar, o alvo sofre d8+4 de dano no início de cada rodada e precisa Testar Força CD16 para se libertar.\n\nEnquanto estiver imobilizado, as defesas do personagem sofrem desvantagem.\n\nSe o ataque de garras de Fenrir acertar, o alvo precisa Testar Fortitude CD14 ou começará a sangrar (d4 de dano por rodada até ser curado).\n\n80 −d3\n\nd12+6\n\numa vez por combate uma vez por combate\n\nd8+4\n\nFuria do Ragnarok\n\nPresas do Ragnarok\n\n:\n\n:\n\nQuando Fenrir estiver ferido, ele entra em um estado de fúria descontrolada, atacando tudo o que vê pela frente.\n\nFenrir ataca com velocidade e poder devastadores, garantindo que sua vítima não tenha escapatória. Ele só pode fazer isso uma vez.\n\nO grande lobo faz dois ataques em uma única rodada. Ambos os ataques causam 2d12+6 de dano. O segundo ataque acerta automaticamente qualquer alvo que já esteja imobilizado ou engolido.\n\nAtiva-se com PV<25\n\n× A CD das defesas aumenta em +2.\n\n× Todos os ataques causam d6 de dano adicional.\n\n× Fenrir ataca duas vezes por rodada.\n\n× Nesse estado, ele é imune a todas as condições, exceto envenenado.\n\n× Obter um desastre na defesa contra Fenrir acarreta no triplo do dano, em vez do dobro.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 96 (páginas impressas 190–191).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!c05c5fc032d3b489.798380e2884f34bd"
+    },
+    {
+      "_id": "a26f0f5ae0e9140e",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Usando Fenrir Caçar e Destruir. Use Bote e Mordida Selvagem para incapacitar alvos importantes logo no início. Fenrir deve parecer estar sempre um passo à frente, espreitando e atacando com precisão.\n\nAumente a Pressão.A habilidade Devorar força o grupo a tomar decisões de alto risco, exigindo trabalho em equipe para salvar aliados engolidos enquanto lidam com os ataques implacáveis do grande lobo.\n\nFúria Liberta. A fase Fúria do Ragnarök precisa parecer avassaladora. Use os ataques duplos e o dano triplo causado pelos desastres para criar um desfecho intenso, no estilo ou vai, ou racha.\n\nEspolios e Recompensas Presa de Fenrir. Uma presa enorme que pode ser transformada em arma ou encantada para proteção. Como arma, ela causa d12+6 de dano.\n\nPelagem de Fenrir. Couro grosso e impenetrável que pode ser transformado em armadura. Armaduras feitas com a pele de Fenrir concedem +3 de armadura e imunidade a cair prostrado.\n\nEssência de Fenrir. Esta poderosa essência pode ser usada para imbuir a arma de um personagem com a Fúria do Ragnarök, permitindo causar o dobro do dano em todos os ataques (quadruplicado em caso de acerto crítico) por um combate. No entanto, usá-la faz o usuário correr o risco de perder o controle. Teste Esperteza CD12 para resistir à tentação de atacar o aliado mais próximo.\n\nFenrir é uma força primitiva e aterradora — um predador que personifica a inevitabilidade da morte e da vingança. Cada ataque e habilidade dele precisa parecer pessoal, como se estivesse visando cada personagem com a intenção de destruí-lo. Faça com que a fase final se transforme em uma batalha caótica e frenética, onde os personagens lutarão por suas vidas.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 96 (páginas impressas 190–191).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!c05c5fc032d3b489.a26f0f5ae0e9140e"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Fenrir",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/fenrir.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.a6c776c5b657b65d"
+    }
+  },
+  "folder": "e8a028b36ffc0d8c",
+  "_key": "!actors!c05c5fc032d3b489"
+}

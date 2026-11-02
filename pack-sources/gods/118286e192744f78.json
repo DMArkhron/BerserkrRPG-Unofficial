@@ -1,0 +1,235 @@
+{
+  "_id": "118286e192744f78",
+  "name": "Tyr",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/tyr.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 65,
+      "max": 65
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +5CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 89 (páginas impressas 176–177).",
+    "defenseBonus": 5
+  },
+  "items": [
+    {
+      "_id": "b407f8c97f595707",
+      "name": "Espada de Tyr",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Tyr. Chefe divino. Aplica +5CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 89 (páginas impressas 176–177).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!118286e192744f78.b407f8c97f595707"
+    },
+    {
+      "_id": "fa2a7a4e202bfa34",
+      "name": "Braço da Justiça",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Tyr. Chefe divino. Aplica +5CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6+2",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 89 (páginas impressas 176–177).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!118286e192744f78.fa2a7a4e202bfa34"
+    },
+    {
+      "_id": "22f6782bccb02bb3",
+      "name": "Proteção de Tyr",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 89 (páginas impressas 176–177).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!118286e192744f78.22f6782bccb02bb3"
+    },
+    {
+      "_id": "7855a04635f043f0",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "PV\n\nArmadura de guerra asgardiana\n\nEspada de Tyr\n\nEscudo de Honra Golpe do Sacrificio\n\nBraco da Justica\n\nGrito de Guerra da Justica\n\n+5CD em todas as defesas do PJ\n\nA espada de Tyr golpeia com força avassaladora, cortando armaduras com facilidade. Se o defensor obtiver um desastre na defesa, a espada causa d6 de dano adicional e atordoa o alvo por 1 rodada.\n\nO inabalável senso de dever de Tyr se manifesta como um escudo etéreo, protegendo tanto a ele quanto a seus aliados. Tyr cria um escudo divino que protege a si mesmo e a seus aliados por d4 rodadas. Esse escudo reduz pela metade todo o dano sofrido enquanto estiver ativo.\n\nTyr canaliza sua crença na justiça por meio de um golpe devastador, sacrificando sua própria força para desferir esse ataque. Tyr desfere um golpe poderoso com sua espada, causando 3d12+4 de dano. No entanto, tamanha força faz com que Tyr sofra 2d8 de dano, já que um golpe tão poderoso acaba cobrando o seu preço.\n\nTyr desfere um soco em seu oponente, afastando e desorientando o inimigo. O alvo precisa Testar Fortitude CD12 para não cair prostrado.\n\nA voz de Tyr ecoa pelo campo de batalha, desmoralizando os inimigos e inspirando os aliados. Os inimigos que estiverem ao alcance da audição precisam Testar Fortitude CD14 para não sofrerem −1 em todos os Testes por 2 rodadas, pois ficarão desmoralizados pela força e honra inabaláveis de Tyr.\n\n65 −d3\n\nd12+4\n\numa vez por combate uma vez por combate\n\nd6+2\n\numa vez por combate\n\nDeterminacao Inabalavel\n\nJulgamento da Justica\n\nQuando os pontos de vida de Tyr caírem abaixo de 20, sua determinação e senso de justiça o tornam ainda mais perigoso. Ele se recusa a cair sem lutar.\n\nTyr pode invocar sua autoridade divina como deus da justiça para desafiar um único inimigo para um holmgang. Ele só pode fazer isso uma vez.\n\nDurante as próximas 3 rodadas, Tyr e o alvo ficarão travados em combate individual. Tanto Tyr quanto o alvo recebem +2 em todos os ataques feitos um contra o outro, e quaisquer ataques feitos por outros inimigos ou aliados durante esse duelo serão feitos com desvantagem e correm o risco de trazer a ira dos deuses.\n\nAtiva-se com PV<20\n\n× A CD para defesa aumenta em +2.\n\n× Os ataques dele causam d6 de dano adicional.\n\n× Nesse estado, Tyr ataca duas vezes por rodada, recusando-se a recuar.\n\n× Ímpeto de Combate. Para cada inimigo que Tyr derrotar, ele recupera d8PV (até um máximo de 20PV).",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 89 (páginas impressas 176–177).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!118286e192744f78.7855a04635f043f0"
+    },
+    {
+      "_id": "3aecb399d4d7d315",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "USANDO TYR Combatente Implacável.A abordagem de Tyr precisa ser implacável. Use Espada de Tyr para causar dano pesado enquanto mantém os personagens à flor da pele com os efeitos de Braço da Justiça.\n\nPoder Sacrificial. Apoie-se em Golpe do Sacrifício quando o momento exigir. Isso representa sua disposição de se colocar em perigo para defender a justiça.\n\nEsforço Final. Quando a Determinação Inabalável for acionada, aumente a intensidade. Essa fase final deve fazer com que os personagens sintam o peso da fúria de Tyr — ele não cairá facilmente, e cada movimento do deus exigirá total atenção dos jogadores.\n\nTyr é mais do que um guerreiro — ele é um símbolo vivo do sacrifício, dever e da busca pelo equilíbrio. Sua presença no campo de batalha é implacável e imponente, cada movimento seu carrega o peso do seu propósito divino.\n\nESPOLIOS E RECOMPENSAS Espada de Tyr. Esta poderosa espada causa d12+4 de dano e, uma vez por dia, pode causar d12 de dano adicional ao obter um acerto crítico.\n\nEscudo Etéreo de Tyr. Este escudo concede +2 de armadura e, uma vez por dia, pode ser usado para bloquear todo o dano de um único ataque.\n\nBenção da Justiça. Esta benção permite ao personagem obrigar um único inimigo a aceitar um holmgang. Durante o duelo, o personagem recebe +4 nos ataques feitos contra o adversário.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 89 (páginas impressas 176–177).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!118286e192744f78.3aecb399d4d7d315"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Tyr",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/tyr.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.a61879aa18fec433"
+    }
+  },
+  "folder": "851ef43e69963a82",
+  "_key": "!actors!118286e192744f78"
+}

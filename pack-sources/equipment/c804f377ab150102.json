@@ -1,0 +1,40 @@
+{
+  "_id": "c804f377ab150102",
+  "name": "Brasas Fumegantes da Lareira",
+  "type": "equipment",
+  "img": "systems/berserkr-rpg/assets/icons-custom/equipment/c804f377ab150102.png",
+  "system": {
+    "description": "Saco de brasas de fogueira sagrada; calor e ignição de tochas ou fogueiras.",
+    "quantity": 1,
+    "slots": 1,
+    "price": 60,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 57 (páginas impressas 112–113).",
+    "realm": "",
+    "spell": "",
+    "inscription": "",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "folder": "29a0cf4c2bba85c0",
+  "_key": "!items!c804f377ab150102"
+}

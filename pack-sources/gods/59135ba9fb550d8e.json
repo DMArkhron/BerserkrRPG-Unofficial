@@ -1,0 +1,235 @@
+{
+  "_id": "59135ba9fb550d8e",
+  "name": "Thor",
+  "type": "creature",
+  "img": "systems/berserkr-rpg/assets/portraits/divindades/thor.webp",
+  "system": {
+    "attributes": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hp": {
+      "value": 80,
+      "max": 80
+    },
+    "destinos": {
+      "value": 0,
+      "max": 0
+    },
+    "runes": {
+      "value": 0,
+      "max": 0
+    },
+    "biography": "Chefe divino. Aplica +6CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+    "saga": "",
+    "className": "",
+    "realm": "Asgard",
+    "defenseDC": 12,
+    "bugigangas": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 92 (páginas impressas 182–183).",
+    "defenseBonus": 6
+  },
+  "items": [
+    {
+      "_id": "9302b953344c1c52",
+      "name": "Golpe do Mjölnir",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Thor. Chefe divino. Aplica +6CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d12+4",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 92 (páginas impressas 182–183).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!59135ba9fb550d8e.9302b953344c1c52"
+    },
+    {
+      "_id": "33f716856f9f61e2",
+      "name": "Investida Trovejante",
+      "type": "weapon",
+      "img": "systems/berserkr-rpg/assets/icons-ink/weapon.png",
+      "system": {
+        "description": "Ataque de Thor. Chefe divino. Aplica +6CD às defesas dos PJs, conforme o livro. Fases, imunidades e poderes são resolvidos pelo mestre.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d10+3",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 92 (páginas impressas 182–183).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!59135ba9fb550d8e.33f716856f9f61e2"
+    },
+    {
+      "_id": "debde02059755502",
+      "name": "Proteção de Thor",
+      "type": "armor",
+      "img": "systems/berserkr-rpg/assets/icons-ink/armor.png",
+      "system": {
+        "description": "Redução de dano própria da criatura.",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": true,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "1d3",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 92 (páginas impressas 182–183).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!59135ba9fb550d8e.debde02059755502"
+    },
+    {
+      "_id": "4381f63536deca9c",
+      "name": "Poderes, fases e resistência final",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Raiva Incontrolável\n\nUsando Thor A Tempestade Liberta. Os ataques de Thor precisam parecer implacáveis, como uma tempestade que vai açoitar o grupo. Use o Golpe do Mjölnir e Investida Trovejante para manter o grupo na defensiva o tempo todo. A Personificação da Fúria. Quando Thor sofre bastante dano, A Fúria do Trovão trará consequências devastadoras. Raiva Incontrolável. A fase final de Thor é a mais mortal. Combine seus ataques duplos com A Fúria do Mjölnir para transformar seu estado de fúria em uma corrida desesperada pela sobrevivência.\n\nEspólios e Recompensas Mjölnir. O Mjölnir é o lendário martelo de Thor, o deus do trovão, conhecido por sua força implacável e sua capacidade de evocar o poder das tempestades (Lendários, 208). Járngreipr. Estas manoplas concedem +2 de armadura e permitem que o usuário cause d6+2 de dano adicional. Uma vez por dia, o usuário pode convocar raios para atingir um único alvo e causar d8 de dano. Megingjörð. Este cinto concede Força +2 para o usuário e permite que ele utilize uma Investida Trovejante por dia, derrubando os inimigos e causando d10+3 de dano.\n\nnão é apenas um guerreiro — ele é a própria tempestade. Cada ataque precisa ser sentido como uma martelada vinda dos céus, e cada trovejar é um lembrete de que até os deuses estremecem quando ele luta. Quando Thor entrar em seu estado de fúria, os jogadores entenderão por que ele é o defensor de Asgard e uma força que nenhum mortal — ou imortal — subestima.\n\nPV Armadura de Thor e magia do Mjölnir\n\nGolpe do Mjölnir\n\nConvocar Relâmpago Defensor de Asgard\n\nInvestida Trovejante\n\nA Fúria do Trovão\n\n+6CD em todas as defesas do PJ\n\nThor brande o Mjölnir com toda a sua força. Com um ataque bem-sucedido, um raio salta do martelo em direção ao inimigo mais próximo. Teste Agilidade CD14 para não sofrer d10 de dano. Thor também pode arremessar o martelo, que sempre retorna à sua mão.\n\nThor convoca toda a força da tempestade para obliterar um único inimigo.\n\nSurge uma rajada de raios para atingir o inimigo que tem a Saga mais longa. O inimigo precisa Testar Fortitude CD16 para não sofrer d100 de dano.\n\nComo protetor de Asgard, Thor instintivamente se defende ou defende seus aliados, usando o Mjölnir para bloquear ataques ou retaliar contra inimigos que ameaçam quem está sob sua guarda.\n\nUma vez por combate, quando Thor ou um aliado dele for atacado, esta divindade pode usar Mjölnir para desviar o golpe. O atacante precisa Testar Força CD14; se falhar, o ataque é completamente anulado e Thor pode imediatamente fazer um contra-ataque usando Golpe do Mjölnir.\n\nThor avança com força estrondosa, esmagando seus inimigos. Todos os inimigos que estiverem em seu caminho precisam Testar Velocidade CD14 para não caírem prostrados. Após a investida, Thor pode fazer um ataque subsequente contra um único alvo, causando d6+2 de dano adicional. Quando Thor sofrer 10 ou mais de dano em um único golpe, o atacante precisa Testar Força CD14; se falhar, Thor revida imediatamente com o Golpe do Mjölnir.\n\n80 −d3\n\nd12+4 corpo a corpo/distância\n\numa vez por combate uma vez por combate\n\nd10+3\n\npassiva\n\nA Fúria do Mjölnir\n\nQuando Thor ficar gravemente ferido, a fúria berserkr toma conta dele, tornando-o praticamente irrefreável.\n\nEm momentos de extrema necessidade, Thor pode convocar todo o poder de Mjölnir, canalizando sua energia divina em um único golpe devastador que abala os céus e a terra. Ele só pode fazer isso uma vez e apenas durante seu estado de Raiva Incontrolável.\n\nThor visa todos os inimigos que conseguir ver e desfere um golpe devastador, atingindo-os com fúria trovejante. Este ataque ignora armaduras sem encantamentos, causando 4d10+5 de dano elétrico em cada alvo.\n\nAtiva-se com PV<25\n\n× A CD de ataque para atingir Thor aumenta em +2.\n\n× Thor recebe +4 em todas as rolagens de dano e ataca duas vezes por rodada.\n\n× Thor fica imune a todas as condições.\n\n× Ele se regenera d6PV a cada golpe que acertar (até um máximo de 25PV).\n\nThor",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 92 (páginas impressas 182–183).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!59135ba9fb550d8e.4381f63536deca9c"
+    },
+    {
+      "_id": "ebf997a7c871a500",
+      "name": "Táticas e espólios",
+      "type": "ability",
+      "img": "systems/berserkr-rpg/assets/icons-ink/ability.png",
+      "system": {
+        "description": "Raiva Incontrolável\n\nUsando Thor A Tempestade Liberta. Os ataques de Thor precisam parecer implacáveis, como uma tempestade que vai açoitar o grupo. Use o Golpe do Mjölnir e Investida Trovejante para manter o grupo na defensiva o tempo todo. A Personificação da Fúria. Quando Thor sofre bastante dano, A Fúria do Trovão trará consequências devastadoras. Raiva Incontrolável. A fase final de Thor é a mais mortal. Combine seus ataques duplos com A Fúria do Mjölnir para transformar seu estado de fúria em uma corrida desesperada pela sobrevivência.\n\nEspólios e Recompensas Mjölnir. O Mjölnir é o lendário martelo de Thor, o deus do trovão, conhecido por sua força implacável e sua capacidade de evocar o poder das tempestades (Lendários, 208). Járngreipr. Estas manoplas concedem +2 de armadura e permitem que o usuário cause d6+2 de dano adicional. Uma vez por dia, o usuário pode convocar raios para atingir um único alvo e causar d8 de dano. Megingjörð. Este cinto concede Força +2 para o usuário e permite que ele utilize uma Investida Trovejante por dia, derrubando os inimigos e causando d10+3 de dano.\n\nnão é apenas um guerreiro — ele é a própria tempestade. Cada ataque precisa ser sentido como uma martelada vinda dos céus, e cada trovejar é um lembrete de que até os deuses estremecem quando ele luta. Quando Thor entrar em seu estado de fúria, os jogadores entenderão por que ele é o defensor de Asgard e uma força que nenhum mortal — ou imortal — subestima.\n\nPV Armadura de Thor e magia do Mjölnir\n\nGolpe do Mjölnir\n\nConvocar Relâmpago Defensor de Asgard\n\nInvestida Trovejante\n\nA Fúria do Trovão\n\n+6CD em todas as defesas do PJ\n\nThor brande o Mjölnir com toda a sua força. Com um ataque bem-sucedido, um raio salta do martelo em direção ao inimigo mais próximo. Teste Agilidade CD14 para não sofrer d10 de dano. Thor também pode arremessar o martelo, que sempre retorna à sua mão.\n\nThor convoca toda a força da tempestade para obliterar um único inimigo.\n\nSurge uma rajada de raios para atingir o inimigo que tem a Saga mais longa. O inimigo precisa Testar Fortitude CD16 para não sofrer d100 de dano.\n\nComo protetor de Asgard, Thor instintivamente se defende ou defende seus aliados, usando o Mjölnir para bloquear ataques ou retaliar contra inimigos que ameaçam quem está sob sua guarda.\n\nUma vez por combate, quando Thor ou um aliado dele for atacado, esta divindade pode usar Mjölnir para desviar o golpe. O atacante precisa Testar Força CD14; se falhar, o ataque é completamente anulado e Thor pode imediatamente fazer um contra-ataque usando Golpe do Mjölnir.\n\nThor avança com força estrondosa, esmagando seus inimigos. Todos os inimigos que estiverem em seu caminho precisam Testar Velocidade CD14 para não caírem prostrados. Após a investida, Thor pode fazer um ataque subsequente contra um único alvo, causando d6+2 de dano adicional. Quando Thor sofrer 10 ou mais de dano em um único golpe, o atacante precisa Testar Força CD14; se falhar, Thor revida imediatamente com o Golpe do Mjölnir.\n\n80 −d3\n\nd12+4 corpo a corpo/distância\n\numa vez por combate uma vez por combate\n\nd10+3\n\npassiva\n\nA Fúria do Mjölnir\n\nQuando Thor ficar gravemente ferido, a fúria berserkr toma conta dele, tornando-o praticamente irrefreável.\n\nEm momentos de extrema necessidade, Thor pode convocar todo o poder de Mjölnir, canalizando sua energia divina em um único golpe devastador que abala os céus e a terra. Ele só pode fazer isso uma vez e apenas durante seu estado de Raiva Incontrolável.\n\nThor visa todos os inimigos que conseguir ver e desfere um golpe devastador, atingindo-os com fúria trovejante. Este ataque ignora armaduras sem encantamentos, causando 4d10+5 de dano elétrico em cada alvo.\n\nAtiva-se com PV<25\n\n× A CD de ataque para atingir Thor aumenta em +2.\n\n× Thor recebe +4 em todas as rolagens de dano e ataca duas vezes por rodada.\n\n× Thor fica imune a todas as condições.\n\n× Ele se regenera d6PV a cada golpe que acertar (até um máximo de 25PV).\n\nThor",
+        "quantity": 1,
+        "slots": 0,
+        "price": 0,
+        "equipped": false,
+        "damage": "1d6",
+        "attribute": "forca",
+        "category": 0,
+        "reduction": "0",
+        "agilityPenalty": 0,
+        "source": "Berserkr — Livro Básico, PDF p. 92 (páginas impressas 182–183).",
+        "realm": "",
+        "spell": "",
+        "inscription": "",
+        "classModifiers": {
+          "fortitude": 0,
+          "forca": 0,
+          "astucia": 0,
+          "agilidade": 0,
+          "esperteza": 0
+        },
+        "hpFormula": "",
+        "destinyFormula": "",
+        "startingEquipment": "",
+        "featureRefs": []
+      },
+      "effects": [],
+      "_key": "!actors.items!59135ba9fb550d8e.ebf997a7c871a500"
+    }
+  ],
+  "effects": [],
+  "prototypeToken": {
+    "name": "Thor",
+    "texture": {
+      "src": "systems/berserkr-rpg/assets/tokens/divindades/thor.webp"
+    },
+    "actorLink": false,
+    "disposition": -1,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "displayBars": 20
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "berserkr-rpg": {
+      "handoutUuid": "Compendium.berserkr-rpg.handouts.JournalEntry.73591fa599e1ceda"
+    }
+  },
+  "folder": "851ef43e69963a82",
+  "_key": "!actors!59135ba9fb550d8e"
+}

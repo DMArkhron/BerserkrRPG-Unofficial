@@ -1,0 +1,39 @@
+{
+  "_id": "a633e7cfe0fa1417",
+  "name": "Sowilo",
+  "type": "rune",
+  "img": "systems/berserkr-rpg/assets/icons-custom/runes/a633e7cfe0fa1417.png",
+  "system": {
+    "description": "ᛲ — Sowilo\n\nFeitiço\nO poder do sol está na palma de sua mão. Quando você tocar em um inimigo, ele sofre d10 de dano e a armadura dele é reduzida em 1 categoria.\n\nInscrição em arma ou armadura\nLiberte energia radiante em uma onda ardente. Todos os inimigos que puderem vê-lo sofrem d6 de dano e cegueira por d4 rodadas.",
+    "quantity": 1,
+    "slots": 0,
+    "price": 0,
+    "equipped": false,
+    "damage": "1d6",
+    "attribute": "forca",
+    "category": 0,
+    "reduction": "0",
+    "agilityPenalty": 0,
+    "source": "Berserkr — Livro Básico, PDF p. 74 (páginas impressas 146–147).",
+    "realm": "",
+    "spell": "O poder do sol está na palma de sua mão. Quando você tocar em um inimigo, ele sofre d10 de dano e a armadura dele é reduzida em 1 categoria.",
+    "inscription": "Liberte energia radiante em uma onda ardente. Todos os inimigos que puderem vê-lo sofrem d6 de dano e cegueira por d4 rodadas.",
+    "classModifiers": {
+      "fortitude": 0,
+      "forca": 0,
+      "astucia": 0,
+      "agilidade": 0,
+      "esperteza": 0
+    },
+    "hpFormula": "",
+    "destinyFormula": "",
+    "startingEquipment": "",
+    "featureRefs": []
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!a633e7cfe0fa1417"
+}

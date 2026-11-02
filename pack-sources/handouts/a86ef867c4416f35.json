@@ -1,0 +1,28 @@
+{
+  "_id": "a86ef867c4416f35",
+  "name": "Jörmungandr",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "5f2958d0083929a4",
+      "name": "Jörmungandr",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/jormungandr.webp\" alt=\"Jörmungandr\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Jörmungandr</h2><p>Serpente do Mundo, colossal ameaça que emerge das águas. Seu corpo e seu veneno fazem do oceano um campo de destruição.</p><p><strong>Reino:</strong> Midgard</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.e399b4b65262b592]{Ficha de Jörmungandr}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!a86ef867c4416f35.5f2958d0083929a4"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.e399b4b65262b592"
+    }
+  },
+  "_key": "!journal!a86ef867c4416f35"
+}

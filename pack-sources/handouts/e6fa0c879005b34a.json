@@ -1,0 +1,28 @@
+{
+  "_id": "e6fa0c879005b34a",
+  "name": "Vidar",
+  "folder": "abab40f3afecd4de",
+  "pages": [
+    {
+      "_id": "aaa44bbea444b596",
+      "name": "Vidar",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/divindades/vidar.webp\" alt=\"Vidar\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Vidar</h2><p>Divindade de força silenciosa ligada à vingança. Sua determinação anuncia o acerto de contas que acompanha o Ragnarök.</p><p><strong>Reino:</strong> Asgard</p><p>@UUID[Compendium.berserkr-rpg.gods.Actor.246d6c4350c47697]{Ficha de Vidar}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!e6fa0c879005b34a.aaa44bbea444b596"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.gods.Actor.246d6c4350c47697"
+    }
+  },
+  "_key": "!journal!e6fa0c879005b34a"
+}

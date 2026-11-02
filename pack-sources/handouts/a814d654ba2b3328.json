@@ -1,0 +1,28 @@
+{
+  "_id": "a814d654ba2b3328",
+  "name": "Bergresi",
+  "folder": "708516675f586953",
+  "pages": [
+    {
+      "_id": "053cd1a6e82ee005",
+      "name": "Bergresi",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<figure><img src=\"systems/berserkr-rpg/assets/portraits/criaturas/bergresi.webp\" alt=\"Bergresi\" style=\"display:block;width:100%;max-height:850px;object-fit:contain\"></figure><h2>Bergresi</h2><p>Espírito elemental dos picos de Jötunheim. Move-se entre as pedras e faz a terra estremecer com deslizamentos e terremotos.</p><p><strong>Reino:</strong> Jötunheim</p><p>@UUID[Compendium.berserkr-rpg.bestiary.Actor.14f971016de4f620]{Ficha de Bergresi}</p>"
+      },
+      "sort": 0,
+      "_key": "!journal.pages!a814d654ba2b3328.053cd1a6e82ee005"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "sort": 0,
+  "flags": {
+    "berserkr-rpg": {
+      "actorUuid": "Compendium.berserkr-rpg.bestiary.Actor.14f971016de4f620"
+    }
+  },
+  "_key": "!journal!a814d654ba2b3328"
+}
